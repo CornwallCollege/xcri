@@ -1024,47 +1024,6 @@ Cornwall</mlo:address>
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA170</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Anodised Aluminium Jewellery</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA170</mlo:url>
-        <mlo:start dtf="2016-11-05">05 November 2016</mlo:start>
-        <end dtf="2016-11-05">05 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA172</dc:identifier>
         <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
         <dc:title>Silversmith &amp; Sea Glass workshop</dc:title>
@@ -2986,6 +2945,145 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p>The new GCSE English Language course gives learners the opportunity to explore a vibrant range of genres and writers. GCSE English Language is a very important qualification for your future employment and progression. Most employers and universities still require you to have a Grade 5 or above in GCSE English Language to apply for a place.</p>
+<p> </p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/214926</dc:identifier>
+      <dc:subject xsi:type=":Subject">Preparation for Life &amp; Work</dc:subject>
+      <dc:title>English Language AQA GCSE Level 2</dc:title>
+      <dc:type xsi:type=":Type" identifier="GC">GCSE</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/214926</mlo:url>
+      <abstract>GCSE English Language </abstract>
+      <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
+      <learningOutcome><![CDATA[<p>GCSE English Language provides a foundation for AS and A-level study as well as progression to other further and higher education courses.</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p>GCSE English Language will allow you to study a wide range of extracts from the 19th, 20th and 21st centuries, including literature and literary non-fiction.<br />You will develop your reading skills, evaluating texts critically and making comparisons between texts.<br />You will use the knowledge you gain from your reading to develop your own writing.<br />You will learn to write effectively and coherently using Standard English appropriately.</p>]]></mlo:objective>
+      <mlo:prerequisite><![CDATA[<p>The good news is you don’t need any formal qualifications or experience to gain entry onto this course. You will need a high degree of self-motivation and enthusiasm for the subject area. You will also be invited for an informal interview to determine suitability.</p>]]></mlo:prerequisite>
+      <mlo:qualification>
+        <dc:identifier>60131603</dc:identifier>
+        <abbr>GC</abbr>
+        <dcterms:educationLevel>2</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGC1ENE</dc:identifier>
+        <dc:subject>Preparation for Life &amp; Work</dc:subject>
+        <dc:title>English Language AQA GCSE (Part Time) (Evening)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGC1ENE</mlo:url>
+        <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
+        <mlo:start dtf="2016-09-11">12 September 2016</mlo:start>
+        <end dtf="2017-05-18">19 May 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="NoData" amount="TBC">
+            <dc:description>Please call our Enquiries Team for more details on this course.
+</dc:description>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="16-18">16-18</CD:sector>
+          <CD:sector type="Adult">Adult</CD:sector>
+        </sectors>
+        <studyMode identifier="FL">Flexible</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>any</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGC1ENG</dc:identifier>
+        <dc:subject>Preparation for Life &amp; Work</dc:subject>
+        <dc:title>English Language AQA GCSE Level 2</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGC1ENG</mlo:url>
+        <mlo:assessment>&lt;p&gt;The GCSE English course requires learners to sit two controlled assessments and one final exam.  The controlled assessments include understanding and producing creative texts and speaking and listening.&lt;/p&gt;</mlo:assessment>
+        <mlo:start dtf="2016-09-11">12 September 2016</mlo:start>
+        <end dtf="2017-05-18">19 May 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="NoData" amount="TBC">
+            <dc:description>Please call our Enquiries Team for more details on this course.
+</dc:description>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="16-18">16-18</CD:sector>
+          <CD:sector type="Adult">Adult</CD:sector>
+        </sectors>
+        <studyMode identifier="FL">Flexible</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>any</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+      <presentation>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGCENEJ</dc:identifier>
+        <dc:subject>Preparation for Life &amp; Work</dc:subject>
+        <dc:title>English Language AQA GCSE (Evening)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGCENEJ</mlo:url>
+        <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
+        <mlo:start dtf="2017-01-05">05 January 2017</mlo:start>
+        <end dtf="2017-05-17">18 May 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="NoData" amount="TBC">
+            <dc:description>Please call our Enquiries Team for more details on this course.
+</dc:description>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="16-18">16-18</CD:sector>
+          <CD:sector type="Adult">Adult</CD:sector>
+        </sectors>
+        <studyMode identifier="FT">Full Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>any</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/212172</dc:identifier>
       <dc:title>Spanish EDEXCEL GCSE</dc:title>
       <dc:type xsi:type=":Type" identifier="GC">GCSE</dc:type>
@@ -3104,63 +3202,6 @@ Cornwall</mlo:address>
           <CD:sector type="Adult">Adult</CD:sector>
         </sectors>
         <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>You will adhere to the dress standards required of a real working kitchen.</p><p>This is an ideal qualification for those who wish to explore their interest in the hospitality and catering sector. It will help develop knowledge and skills in food preparation and cooking and will gain practical experience in our college kitchen. You will be required to attain a selection of units:</p><p>Maintain a safe, hygienic and secure working</p><p>Work effectively as part of a hospitality team</p><p>Maintain food safety when storing, preparing and cooking food</p><p>Prepare and cook vegetables</p><p>Prepare hot and cold sandwiches</p>]]></dc:description>
-      <dc:description><![CDATA[<p><span><span>This is an ideal course for anyone interested in the hospitality and catering industry. The course will help to develop your attributes and skills within catering.</span></span></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211375</dc:identifier>
-      <dc:subject>Food, Cooking, Hospitality, Catering</dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Food preparation and Cooking CG NVQ Certificate Level 1 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C1">Certificate Level 1</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211375</mlo:url>
-      <learningOutcome><![CDATA[<p>On completion of this qualification you may progress on to the following courses:</p><ul><li>Introductory Diploma in Professional Cookery</li><li>Diploma in Professional Cookery</li><li>Diploma in Professional Food & Beverage Service</li><li>Skilled employment including Apprenticeships</li></ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span>This is a highly practical course where students will be assessed in a commercial kitchen environment.</span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><span>There are no formal entry requirements to gain a place on this course but you do need to have an interest in the hospitality & catering industry and be self motivated.</span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50097970</dc:identifier>
-        <abbr>C1</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCC1FPCK</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Food Preparation and Cooking City &amp; Guilds NVQ Certificate Level 1 </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCC1FPCK</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-08">09 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
@@ -7928,117 +7969,6 @@ Truro</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><strong>What the industry says....</strong></p>
-<p><em>"I studied journalism at Cornwall College six years ago - and still use the skills I learned there every day. The course dealt with the numerous disciplines needed to cover a news story, whether it be major incidents such as a gun seige or train crash - or lighter news such as the Beast of Bodmin or outrage at the WI. We were shown how to extract a story from the jargon or parish council meetings and how to walk the legal tightrope in potentially libellous cases. The classes in shorthand, possible the most valuable skill of all, were excellent, enabling us to catch the words of even the fastest talker. We were shown how to write clean, crisp copy, which caught the reader's attention - and then held it past the first few words. I found that I was fully equipped to deal with all aspects of the job ans went on to pass my senior exams two years later. I had a fantastic time studying in Cornwall and without doubt was given the best possible grounding for a career in newsprint."</em></p>
-<p><em> </em>Luke Mendham (ex-News of the World)</p>
-<p><em>"This course was a revelation. I learned just about everything you need to know to get a first job on a paper. The course tutor's contacts were invaluable in helping me to find the right work experience placements and make essential contacts. The strong reputation of the course meant that I was able to get my first job on a daily regional paper. The tutor's no-nonsense approach prepares you for the reality of working on a paper. You get all of the essential skills you need and the knowledge to know how to use them."</em></p>
-<p> Miles Davis (Western Morning News)</p>]]></dc:description>
-      <dc:description><![CDATA[<p>This vocational course is for anyone wishing to work as a journalist in newspapers, magazines or online. The National Council for the Training of Journalists (NCTJ) is the industry's main training body. Cornwall College was one of the earliest accredited courses and one of the first to offer the fast-track. We also have a history of excellent exam results and post-course employment. This qualification has fast-track or one year delivery options.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":support"><![CDATA[<p>The Journalism Diversity Fund is aimed at people from diverse backgrounds who need help funding their journalism training.</p>
-<p><span style="line-height: 1.4;">Candidates must be from a socially or ethnically diverse background, be able to demonstrate genuine commitment to becoming a successful journalist and have secured a place on an NCTJ-accredited course.</span></p>
-<p><span style="line-height: 1.4;">For more information, please visit </span><a style="line-height: 1.4;" href="http://www.journalismdiversityfund.com/">http://www.journalismdiversityfund.com/</a></p>
-<p><img src="/sites/default/files/images/WEBSITE%20IMAGES/jdf%20logo%20white%20on%20black%20-%20Copy%20%28271x271%29.jpg" alt="Journalism" width="271" height="271" /></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/102620</dc:identifier>
-      <dc:subject>journalism media internet newspaper magazine reporter reporting video digital news features writing</dc:subject>
-      <dc:subject xsi:type=":Subject">Arts, Media &amp; Performing Arts</dc:subject>
-      <dc:title>Journalism NCTJ Diploma Level 3</dc:title>
-      <dc:type xsi:type=":Type" identifier="P3">Diploma Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/102620</mlo:url>
-      <abstract>Cornwall College was one of the earliest accredited courses and one of the first to offer the fast-track</abstract>
-      <mlo:assessment>&lt;p&gt;NCTJ Diploma exams, portfolio and coursework.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p><span style="line-height: 1.4;">http://www.youtube.com/watch?v=U-4-BrwLqEA&feature=share&list=UU225eusfjvRCb71XvC2uDVA</span></p>
-<p>Successful students can expect to find work as a reporter writing for newspapers, magazines, news agencies and websites. There are also many opportunities to develop your skills in radio and television. Over the past decade more than 80% of our students have gone straight into jobs as reporters and we have featured as the top further education college for exam results. After sitting your NCTJ Part 1 exams on the course you will be expected to do 18 months in the industry before sitting the NCTJ National Qualification in Journalism exam (NQJ). Passing this exam gives you senior reporter status. Cornwall College has trained more than 550 reporters and now has former students working with national newspapers, magazines, news agencies, online and a range of provincial newspapers around Britain, as well as in radio, television, public relations and marketing. Former students from the course are working for organisations as diverse as the BBC, the Daily Star and Oxfam. The course provides excellent links with the local media, with many of the journalists in the Duchy trained at Cornwall College.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will study multi-platform journalism, including newspaper and magazine writing, online, video reporting and editing, newspaper law, central and local government, shorthand (teeline) up to 100 words per minute, with opportunities to develop skills in other areas such as keyboard skills, design and page layout. You will follow the National Council for the Training of Journalists (NCTJ) Diploma in Journalism course; assessment will be by formal NCTJ exams and a portfolio of news, feature and video reports. Successful completion of each subject will result in an NCTJ Diploma. The NCTJ is a practical based course which is very much hands on, where students will be expected to produce real stories for news products on a weekly basis. Work experience is a crucial element of the course and successful applicants will have the opportunity to spend a day a week throughout the course working in the industry.</p>
-<p><strong>Work Experience</strong></p>
-<p>Cornwall College has excellent contacts for professional, industry-based work experience placements with students studying the NCTJ fast-track being prioritised by Cornwall and Devon Media. Placements will help the next generation of journalists to get real newsroom experience. Jacqui Walls, editor of the West Briton and Cornishman, said: "We have employed some great students from Cornwall College. We have got a number of reporters out there now who have gone through the NCTJ qualification there and we have had reporters over the years who have gone on to great jobs on our other papers and beyond at the nationals.</p>
-<p>"The great thing for us is we have a local college who are providing the qualification we need to take on people as reporters."</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>For the fast track option, a degree or experience in a newsroom environment is preferable. All candidates will be interviewed and sit a national entrance exam. We are happy to consider candidates without the above qualifications if they can prove a commitment to the industry.</p>
-<p>For the one year option, a candidate will usually have a level 3 qualification. They should also have an interest in and commitment to journalism.  All candidates will be interviewed and sit a national entrance exam. This course is aimed at younger students and those with less industry experience as it allows study to take place over a longer period of time than the equivalent fast-track.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50111036</dc:identifier>
-        <abbr>P3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHP31JO1</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Journalism NCTJ Diploma Level 3 (Fast Track)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHP31JO1</mlo:url>
-        <mlo:assessment>&lt;p&gt;NCTJ Diploma exams, portfolio and coursework.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-03-03">03 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHP32JO1</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Journalism NCTJ Diploma Level 3 (1 Year)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHP32JO1</mlo:url>
-        <mlo:assessment>&lt;p&gt;NCTJ Diploma exams, portfolio and coursework.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-08">09 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p><span>Want to work in Television, Film, Journalism, Advertising, Radio, Web Design, Game Design or Animation? Then this is the course for you! Not only do you develop practical, technical and theoretical knowledge, but also the bonus is that it is a coursework-based course, meaning no exams!</span></p>
 <p><span>An Extended Diploma is the equivalent of 3 A-Levels. This course will particularly appeal to those learners who have an interest in studying media in a way that may be reflected within their own lives and experiences.Alongside this course you will study two additional courses. In year one you will undertake a BTEC National Award in Photography and during year two you will undertake a BTEC Certificate in Web Design, Animation and Game Design all of which carry valuable UCAS points, ensuring you get the university place you want, whilst also enhancing your CV with valuable credentials.</span></p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[212551,212571]]]></dc:description>
@@ -11727,46 +11657,6 @@ Cornwall</mlo:address>
           <CD:sector type="Adult">Adult</CD:sector>
         </sectors>
         <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CESGCAMAE</dc:identifier>
-        <dc:subject>Short Qualifications</dc:subject>
-        <dc:title>Mathematics (Linear) B AQA GCSE (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CESGCAMAE</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-21">22 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
@@ -15621,74 +15511,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This course is the first step for school leavers who are looking at starting a career in Beauty Therapy.</p>
-<p>You will learn the basics of pedicure, manicure, facials, waxing and make up treatments. A Beauty NVQ certificate gives you the techniques and experience to start a career in the beauty industry and if you are already working in beauty, you could develop your skills from salon assistant to expert therapist or make-up artist.</p>
-<p>After successfully completing the course, you will be a qualified  level 1 assistant.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211652</dc:identifier>
-      <dc:subject>Beauty, therapist, beautician, hair and beauty, aromatherapy, complementary therapy, massage, reflexology, spa therapy, make-up, treatments, tinting, manicures, facials, waxing, eyelash and brow treatments,</dc:subject>
-      <dc:subject xsi:type=":Subject">Hair &amp; Beauty</dc:subject>
-      <dc:title>Beauty Therapy CG NVQ Certificate Level 1 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C1">Certificate Level 1</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211652</mlo:url>
-      <abstract>This course is the first step for school leavers who are looking at starting a career in Beauty Therapy.</abstract>
-      <learningOutcome><![CDATA[<p>Cornwall College offers the complete pathway in Beauty Therapy and you could take your qualifications all over the world. Past students have gone on go on to managing their own salon, travel on cruise liners and teach. There are a number of opportunities available to you once you have the right set of qualifications; from beauty therapist or consultant to image and department advisor, merchandiser or product promoter.</p>
-<p>No single qualification covers all of the different services offered by a beauty therapist so once you have achieved your level 1, we would recommend that you develop your specialist skills by progressing onto other courses at Cornwall College.</p>
-<p>Beauty Therapy Techniques CG Diploma Level 2 or  Nail Services level 2 courses are all good options when you are considering up skilling.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will be learning in our purpose-built salons, training in a commercial environment and providing treatments to paying clients. From advising clients, providing facials, shaping brows and enhancing lashes, to carrying out waxing services and manicure and pedicure, you will be trained to industry standard.</p>
-<p>As well as the practical knowledge that you will gain from working on the job, our team of industry trained professionals will guide you through the theory offering their advice and demonstrating techniques in regular tutorials.</p>
-<p>You will also have the opportunity to work on reception, enhancing your work-based skills in customer service, product promotion and retail services.</p>
-<p>Assessments are carried out during practical lessons along with some on-line testing.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>You will need to have a minimum of 2 GCSEs at grade D - G, preferrably in English and Maths.</p>
-<p>At Cornwall College, we recognise that applicants can often offer a high level of competence as well as life experience and we will therefore consider all applications on their merits alongside their qualifications.</p>
-<p>If you are unsure as to whether or not you meet the requirements, please call the Beauty Department and ask to speak to the course manager who will be happy to discuss it with you.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50092844</dc:identifier>
-        <abbr>C1</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRBC1BEUT</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Beauty Therapy City &amp; Guilds NVQ Certificate Level 1</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRBC1BEUT</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-28">29 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>Swedish massage is the most common and best known type of massage in the west.  It is thought to reduce pain, joint stiffness and poor circulation and is the basis for other types of massage including sports massage.</p><p>This course is suitable for people who are serious about practicing professionally as a therapist in Swedish massage and is a good grounding for other types of massage. Applicants may be looking to advance in their profession.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/211793</dc:identifier>
       <dc:subject>Swedish Massage  Beauty  Therapy  Holistic</dc:subject>
@@ -15710,223 +15532,6 @@ Cornwall</mlo:address>
         <dc:subject>Hair &amp; Beauty</dc:subject>
         <dc:title>Swedish Massage Certificate Level 3</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CRBC33SMC</mlo:url>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Do you consider yourself artistic or to have creative flair? With nail boutiques becoming commonplace on the high street, this course will equip you with the essential skills to start employment in this fast growing industry. This is suitable for students new to the beauty industry wanting to become a nail technician in a nail bar or beauty salon.</p>
-<div>
-<p>Do you consider yourself artistic or to have creative flair? With nail boutiques becoming commonplace on the high street, this course will equip you with the essential skills to start employment in this fast growing industry. This is suitable for students new to the beauty industry wanting to become a nail technician in a nail bar or beauty salon.</p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/102726</dc:identifier>
-      <dc:subject>Acrylics manicure pedicure nail art, french tips,</dc:subject>
-      <dc:subject xsi:type=":Subject">Hair &amp; Beauty</dc:subject>
-      <dc:title>Nail Services CG NVQ Diploma Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/102726</mlo:url>
-      <abstract>Do you consider yourself artistic or to have creative flair?</abstract>
-      <learningOutcome><![CDATA[<div>
-<p>A Nail Services Diploma at level 2will give you the practical skills and knowledge to get your first job in the Nail Services industry. You could continue your studies with Cornwall College by upgrading to a level 3 where you will learn how to apply nail enhancements such as Minx nails. Alternatively, you may like to add to your new qualification with a one of our other beauty qualifications such as Beauty Therapy, Massage or Spa Therapy.</p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>You will be learning in our industry standard training salons, learning skills and techniques from a professional nail technician. From manicure and pedicure to nail art and extensions, you will learn everything you need to know to start practicing as a technician. You will complete a total of 8 units and assessments will be carried out during practical lessons. <br />You will also have the opportunity to develop your work based skills; working on the salon reception and treating clients in our fully equipped salon or if you study at Camborne, in our new Nail Bar. <br />Regular tutorials and demonstrations from teaching staff will embed your knowledge, giving you the confidence to practice in paid employment. <br />After successfully completing the course, you will be a qualified nail technician at level 2.</p>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>As this is an introductory course, applicants are not required to have any previous qualifications. At Cornwall College, we will always look for enthusiasm and motivation to succeed on the course. <br /><br /></p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>102726</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRBP22NFT</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Nail Services City &amp; Guilds NVQ Diploma Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRBP22NFT</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-29">30 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><strong>Ideal if:</strong> you would like a great foundation to your career in beauty therapy.</p>
-<p><strong>You'll need:</strong> at least two GCSEs at grade C or above, including English, Mathematics or Science, or an equivalent qualification.</p>
-<p><strong>You'll learn:</strong> excellent industry-level skills such as how to perform facials, waxing, pedicures and manicures, and client consultations.</p>
-<p><strong>Expect:</strong> to be continually assessed throughout your course through practical assignments and examinations.</p>
-<p><strong>You'll love:</strong> the regular tutorials and demonstrations in our purpose-built salons.</p>
-<p><strong>You'll go on to:</strong> an apprenticeship or further studies at level 3 on our Beauty Therapy Diploma.</p>
-<p align="LEFT"><span>This course is a VRQ and provides a great foundation for a career as a Beauty Therapist. You will be preparing for industry and are looking to get a good grounding in beauty therapy. This qualification will provide you with the essential salon skills to help you get employed in the industry.</span></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/210870</dc:identifier>
-      <dc:subject>Beauty, therapist, beautician, hair and beauty, aromatherapy, complementary therapy, massage, reflexology, spa therapy, make-up, treatments, tinting, manicures, facials, waxing, eyelash and brow treatments,</dc:subject>
-      <dc:subject xsi:type=":Subject">Hair &amp; Beauty</dc:subject>
-      <dc:title>Beauty Therapy CG Diploma Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/210870</mlo:url>
-      <abstract>This course is a VRQ and provides a great foundation for a career as a Beauty Therapist</abstract>
-      <learningOutcome><![CDATA[<div>
-<p>It is always an advantage to offer as many different treatments as possible to your clients, so once you have achieved your Level 2, we would recommend that you enhance your knowledge base and develop your skills by progressing onto other courses at Cornwall College.</p>
-<p>If you become employed in a salon, we would suggest that you take an NVQ to show that you have mastered your new skills. Beauty Therapy Techniques, Massage, Complimentary Therapy Techniques, Spa Therapy or a Nail Services course are all good options when you are considering up-skilling.</p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>You will be learning in our purpose-built salons, training in a commercial environment and learning beauty therapy techniques from industry professionals. They will demonstrate everything that you need to know and you will then practice the skills that you have been shown on friends and family.</p>
-<p>Eventually, you will be providing treatments to paying clients. From consultation, facials, pedicure, manicure, waxing, make up, eye lash and brow treatments, you will be trained to industry standards.</p>
-<p>You will also have the opportunity to develop your work-based skills, working on the salon reception, promoting products and practicing retail services.</p>
-<p>Regular tutorials and demonstrations from teaching staff will embed your knowledge, giving you the confidence to practice beauty therapy in paid employment.</p>
-<p>After successfully completing the course, you will be a qualified Beauty Therapist at Level 2.</p>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>Applicants for this course will have a minimum of two GCSE passes, including English and Maths. You do not need to be employed to take this course as it is classroom based.</p>
-<p>As with all courses, Cornwall College look for enthusiasm and motivation to succeed in the course.</p>
-<p>If you are employed in the industry, or are unsure as to whether you meet the requirements, please ring Cornwall College on 0845 2232567 and speak to one of our advisors who will be happy to discuss this with you.</p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50090768</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRBP22VQD</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Beauty Therapy City &amp; Guilds Diploma Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRBP22VQD</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-28">29 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>If you are already qualified to a level 2 standard and you are looking to upgrade your qualification, this course will help you to progress in your career as a Nail Technician. Not only do you develop your existing skills, but you will also train in nail art, gel and fibreglass nails. It is ideal if you want to be up to date with the very latest nail art procedures; and is a suitable qualification for those looking to set up their own freelance business or offer additional services within their salon.</p>
-<div>
-<p>If you are already qualified to a level 2 standard and you are looking to upgrade your qualification, this course will help you to progress in your career as a Nail Technician. Not only do you develop your existing skills, but you will also train in nail art, gel and fibreglass nails. It is ideal if you want to be up to date with the very latest nail art procedures; and is a suitable qualification for those looking to set up their own freelance business or offer additional services within their salon.</p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/210675</dc:identifier>
-      <dc:subject>fibreglass gel nails acrylic advanced nail techniques nail technician</dc:subject>
-      <dc:subject xsi:type=":Subject">Hair &amp; Beauty</dc:subject>
-      <dc:title>Nail Services CG NVQ Diploma Level 3 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P3">Diploma Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/210675</mlo:url>
-      <abstract>This course will help you to progress in your career as a Nail Technician</abstract>
-      <learningOutcome><![CDATA[<div>
-<p>After this course, you may wish to use your newly acquired skills to offer nail services within a salon or provide treatments as a freelance nail technician.</p>
-<p>It is always an advantage to offer as many different treatments as possible to your clients and at Cornwall College we offer a full range of Hair, Beauty and Holistic qualifications. You may like to think about one of our other beauty qualifications such as Beauty Therapy, Massage or Spa Therapy.</p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>This is a highly creative course, designed to develop your artistic flair. You will be training in a fully operational salon and retail environment, providing the very latest nail treatments to paying clients.</p>
-<p>The level 3 progresses on from the natural nail enhancements of the level 2 qualification. You will get to plan and create nail designs using liquid and powder, learn how to nail wrap and use UV gel to create Gel nails.</p>
-<p>Students also get to help operate the college nail bar enhancing your work skills and client contact. You will also need to collect case studies as part of your course, taking photos and documenting your work.</p>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>Applicants for this course will have a level 2 Nail Services qualification or equivalent in Manicure and Pedicure. As with all courses, Cornwall College look for enthusiasm and motivation to succeed on the course.</p>
-<p>If you are unsure as to whether or not you meet the requirements, please ring Cornwall College on 0845 2232567 and speak to one of our advisors who will be happy to discuss this with you.</p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>210675</dc:identifier>
-        <abbr>P3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRBP33NFT</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Nail Services City &amp; Guilds NVQ Diploma Level 3 </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRBP33NFT</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-05-30">31 May 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -16822,81 +16427,6 @@ Cornwall</mlo:address>
         <dc:title>Culinary Chef Diploma Level 2(Day Release)</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCP22APC</mlo:url>
         <mlo:start dtf="2016-09-11">12 September 2016</mlo:start>
-        <end dtf="2017-06-21">22 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><strong>Ideal if: </strong>you have experience working in food and beverage service and would like to improve your skills.  It will provide you with the knowledge and techniques you will need to work serving customers in a restaurant setting.  You'll also be studying at a college with Gold Accreditation, 2 Centre's of Excellence and an AA Highly Recommended Rosette.</p>
-<p><strong>You'll need: </strong>three GCSEs at grade C or above, including English and mathematics, or equivalent qualification.  Some work experience of the industry is helpful.</p>
-<p><strong>You'll learn: </strong>about key concepts in food and beverage service such as; principles of customer service, legislation in food and beverage service and bar service skills.</p>
-<p><strong>Expect: </strong>to be assessed throughout your course with a variety of assignments and projects.</p>
-<p><strong>You'll love: </strong>studying at the South West's best catering college, learning the art of making food and beverage service look easy!</p>
-<p><strong>You'll go onto: </strong>further studies on our Professional Cookery City & Guilds Diploma or an apprenticeship.</p>
-<p>This course will give you the skills required to gain employment in food and drink service. The Professional Food and Beverage Diploma is run in conjunction with the Introduction to Professional Cookery Diploma Level 2, so students who successfully complete the course will not only gain two qualifications, but a real insight into Food Preparation and Service.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/213698</dc:identifier>
-      <dc:subject>catering, food, cooking</dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Professional Food and Beverage Service CG Diploma Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/213698</mlo:url>
-      <abstract>If you have experience working in a restaurant and would like to improve your skills, this course will help.</abstract>
-      <mlo:assessment>&lt;p&gt;Your assignments and projects will be assessed throughout the course. There will also be practical examinations.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>On successful completion you will be better equipped to gain employment in the industry and be able to progress to:</p>
-<ul>
-<li>Advanced Professional Cookery City & Guilds Diploma (Kitchen & Larder)</li>
-<li>Food & Beverage Service Supervision</li>
-<li>Professional Patisserie & Confectionery City & Guilds Diploma</li>
-<li>An apprenticeship</li>
-</ul>
-<p> </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt;">This course will cover the vital skills required to enter the food and drink service sector. Not only will you gain the practical skills and knowledge but you will also gain the confidence and communication skills so vital in any walk of life.</span></p>
-<p>You will also study English and/or mathematics if you do not have a grade C or above at GCSE.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>Three GCSEs at grades A*-C (including English and mathematics) or equivalent qualification. Some experience of working in the industry is helpful.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60109932</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCP22VFS</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Food Service Diploma VRQ Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCP22VFS</mlo:url>
-        <mlo:assessment>&lt;p&gt;Your assignments and projects will be assessed throughout the course. There will also be practical examinations.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
         <end dtf="2017-06-21">22 June 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
@@ -17972,122 +17502,6 @@ Cornwall</mlo:address>
         <dc:subject>Hair &amp; Beauty</dc:subject>
         <dc:title>Women's Hairdressing City &amp; Guilds Certificate Level 2</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CRHC22WHC</mlo:url>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/212895</dc:identifier>
-      <dc:title>Barbering CG Diploma Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/212895</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>50088087</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRHP22BAD</dc:identifier>
-        <dc:title>Barbering City &amp; Guilds Diploma Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRHP22BAD</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-27">28 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>If you are interested in a career in barbering, this course will equip you with the latest skills and know how.</p>
-<p>This qualification that has been specifically designed to develop your practical skills in; the creative art of cutting men’s hair, the specialist work of cutting facial hair, how to provide effective shampooing and conditioning or styling services and how to offer a good consultation service for clients.</p>
-<p align="LEFT">The purpose of this qualification is to develop your practical skills to a high level of occupational ability to enable you to perform your own salon services.</p>
-<p><span><span></span></span></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/210927</dc:identifier>
-      <dc:subject>Hairdressing, hairdresser, hair dressing, hair dresser, barber, barbering, groom, grooming, hair, hair, up do, cutting, styling, dying, style, bangs, fringe, layering, </dc:subject>
-      <dc:subject xsi:type=":Subject">Hair &amp; Beauty</dc:subject>
-      <dc:title>Barbering CG NVQ Diploma Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/210927</mlo:url>
-      <learningOutcome><![CDATA[<p>Cornwall College offers the complete pathway in Barbering and you could take your qualifications further by progressing on to the barbering NVQ diploma level 3 or the hairdressing NVQ diploma level 3. Past students have gone on go on to managing their own salons, travel on cruise liners and teach.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will be hands-on from the first week. Learning in purpose-built salons, you will be training in a dynamic and commercial environment. From cutting and styling, advising clients and creating styles, you will be trained to industry standard.</p>
-<p>As well as the practical knowledge that you will gain from working on the job, our team of industry trained professionals will guide you through the theory offering their advice and demonstrating techniques in regular tutorials.</p>
-<p>Students on this course will also have the opportunity to work on reception, enhancing their work-based skills in customer service, product promotion and retail sales.</p>
-<p>Assessments are carried out during practical lessons along with some on-line testing.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>You will need to have a minimum of three GCSEs at grades A* - C (ideally in English and mathematics)</p>
-<p>At Cornwall College, we recognise that applicants without these qualifications can often offer a high level of competence as well as life experience and we will therefore consider all applications on their merits alongside their qualifications.</p>
-<p>If you are unsure as to whether or not you meet the requirements, please call the Hairdressing Department and ask to speak to the course manager who will be happy to discuss it with you.</p>
-<p> </p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50065671</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRHP2BAR1</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Barbering City &amp; Guilds NVQ Diploma Level 2 </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRHP2BAR1</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-06-28">29 June 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -21253,77 +20667,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><span><p>This qualification is assessed by the internal (centre marked) assessments. The learner must pass all the internal assessments of their chosen units to achieve the qualification. <span>Internal assessments test the practical skills and knowledge of the learners within the units. They are centre marked by members of the delivery team.</span></p></span></p>]]></dc:description>
-      <dc:description><![CDATA[<p><b><span><span><p><span><span> </span></span> Who is this qualification for?</p></span></span></b></p><ul><li value="0">Learners who may have a limited prior knowledge and understanding of the engineering sector but have the ability to     achieve a foundation level engineering qualification. </li><li value="0">Learners who wish to enter Further Education. </li><li value="0">Those who wish to progress to become an engineer. </li><li value="0">Learners who are thinking about engineering as a career but who would like some experience of the job role first. </li><li value="0">Those who are new to the industry or looking for a career change or wish to learn new skills. </li></ul>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211396</dc:identifier>
-      <dc:subject>Engineer, electrics, electrical, electrical engineering, technology, construction, performing,  manufacturing, operations,  </dc:subject>
-      <dc:subject xsi:type=":Subject">Engineering</dc:subject>
-      <dc:title>Engineering and Technology EMTA Certificate Level 1 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C1">Certificate Level 1</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211396</mlo:url>
-      <learningOutcome><![CDATA[<p>The course will allow progression onto a range of engineering and related courses to include:-</p>
-<p>Motor Vehicle IMI courses at Level 1&2</p>
-<p>Engineering Certificate in Engineering & Technology Level 2</p>
-<p>NVQ in Performing Engineering Operations Level 2</p>
-<p>Electrotechnical Certificate Level 2</p>
-<p>A range of Apprenticeships</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This qualification focuses on practical skills and knowledge. This ensures that when the learner completes the qualification they will have gained practical experience and some expectation of some of the situations that they could face in a job role within the engineering sector. This qualification has been designed to give a ‘hands on’ practical approach to basic engineering training. <span>It covers the foundation level knowledge and understanding of a range of engineering competencies.</span></p>
-<p><span> </span></p>
-<p><span>You will cover five units of Performing Engineering Operations, supported by a technical certificate:</span></p>
-<p><span>• Working Safely in an engineering environment</span></p>
-<p><span>• Carrying out engineering activities efficiently and effectively</span></p>
-<p><span>• Using and communicating technical information</span></p>
-<p><span>• Making components using hand tools and fitting techniques</span></p>
-<p><span>• Using lathes for turning operations</span></p>
-<p><span> </span><span>• Assembling electrical wiring support systems</span></p>
-<p><span>In addition to the PEO, within the technical certificate you will be covering centre lathe turning, welding and fabrication, maths and science.  </span></p>
-<p><span></span> </p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>4 E-D′s in GCSE or above including Maths and English.  To be determined upon initial assessment.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50103866</dc:identifier>
-        <abbr>C1</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTEC1EN14</dc:identifier>
-        <dc:subject>Engineering</dc:subject>
-        <dc:title>Engineering and Technology EMTA Certificate Level 1</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTEC1EN14</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2018-06-23">24 June 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Schools">Schools</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>14-16</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[It is aimed at practising electricians who have not carried out inspection and testing since qualifying or who require some update training before going on to achieve the City & Guilds Level 3 Certificate in inspection, testing and certification of electrical installations (2391-10). It is also suitable for those with limited experience of inspection and testing of electrical installations, such as those:, 	Entering the industry from other engineering disciplines, 	Working in allied trades]]></dc:description>
       <dc:description xsi:type=":structure"><![CDATA[You will study this course by attending College for three hours each week, for duration of ten weeks.]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/101874</dc:identifier>
@@ -23105,42 +22448,6 @@ Cornwall
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DCCNNPDG2</dc:identifier>
-        <dc:subject>Animal Management &amp; Veterinary Nursing</dc:subject>
-        <dc:title>Dog Grooming College Certificate Level 2 (Group 1)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DCCNNPDG2</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2016-11-29">29 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Rosewarne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Rosewarne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR14 0AB</mlo:postcode>
-              <mlo:address>Rosewarne
-Camborne
-Cornwall 
-
-</mlo:address>
-              <mlo:phone>(01209) 722100</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
     </course>
     <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>This course is part-time, running one day per week (6 hours per day) over 36 weeks commencing in September 2011. You will need to have purchased you own set of grooming equipment and a grooming tunic.  We can advise you about this when you start the course.</p>]]></dc:description>
@@ -23674,70 +22981,6 @@ Cornwall
         <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>WB</attendanceMode>
         <attendancePattern>UNK</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Rosewarne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR14 0AB</mlo:postcode>
-              <mlo:address>Rosewarne
-Camborne
-Cornwall 
-
-</mlo:address>
-              <mlo:phone>(01209) 722100</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>This course is ideal for those entering the floristry industry and wish to gain a wide range of floristry skills. It aims to provide college based learners with the skills they need for a career in floristry while gaining some work experience in the industry. This qualification is well used and respected in the industry.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/102481</dc:identifier>
-      <dc:subject>floristry, florist, flowers, flower, flower arranging</dc:subject>
-      <dc:subject xsi:type=":Subject">Floristry</dc:subject>
-      <dc:title>Floristry City &amp; Guilds (NPTC) Diploma Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/102481</mlo:url>
-      <abstract>This course is ideal for those entering the floristry industry and wish to gain a wide range of floristry skills</abstract>
-      <learningOutcome><![CDATA[<p>On successful completion you may progress to:</p>
-<p>Floristry City & Guilds Diploma Level 3</p>
-<p>Floristry Apprenticeship</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>The subject you will study include:</p>
-<p>Art and Design<br />Introduction to plants and their care<br />Practical floristry<br />Promotional displays</p>
-<p>You will also carry out a minimum of 40 hours of industry experience.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><span style="line-height: 1.4;">Applicants should have a keen interest in developing skills within the floristry sector.  All students are interviewed on suitability for the course.</span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50063601</dc:identifier>
-        <abbr>P2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DCJP2FFL2</dc:identifier>
-        <dc:subject>Floristry</dc:subject>
-        <dc:title>Floristry City &amp; Guilds (NPTC) (0351) Diploma Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DCJP2FFL2</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-07-04">05 July 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Rosewarne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
         <age>any</age>
         <venue>
           <provider>
@@ -44445,186 +43688,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>The new GCSE English Language course gives learners the opportunity to explore a vibrant range of genres and writers. GCSE English Language is a very important qualification for your future employment and progression. Most employers and universities still require you to have a Grade 5 or above in GCSE English Language to apply for a place.</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214926</dc:identifier>
-      <dc:subject xsi:type=":Subject">Preparation for Life &amp; Work</dc:subject>
-      <dc:title>English Language AQA GCSE Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="GC">GCSE</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214926</mlo:url>
-      <abstract>GCSE English Language </abstract>
-      <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>GCSE English Language provides a foundation for AS and A-level study as well as progression to other further and higher education courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>GCSE English Language will allow you to study a wide range of extracts from the 19th, 20th and 21st centuries, including literature and literary non-fiction.<br />You will develop your reading skills, evaluating texts critically and making comparisons between texts.<br />You will use the knowledge you gain from your reading to develop your own writing.<br />You will learn to write effectively and coherently using Standard English appropriately.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>The good news is you don’t need any formal qualifications or experience to gain entry onto this course. You will need a high degree of self-motivation and enthusiasm for the subject area. You will also be invited for an informal interview to determine suitability.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60131603</dc:identifier>
-        <abbr>GC</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGC1ENE</dc:identifier>
-        <dc:subject>Preparation for Life &amp; Work</dc:subject>
-        <dc:title>English Language AQA GCSE (Part Time) (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGC1ENE</mlo:url>
-        <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-11">12 September 2016</mlo:start>
-        <end dtf="2017-05-18">19 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGC1ENG</dc:identifier>
-        <dc:subject>Preparation for Life &amp; Work</dc:subject>
-        <dc:title>English Language AQA GCSE Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGC1ENG</mlo:url>
-        <mlo:assessment>&lt;p&gt;The GCSE English course requires learners to sit two controlled assessments and one final exam.  The controlled assessments include understanding and producing creative texts and speaking and listening.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-11">12 September 2016</mlo:start>
-        <end dtf="2017-05-18">19 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGCENEJ</dc:identifier>
-        <dc:subject>Preparation for Life &amp; Work</dc:subject>
-        <dc:title>English Language AQA GCSE (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGCENEJ</mlo:url>
-        <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-01-05">05 January 2017</mlo:start>
-        <end dtf="2017-05-17">18 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YCFGCAENG</dc:identifier>
-        <dc:subject>Preparation for Life &amp; Work</dc:subject>
-        <dc:title>English Language AQA GCSE (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YCFGCAENG</mlo:url>
-        <mlo:assessment>&lt;p&gt;The GCSE English course requires learners to sit two controlled assessments and one final exam.  The controlled assessments include understanding and producing creative texts and speaking and listening.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-05-29">30 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216371</dc:identifier>
       <dc:title>Progression to Further Study in Health Science Professions AptEd Diploma Level 2</dc:title>
       <dc:type xsi:type=":Type" identifier="P2">Diploma Level 2</dc:type>
@@ -50574,41 +49637,6 @@ Cornwall</mlo:address>
         <dcterms:educationLevel>2</dcterms:educationLevel>
       </mlo:qualification>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2CAAD</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIC2CAAD</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2CAAE</dc:identifier>
         <dc:subject>Business, Administration &amp; Law</dc:subject>
         <dc:title>Accounting AAT Certificate Level 2 (Evening)</dc:title>
@@ -50624,45 +49652,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Business</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2CWAD</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Certificate Level 2 (Apprentice)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIC2CWAD</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
         <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
@@ -50791,41 +49780,6 @@ Cornwall</mlo:address>
         </venue>
       </presentation>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2YAAE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Certificate Level 2 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIC2YAAE</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2AAAE</dc:identifier>
         <dc:subject>Business, Administration &amp; Law</dc:subject>
         <dc:title>Accounting AAT Certificate Level 2 (Evening)</dc:title>
@@ -50931,45 +49885,6 @@ Cornwall
               <mlo:address>Tregonissey Road
 St Austell
 Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Business</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIC2YWAE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Certificate Level 2 (Apprentice) (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIC2YWAE</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
@@ -51109,42 +50024,6 @@ Cornwall</mlo:address>
         </venue>
       </presentation>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP3CAAE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Diploma Level 3 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIP3CAAE</mlo:url>
-        <mlo:assessment>&lt;p&gt;Test assessment&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2018-03-06">06 March 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:description xsi:type="CD:courseCategory">Business</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP3CWAD</dc:identifier>
         <dc:subject>Business, Administration &amp; Law</dc:subject>
@@ -51153,46 +50032,6 @@ Cornwall</mlo:address>
         <mlo:assessment>&lt;p&gt;Test assessment&lt;/p&gt;</mlo:assessment>
         <mlo:start dtf="2016-09-06">07 September 2016</mlo:start>
         <end dtf="2017-10-06">07 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Business</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP3CWAE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Diploma Level 3 (Apprentice) (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIP3CWAE</mlo:url>
-        <mlo:assessment>&lt;p&gt;Test assessment&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2018-03-06">06 March 2018</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -51254,41 +50093,6 @@ Cornwall</mlo:address>
 Saltash
 Cornwall
 </mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP3AAAD</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Diploma Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIP3AAAD</mlo:url>
-        <mlo:assessment>&lt;p&gt;Test assessment&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
@@ -51590,41 +50394,6 @@ Cornwall</mlo:address>
 Pool
 Redruth
 Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP4YAAD</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Diploma Level 4</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIP4YAAD</mlo:url>
-        <mlo:start dtf="2016-09-05">06 September 2016</mlo:start>
-        <end dtf="2017-10-05">06 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
