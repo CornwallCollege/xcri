@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-08T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-09T10:05:09Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -10424,8 +10424,7 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>If you want to begin to play the guitar, this course will start you off on the right track. </p>
 <p>Thursday evenings from 7.00pm to 9.00pm.</p>
-<p>5 weeks starting on 06.10.16 - course fee £50.00</p>
-<p>5 weeks starting on 23.02.17 - course fee £50.00</p>]]></dc:description>
+<p> </p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[214944]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214947</dc:identifier>
       <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
@@ -10434,55 +10433,12 @@ Cornwall</mlo:address>
       <mlo:url>http://www.cornwall.ac.uk/course/214947</mlo:url>
       <abstract>If you want to begin to play the guitar, this course will start you off on the right track. </abstract>
       <learningOutcome><![CDATA[<p>After this course you can enrol on our Guitar Improvers course.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Including Rock Blues and Pop styles suitable for electric or acoustic guitars.  Plus what to look for when buying an instrument.  Some music theory will be discussed but you don't need prior knowledge.  Suitable for beginners and for those with some experience.</p>
-<p>You will require a guitar for this course and If you already have one please bring it along with you to the first lesson. However some guitars may be available for students to use and the tutor will advise you at the first lesson what type of guitar to buy. Please let us know in advance if you may need to borrow a guitar.</p>]]></mlo:objective>
+      <mlo:objective><![CDATA[<p>Including Rock Blues and Pop styles suitable for electric or acoustic guitars.  Plus what to look for when buying an instrument.  Some music theory will be discussed but you don't need prior knowledge.  Suitable for beginners and for those with some experience.</p>]]></mlo:objective>
       <mlo:qualification>
         <dc:identifier>Z0001754</dc:identifier>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1E20</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Guitar - Getting Started (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1E20</mlo:url>
-        <mlo:start dtf="2016-10-05">06 October 2016</mlo:start>
-        <end dtf="2016-11-09">09 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1E21</dc:identifier>
