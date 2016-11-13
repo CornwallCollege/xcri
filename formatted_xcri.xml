@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-12T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-13T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -3038,6 +3038,127 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p><strong>Ideal if: </strong>you wish to develop your practical skills and learn contemporary techniques in the production of fermented dough products, petit fours, paste products, desserts, chocolate and sugar work.</p>
+<p><strong style="line-height: 1.4;">You'll need: </strong>a level 2 qualification in Professional Cookery or equivalent, or expeience in the catering industry.</p>
+<p><strong>You'll learn: </strong>from a combination of practical and theoretical units which will be delivered inan excellent industry-level environment. In addition to developing practical skills and contemporary techniques in patisserie and confectionery, you will also study the nutritional values of foods and ingredients, management and supervisory skills, successful kitchen management and how to store, prepare and cook food safely.</p>
+<p><strong>Expect: </strong>to be assessed throughout your course through assignments, projects and practical examinations.</p>
+<p><strong>You'll love: </strong>that whatever your passion, or specialism, we will help hone your talents and bring out the gastronomist in you, with a number of culinary and food foraging trips, restaurant visits and the organisation of a Gastronomy Fair.</p>
+<p><strong>You'll go onto: </strong>employment or university study such as our Foundation Degree in Hospitality and Tourism.</p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/210734</dc:identifier>
+      <dc:subject>Cookery Patisserie Confectionery Food Professional Diploma Catering Chef Cooking Cake Pastry Chocolate</dc:subject>
+      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
+      <dc:title>Patisserie and Bakery Skills CG Diploma Level 3</dc:title>
+      <dc:type xsi:type=":Type" identifier="P3">Diploma Level 3</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/210734</mlo:url>
+      <abstract>Develop your practical skills in a variety of techniques associated with desserts, chocolate and sugar work</abstract>
+      <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
+      <learningOutcome><![CDATA[<p>After successfully completing the NVQ 3 and with sufficient industry experience you will have the opportunity to progress onto a Foundation Degree. This qualification will also enable you to apply for positions in first class establishments with the knowledge that the qualification will enhance your job prospects.</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p>You will be attending the college for one day a week, developing the advanced techniques for working nationally and internationally in Patisserie and Confectionery.  You will be training in fully equipped, industry standard kitchens, gaining further experience servicing our silver service restaurants and learning in a highly innovative environment where creativity and enthusiasm is actively encouraged.</p>
+<p>Areas of study will include:</p>
+<ul>
+<li>Bread and Dough Products. From sour dough to focaccia, to doughnuts and lardy cake.</li>
+<li>Cakes, Sponges, Biscuits and Scones. This will include Christmas cakes, brandy snaps, yule logs, macaroons and many types of cakes and gateaux.</li>
+<li>Sweet and Savoury Pastry Products such as strudels and suet puddings.</li>
+<li>Chocolate Products. This will include truffles, marshmallows, moulding chocolate in all sorts of shapes as well as making chocolate flowers and figures. </li>
+<li>Marzipan, pastillage and sugar products. Not only will you be modelling and moulding using many types of mediums such as icing, sugar paste, boiled sugar, fondant and more, you will also be using a variety of skills such as casting, moulding, piping and dipping.</li>
+<li>Hot Deserts, steamed sponges, various apple dishes, soufflés, classics puddings and the rich sauces to match.</li>
+<li>Cold Deserts, cheesecakes and mousses, charlottes and jellies, sorbets, ice creams, parfaits, frozen soufflés and much more.</li>
+<li>Sauces, fillings and coatings. Creams, fillings, sauces, glazes, sabayons, meringues.</li>
+<li>Functional skills</li>
+<li>ERR</li>
+<li>CIEH level 3 food safety award</li>
+<li>Sustainability in Professional Kitchens level 3</li>
+<li>Food science</li>
+<li>Product development and food costing</li>
+<li>Allergen training</li>
+<li>Artisan bakery workshop</li>
+<li>Chocolate from bean to bar</li>
+</ul>
+<p>The list covers a multitude of all sorts of confections to raise your skill level.</p>]]></mlo:objective>
+      <mlo:prerequisite><![CDATA[<p>There are no formal entry requirements. However, because of the advanced nature of the course it is advisable that you are either the holder of NVQ level-2 Food Preparation and Production or City and Guilds 706/1 and 706/2 or are already working in a first class establishment. Equally, you can be a mature student who may never have attended college and would like to gain a nationally recognised qualification. In all cases real enthusiasm for the industry and a love of food is vital.</p>]]></mlo:prerequisite>
+      <mlo:qualification>
+        <dc:identifier>210734</dc:identifier>
+        <abbr>P3</abbr>
+        <dcterms:educationLevel>3</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCP3WATA</dc:identifier>
+        <dc:subject>Catering &amp; Hospitality</dc:subject>
+        <dc:title>Patisserie and Bakery Skills Diploma Level 3 (19+)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCP3WATA</mlo:url>
+        <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="NoData" amount="TBC">
+            <dc:description>Please call our Enquiries Team for more details on this course.
+</dc:description>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Adult">Adult</CD:sector>
+        </sectors>
+        <studyMode identifier="FL">Flexible</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>any</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Business</dc:description>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCP3WATN</dc:identifier>
+        <dc:subject>Catering &amp; Hospitality</dc:subject>
+        <dc:title>Patisserie and Bakery Skills Diploma Level 3 (Apprenticeship)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCP3WATN</mlo:url>
+        <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="NoData" amount="TBC">
+            <dc:description>Please call our Enquiries Team for more details on this course.
+</dc:description>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Adult">Adult</CD:sector>
+        </sectors>
+        <studyMode identifier="FL">Flexible</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>any</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:description><![CDATA[<p><span>Chefs looking to develop their skills and bring a modern feel to their cooking.</span></p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216187</dc:identifier>
@@ -5214,137 +5335,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p><span>Campus: The Eden Project (subject to Plymouth University site approval)</span></p>
-<p><span>This programme is designed for those with an emerging passion for garden and landscape design. It will enable you to pursue a career within this creative industry and will also appeal to those who wish to gain a deeper understanding of garden and landscape design for more holistic reasons. This HNC enables you to integrate art and design with core knowledge of horticulture, earth sciences and landscape technology. Innovative and imaginative design practice is encouraged from day one. </span></p>
-<p><span>The programme of study and student experience are greatly enhanced through the collaboration between Duchy College and the Eden Project. The mixture of resources including Eden's plant collections, growing environments, nursery and new dedicated teaching facilities coupled with the nationally renowned micro-propagation research facility of Duchy College Rosewarne, provide a world class platform from which this exciting and stimulating programme will be delivered.</span></p>
-<p><span>The programme will develop your knowledge and skills, to meet the diverse and different aspects of art and science that garden design encompasses. If you are looking for a rewarding career where you can have significant influence on the environment and the quality of people's lives then this programme is for you.  </span></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>Core Modules</p>
-<p>CORR135 Horticultural Science (20 Credits)</p>
-<p>CORR136 Design Communication: Tools and Techniques (20 Credits)</p>
-<p>CORR137 Practical Horticulture for Designers (20 Credits)</p>
-<p>CORR138 Design Foundations - Garden & Landscape (20 Credits)</p>
-<p>CORR139 Garden & Landscape Design 1: Foundations - Space, Place and User (20 Credits)</p>
-<p>FHOR105 Plant Use in Design (20 Credits)</p>
-<p>CORC1013 Personal and Employability Skills Development (20 Credits)</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216345</dc:identifier>
-      <dc:subject>HNC, garden, garden design, lanscaper, landscape designing, horticulture, floristry, florist, flowers, plants, planting</dc:subject>
-      <dc:subject xsi:type=":Subject">Horticulture</dc:subject>
-      <dc:title>HNC Garden and Landscape Design</dc:title>
-      <dc:type xsi:type=":Type" identifier="HC">Higher National Certificate</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216345</mlo:url>
-      <abstract>This programme is designed for those with an emerging passion for garden and landscape design.</abstract>
-      <learningOutcome><![CDATA[<p><span>The Higher National Certificate  will be awarded to a student who has successfully completed 120 credits at Level four.  </span></p>
-<p>As a HNC graduate you will have a wide choice of career opportunities throughout the private and public sectors, both in the United Kingdom and abroad.  Plymouth University, Cornwall College and Duchy College students enjoy a good record for the employability of their graduates but it will be up to you to make the effort and find a job. You will need to start thinking about your career and planning early on in your course.</p>
-<p>By studying a HND/C course, you have a range of graduate opportunities within industrial and commercial organisations where a broad-based and work-related education is desirable. You may not, however, want to go straight into employment after your studies at the college are over. One option is to continue studying, probably by progressing onto an Honours Degree. Another is to gain a professional qualification.</p>
-<p>Please remember that the tutors delivering the HND/C in Garden & Landscape Design have much relevant industrial and career experience between them so do not be afraid to ask for advice about career opportunities and direction. Rosewarne is unique in that it has a working commercial and nursery stock unit. Again staff involved in these units can provide valuable information regarding career opportunities.</p>
-<p>As a qualified horticulturist you may have the choice of employment in the following areas, when combined with the correct work experience:-</p>
-<ul>
-<li><strong>Garden Designer</strong></li>
-<li><strong>Landscape Designer</strong></li>
-<li><strong>Landscape Technician</strong></li>
-<li><strong>Landscaper in Landscape Construction</strong></li>
-<li><strong>Municipal (Parks/Local Authority)</strong></li>
-<li><strong>Education</strong></li>
-<li><strong>Therapy</strong></li>
-<li><strong>Sporting Venues (Golf/Football/Cricket etc)</strong></li>
-</ul>
-<p>Our Careers Service is available to give information, advice and guidance on all aspects of education, training and career progression. </p>
-<p>Tel: 01209 616270 Monday, Tuesday and Thursday (9am- 4pm) </p>
-<p>Email: <a href="mailto:careers@cornwall.ac.uk">careers@cornwall.ac.uk</a></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Garden design is a rich and diverse subject. This programme aims to integrate the creativity of art and design with core knowledge of horticulture, earth sciences and landscape technology.</p>
-<p>Sustainability and environmental enrichment are key features of the programme. This includes working within our designated garden design studio where you will have the opportunity to develop your design skills to a professional standard.</p>
-<p>You will also have an opportunity to research the history of gardens and landscapes, evaluate contemporary issues in garden design and build up your plant knowledge: an essential element of garden design.</p>
-<p>Work-based and work-related learning is integral to the programme, giving you up-to-date knowledge and skills to enhance your employability within the garden design industry. The programme will make use of the wide and extensive links the College has with The Great Gardens of Cornwall consortium you will have the opportunity to gain actively managed work experience whilst studying.</p>
-<p>Based at the Eden Project, the HNC is run over three days per week allowing you to gain part-time employment within the industry, this helps towards a greater understanding of the sector as well as helping your finances. During a typical day you can expect a mix of formal lectures, practicals, visits, guest speakers and individual study time.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>120 UCAS points from AS and A-Levels (at least 80 points must be at A2-level) or relevant level 3 qualification i.e. BTEC National Diploma/BTEC Extended Diploma - PPP Grades required. Access to HE Diplomas - 45 credits at level 3.  Plus GCSEs at grade C or above in English language and mathematics: alternatives at Level 2 may be considered.</p>
-<p>Mature applicants with relevant experience but without the stated qualifications will be considered individually and are encouraged to apply.</p>
-<p>Previous learning and experience may be credited. If in doubt, call 0845 22 32 567 or email <a href="mailto:enquiries@cornwall.ac.uk">enquiries@cornwall.ac.uk</a>.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00246648</dc:identifier>
-        <abbr>HC</abbr>
-        <dcterms:educationLevel>4</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <mlo:credit>
-        <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
-        <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 4</level>
-        <value xmlns="http://purl.org/net/cm">120</value>
-      </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHCFGLD</dc:identifier>
-        <dc:subject>Horticulture</dc:subject>
-        <dc:title>HNC Garden and Landscape Design (Full Time)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHHCFGLD</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2017-06-08">09 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Eden Project</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL24 2SG</mlo:postcode>
-              <mlo:address>Bodelva, St Austell, Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHCPGLD</dc:identifier>
-        <dc:subject>Horticulture</dc:subject>
-        <dc:title>HNC Garden and Landscape Design (Part Time)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHHCPGLD</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2018-06-07">08 June 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Eden Project</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL24 2SG</mlo:postcode>
-              <mlo:address>Bodelva, St Austell, Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>This course is a module (CFDMD110) from a Skillset accredited FdA Multimedia design course. It is worth 20 credits and is awarded by Plymouth University.</p>
 <p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p>This course is for business owners, managers and designers who wish to explore advertising, branding, editorial and typographic methods to create imagery ready for print or web media.</p>]]></dc:description>
@@ -5832,74 +5822,6 @@ Truro</mlo:address>
           </CE:cost>
         </Costs>
         <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>This access to higher education science diploma course is designed principally for adults of 19 or over who seek a career in a medical discipline.  It will prepare you to undertake a University Higher Education Programme in your chosen field. There is a very high level of academic and personal support throughout the course, which can help if you need to combine study with part-time employment and family commitments.</p>
-<p><strong>For more details or an informal chat, please contact Steve Brown on 01209 617508 or email </strong><a href="mailto:steve.brown@cornwall.ac.uk"><strong>steve.brown@cornwall.ac.uk</strong></a></p>
-<p><strong>We strive to timetable lectures, wherever possible, between the hours of 9:30am and 3pm to fit in with family commitments.</strong></p>
-<p> <strong>Help and support</strong></p>
-<p>We also support you through the university application process with tutorials. These are designed to offer guidance and support throughout your course. We do however recommend checking the entry requirements for your course at your preferred university</p>
-<p> </p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>Attendance at the College is required three days per week for one year. Assessment is principally by assignment, although there are also timed tests and at least one extended piece of coursework.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214728</dc:identifier>
-      <dc:subject xsi:type=":Subject">Science</dc:subject>
-      <dc:title>Physiotherapy AptEd Access to HE Diploma Level 3 (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="AC">Access to HE</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214728</mlo:url>
-      <abstract>Access to Higher Education </abstract>
-      <learningOutcome><![CDATA[<p>This programme is recognised by almost all Physiotherapy and Occupational Therapy Schools. This programme is also suitable preparation for other related medical disciplines such as Podiatry, Speech and Language Therapy, Radiography and Dietetics. Other career options through this route include Midwifery, Nursing, Prosthetics and Chiropractics. Offers are generally dependent on final grades.</p>
-<p> </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><strong>How do you study?</strong></p>
-<p>Attendance at the College is required three days per week for one year. You will study a range of units at level 3 (equivalent to A level). Each unit is worth 3 credits. For successful completion of the access course you will need 60 credits overall. The 60 credits are made up of 45 credits from your main subject areas (biology, anatomy, physiology, psychology and sociology) and 15 credits from your core units, which are designed to prepare you for academic study at university level.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>All applicants will be invited to attend an  interview where full course information is given and you will be expected to complete an Initial Assessment</p>
-<p>Applicants who do not hold a GCSE in mathematics or English at grade C or above will be expected to gain these qualifications before or alongside their Access studies. The opportunity to achieve these qualifications will be provided.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>40002044</dc:identifier>
-        <abbr>AC</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CASAC1PT1</dc:identifier>
-        <dc:subject>Science</dc:subject>
-        <dc:title>Physiotherapy, Occupational Therapy and Related Medical Disciplines AptEd Access to HE Diploma</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CASAC1PT1</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2017-06-29">30 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
@@ -12340,168 +12262,6 @@ Cornwall</mlo:address>
           <CD:sector type="Adult">Adult</CD:sector>
         </sectors>
         <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><strong>Ideal if: </strong>you wish to develop your practical skills and learn contemporary techniques in the production of fermented dough products, petit fours, paste products, desserts, chocolate and sugar work.</p>
-<p><strong style="line-height: 1.4;">You'll need: </strong>a level 2 qualification in Professional Cookery or equivalent, or expeience in the catering industry.</p>
-<p><strong>You'll learn: </strong>from a combination of practical and theoretical units which will be delivered inan excellent industry-level environment. In addition to developing practical skills and contemporary techniques in patisserie and confectionery, you will also study the nutritional values of foods and ingredients, management and supervisory skills, successful kitchen management and how to store, prepare and cook food safely.</p>
-<p><strong>Expect: </strong>to be assessed throughout your course through assignments, projects and practical examinations.</p>
-<p><strong>You'll love: </strong>that whatever your passion, or specialism, we will help hone your talents and bring out the gastronomist in you, with a number of culinary and food foraging trips, restaurant visits and the organisation of a Gastronomy Fair.</p>
-<p><strong>You'll go onto: </strong>employment or university study such as our Foundation Degree in Hospitality and Tourism.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/210734</dc:identifier>
-      <dc:subject>Cookery Patisserie Confectionery Food Professional Diploma Catering Chef Cooking Cake Pastry Chocolate</dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Patisserie and Bakery Skills CG Diploma Level 3</dc:title>
-      <dc:type xsi:type=":Type" identifier="P3">Diploma Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/210734</mlo:url>
-      <abstract>Develop your practical skills in a variety of techniques associated with desserts, chocolate and sugar work</abstract>
-      <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>After successfully completing the NVQ 3 and with sufficient industry experience you will have the opportunity to progress onto a Foundation Degree. This qualification will also enable you to apply for positions in first class establishments with the knowledge that the qualification will enhance your job prospects.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will be attending the college for one day a week, developing the advanced techniques for working nationally and internationally in Patisserie and Confectionery.  You will be training in fully equipped, industry standard kitchens, gaining further experience servicing our silver service restaurants and learning in a highly innovative environment where creativity and enthusiasm is actively encouraged.</p>
-<p>Areas of study will include:</p>
-<ul>
-<li>Bread and Dough Products. From sour dough to focaccia, to doughnuts and lardy cake.</li>
-<li>Cakes, Sponges, Biscuits and Scones. This will include Christmas cakes, brandy snaps, yule logs, macaroons and many types of cakes and gateaux.</li>
-<li>Sweet and Savoury Pastry Products such as strudels and suet puddings.</li>
-<li>Chocolate Products. This will include truffles, marshmallows, moulding chocolate in all sorts of shapes as well as making chocolate flowers and figures. </li>
-<li>Marzipan, pastillage and sugar products. Not only will you be modelling and moulding using many types of mediums such as icing, sugar paste, boiled sugar, fondant and more, you will also be using a variety of skills such as casting, moulding, piping and dipping.</li>
-<li>Hot Deserts, steamed sponges, various apple dishes, soufflés, classics puddings and the rich sauces to match.</li>
-<li>Cold Deserts, cheesecakes and mousses, charlottes and jellies, sorbets, ice creams, parfaits, frozen soufflés and much more.</li>
-<li>Sauces, fillings and coatings. Creams, fillings, sauces, glazes, sabayons, meringues.</li>
-<li>Functional skills</li>
-<li>ERR</li>
-<li>CIEH level 3 food safety award</li>
-<li>Sustainability in Professional Kitchens level 3</li>
-<li>Food science</li>
-<li>Product development and food costing</li>
-<li>Allergen training</li>
-<li>Artisan bakery workshop</li>
-<li>Chocolate from bean to bar</li>
-</ul>
-<p>The list covers a multitude of all sorts of confections to raise your skill level.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no formal entry requirements. However, because of the advanced nature of the course it is advisable that you are either the holder of NVQ level-2 Food Preparation and Production or City and Guilds 706/1 and 706/2 or are already working in a first class establishment. Equally, you can be a mature student who may never have attended college and would like to gain a nationally recognised qualification. In all cases real enthusiasm for the industry and a love of food is vital.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>210734</dc:identifier>
-        <abbr>P3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCP3WATA</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Patisserie and Bakery Skills Diploma Level 3 (19+)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCP3WATA</mlo:url>
-        <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Business</dc:description>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCP3WATN</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Patisserie and Bakery Skills Diploma Level 3 (Apprenticeship)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCP3WATN</mlo:url>
-        <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCP33APT</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Patisserie and Bakery Skills Diploma Level 3 (Day Release)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCP33APT</mlo:url>
-        <mlo:assessment>&lt;p&gt;&lt;span&gt;You will be assessed throughout your course through assignments, projects and practical examinations.&lt;/span&gt;&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2017-06-21">22 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
@@ -35388,48 +35148,6 @@ Cornwall
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARESGWA</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Traditional Stained Glass (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZARESGWA</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2016-11-23">23 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARESGWB</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
         <dc:title>Traditional Stained Glass - Term 2 (Evening)</dc:title>
@@ -36889,103 +36607,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>With the worldwide demand for IT specialists increasing year on year, being able to study a degree in computing in Cornwall is a real opportunity. It's a fast-moving subject and graduates are eminently employable. </p>
-<p>The programme is designed as a 1 year top-up to the FdSc Computing, Networking & Software Development programme offered at Cornwall College. It offers development and in depth study in the field of evolving computing technologies and also gives you the opportunity to further your specialisation in either the field of networking or software development. The preparation of study for vendor certifications alongside the academic qualification ensures you will meet the needs of industry.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215831</dc:identifier>
-      <dc:subject xsi:type=":Subject">Information &amp; Communication Technology</dc:subject>
-      <dc:title>BSc (Hons) Computing Technologies (Top-up)</dc:title>
-      <dc:type xsi:type=":Type" identifier="DE">Degree</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215831</mlo:url>
-      <abstract>The worldwide demand for IT specialists increases year on year.</abstract>
-      <mlo:assessment>&lt;p&gt;Assessment is by means of written reports, presentations, case studies, production of O-O programmes to client specification, in class tests and skills based assessments.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p><strong><span>Possible Further Study (subject to availability)</span></strong></p>
-<ul>
-<li><span style="line-height: 1.4;">Postgraduate study in a relevant field</span></li>
-<li><span style="line-height: 1.4;">Cisco CCNP Routing & Switching vendor certification</span></li>
-<li><span style="line-height: 1.4;">CCNA Security Certification</span></li>
-<li><span style="line-height: 1.4;">BCS Foundation Certificate in Agile curriculum</span></li>
-</ul>
-<p><strong style="line-height: 1.4;">Possible Careers</strong></p>
-<ul>
-<li><span style="line-height: 1.4;">Network Security Specialist</span></li>
-<li><span style="line-height: 1.4;">Network Engineer Manager</span></li>
-<li><span style="line-height: 1.4;">Network Technician Manager</span></li>
-<li><span style="line-height: 1.4;">Software Engineer</span></li>
-<li><span style="line-height: 1.4;">Analyst Programmer</span></li>
-<li><span style="line-height: 1.4;">Systems Analyst</span></li>
-<li><span style="line-height: 1.4;">Web Developer</span></li>
-<li><span style="line-height: 1.4;">Database Developer</span></li>
-<li><span style="line-height: 1.4;">Agile Project Manager</span></li>
-<li><span style="line-height: 1.4;">Teacher</span></li>
-</ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span><span>You will study an individual 40 credit Honours Project module, together with a common core of 60 credits.</span><span>  </span><span>These include </span></span></p>
-<ul>
-<li><span style="line-height: 1.4;">E-Business for the Entrepreneur</span></li>
-<li><span style="line-height: 1.4;">Digital Forensics</span></li>
-<li><span style="line-height: 1.4;">Agile Methods</span></li>
-<li><span style="line-height: 1.4;">Cloud Computing & Security</span></li>
-</ul>
-<p><span style="line-height: 1.4;">There are a further 20 credits of electives for you to choose, from either the </span><span style="line-height: 1.4;">Advanced Networking </span><span style="line-height: 1.4;">or </span><span style="line-height: 1.4;">Advanced Object Oriented Programming. </span><span style="line-height: 1.4;">The design of the course content is informed by and supported by national and local industry.</span></p>
-<p><span><span>Study will be through formal lectures, tutor led seminars, blended learning and self-directed research and study.</span><span> </span><span>There will be practical workshops in computer suites and in the Cisco Networking Lab.</span></span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>FdSc or HND in appropriate subject.  Applicants are assessed and a short bridging course to make up for any shortfall in required skills and knowledge may be required.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>215831</dc:identifier>
-        <abbr>DE</abbr>
-        <dcterms:educationLevel>6</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <mlo:credit>
-        <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
-        <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 6</level>
-        <value xmlns="http://purl.org/net/cm">120</value>
-      </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIDECCTD</dc:identifier>
-        <dc:subject>Information &amp; Communication Technology</dc:subject>
-        <dc:title>BSc (Hons) Computing Technologies (Full Time Top-up)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIDECCTD</mlo:url>
-        <mlo:assessment>&lt;p&gt;Assessment is by means of written reports, presentations, case studies, production of O-O programmes to client specification, in class tests and skills based assessments.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-09-04">05 September 2016</mlo:start>
-        <end dtf="2017-07-30">31 July 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="8000" category="Full Time Degree and Top Up">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You have achieved a Full Level 3 (A-Levels, NVQ Level 3, Etc) qualification.</CE:criteria>
-              <CE:criteria>You must have been ordinarily resident in the UK or the European Union (EU) or the European Economic Area (EEA) continuously for at least the previous three years on 31st July 2013.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>The MSc Equitation Science is the first and currently only dedicated full taught masters In Equitation Science.  The ethos that underlines this MSc is to provide you with the knowledge and skills to be able to <em>promote and encourage the application of objective research and advanced practice which will ultimately improve the welfare of horses in their associations with humans</em>.</p>
 <p><span style="line-height: 1.4;">The MSc Equitation Science is a higher-level qualification that will allow those with a good knowledge of equine science to further develop and focus their skills and to advance their knowledge of the practice and science underpinning equitation.</span></p>
 <p><span style="line-height: 1.4;">All of the modules on the course are continuously updated to incorporate recent research findings and will allow you to examine and evaluate current thinking.</span></p>
@@ -37991,113 +37612,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Candidates are responsible for their own AAT registration and subscription fee.  This will need to be completed as soon as possible after enrolment in order to be entered for exams.</p><p>Contact us for more information.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>Ideal if: for anyone wishing to study advanced accounting and wanting to obtain an internationally recognised professional accounting qualification.</p>
-<p>You'll need: an existing Level 3 qualification in accounting or book-keeping.</p>
-<p>You'll learn: financial team leader skills, including financial statements for limited companies, complex management skills and specialist learning areas.</p>
-<p>Expect: to develop more complex accounting knowledge, gain more specialist skills in related areas such as tax.</p>
-<p>You'll love: the opportunity to gain additional skills throughout the course, learning report writing skills.</p>
-<p>You'll go onto: with relevant work experience qualify for AAT full membership. Complete an accounting qualification with a chartered body.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216773</dc:identifier>
-      <dc:subject>AAT, accounts, accountancy, finance, accountant, technician, ACCA, CIPFA, ICAEW, CMA, level 4, accountancy, finance, legal, finances, </dc:subject>
-      <dc:subject xsi:type=":Subject">Business, Administration &amp; Law</dc:subject>
-      <dc:title>Accounting AAT Diploma Level 4</dc:title>
-      <dc:type xsi:type=":Type" identifier="P4">Diploma Level 4</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216773</mlo:url>
-      <abstract>If you would like to further your career in accountancy and want an industry recognised qualification..</abstract>
-      <learningOutcome><![CDATA[<p><span style="font-family: Calibri; font-size: medium;">Upon successful completion, you will automatically become an AAT affiliate member and with relevant work experience will qualify for AAT full membership.</span></p>
-<p><span style="font-family: Calibri; font-size: medium;">You could then complete an accounting qualification with a chartered body offered by Cornwall College:</span></p>
-<ul>
-<li>CIMA - Chartered Institute of Management Accountants</li>
-<li>ACCA - Association of Chartered Certified Accounts</li>
-</ul>
-<p><span style="font-family: Calibri; font-size: medium;">Some chartered bodies will exempt you form certain parts of the syllabus, having covered these during your apprenticeship.</span></p>
-<p><span style="font-family: Calibri; font-size: medium;">Alternatively, you may wish to enrol in a management course at Cornwall College Business e.g. Leader Management; or a full time business related course at Cornwall College e.g. FdA Business, BA (Hons) Business Enterprise.</span></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span style="font-family: Calibri; font-size: medium;">During this qualification, you will learn finance team leader skills e.g. financial statements for limited companies, complex management accounting tasks, management skills and specialist learning areas.</span></p>
-<ul>
-<li>
-<p>Financial Statements of Limited Companies - This unit is concerned with competence in drafting and interpreting the financial statements of limited companies. It ensures that learners understand what information is required to be provided, how it is to be presented to users of the financial statements and how the rules and principles established in IFRS apply to the process of drafting financial statements.</p>
-<p> </p>
-</li>
-<li>
-<p>Accounting Systems and Controls - The purpose of this unit is to ensure that learners know and understand the role of accounting in an organisation, and why internal controls should be in place. They should also be able to recognise systemic weaknesses where errors or fraud may occur. Learners should be able to evaluate an accounting system, or part of a system, (either based on a real situation or on a given scenario), and be able to make recommendations for improvement.</p>
-<p> </p>
-</li>
-<li>
-<p>Management Accounting: Budgeting - Budgets are an essential tool in planning, coordinating, authorising and cost control. Drafting Budgets requires new skills to create appropriate forecasts and budgets for a wide range of activities and circumstances; to agree the budgets with other functional managers and to monitor results against budget and trigger suitable management interventions.</p>
-<p> </p>
-</li>
-<li>
-<p>Management Accounting: Decision and Control - Learners will have the knowledge to be able to use a range of techniques to analyse information on expenditure. They will be able to make judgements to support decision making, planning and control by managers.  Learners will have the skills to collect and analyse information, monitor performance, and present reports to management. </p>
-<p> </p>
-</li>
-<li>
-<p>Two of the following options will also be covered – the choice will be based on learner demand so not all of the options will be available:</p>
-<ul>
-<li>
-<p>Personal Tax</p>
-</li>
-<li>
-<p>Cash and Treasury Management</p>
-</li>
-<li>
-<p>Business Tax</p>
-</li>
-<li>
-<p>Credit Management</p>
-</li>
-<li>
-<p>External Audit</p>
-</li>
-</ul>
-</li>
-</ul>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><span style="font-family: Calibri; font-size: medium;">To enrol on this course you should have completed the AAT Level 3 Advanced Diploma in Accounting.</span></p>
-<p><span style="font-size: medium;"><span style="font-family: Calibri;">A commitment to study outside college attendance is important.  </span></span></p>
-<p><span style="font-family: Calibri; font-size: medium;">If you are interested in this course and do not have the required qualification, contact us to discuss your options further.</span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60165510</dc:identifier>
-        <abbr>P4</abbr>
-        <dcterms:educationLevel>4</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIP4CAAE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Accounting AAT Diploma Level 4 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIP4CAAE</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2018-03-14">14 March 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>Ideal if: The CIMA Advanced Diploma in Management Accounting is for anyone wishing to continue working towards this highly regarded, internationally recognised, professional management accounting qualification.</p>
 <p>You'll need:  to have successfully completed the CIMA Diploma in Management Accounting (operational level)</p>
 <p>You'll learn:  In depth knowledge in areas of core accounting skills, 'Big Data', sustainability, integrated reporting and finance function transformation. Risk, as well as costing and cost management.</p>
@@ -38219,46 +37733,6 @@ Cornwall</mlo:address>
         <abbr>AC</abbr>
         <dcterms:educationLevel>3</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAAAC1AR1</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Art and Design ASCENTIS Access to HE Diploma Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAAAC1AR1</mlo:url>
-        <mlo:start dtf="2016-09-13">14 September 2016</mlo:start>
-        <end dtf="2017-06-29">30 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALVACART1</dc:identifier>
