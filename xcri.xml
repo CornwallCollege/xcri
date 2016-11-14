@@ -13443,81 +13443,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Thomas Cook has recognised the NCFE Level 2 Award for Resort Representatives as an ideal qualification for potential overseas representatives.  They have endorsed the qualification by providing a guaranteed interview to learners who have successfully completed the qualification and meet their minimum requirements. Further information about this offer can be obtained from the course tutor.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>This course is offered as part of our suite of professional travel and tourism qualifications.  In order to achieve the NCFE Award for Resort Representatives you must complete four mandatory units that explore employment opportunities, pre-season preparation, airport and transfer duties as well as resort duties.  You will also be required to complete an optional unit that will enable you to specialise on a particular area of the resort representative's role, this could be working with children or as part of the entertainment team.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/213304</dc:identifier>
-      <dc:subject>Resort Representatives tourism tour operations travel  </dc:subject>
-      <dc:subject xsi:type=":Subject">Travel &amp; Tourism</dc:subject>
-      <dc:title>Resort Representatives NCFE Award Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="W2">Award Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/213304</mlo:url>
-      <abstract>For anyone wishing to be a resort rep</abstract>
-      <learningOutcome><![CDATA[<ul>
-<li>On successful completion of the course you will be able to apply for positions as a resort representative or you may wish to consider broadening your knowledge of tourism by enrolling on the full-time programme in travel and tourism or another short course from the range available.</li>
-</ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During the course you will be expected to carry out a number of assessments that will include practical role plays.  Role plays will include delivering  a welcome meeting, overseeing a coach transfer and resort based customer service.  You will also be expected to carry out some research and assignments in your own time.</p>
-<p>The course content includes 4 mandatory units:</p>
-<ul>
-<li>Investigate employment opportunites for resort representatives</li>
-<li>Understand the role of a representative in a resort</li>
-<li>Prepare for the start of the holiday season</li>
-<li>Manage airport and transport duties</li>
-</ul>
-<p>Plus one optional unit from:</p>
-<ul>
-<li>Investigate the role of the childrens representative in a holiday resort</li>
-<li>Investigate the role of the entertainment represenative in a holiday resort</li>
-</ul>
-<p> </p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no specific entry requirements but all candidates will be interviewed to ensure they are both committed and have a suitable level of language skills to be able to complete assessments to the required standard.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60078170</dc:identifier>
-        <abbr>W2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRTW22RRP</dc:identifier>
-        <dc:subject>Travel &amp; Tourism</dc:subject>
-        <dc:title>Resort Representatives NCFE Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRTW22RRP</mlo:url>
-        <mlo:start dtf="2016-09-14">15 September 2016</mlo:start>
-        <end dtf="2017-06-28">29 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216242</dc:identifier>
       <dc:title>Plastering City &amp; Guilds NVQ Diploma Level 2 (Construction) (QCF)</dc:title>
       <dc:type xsi:type=":Type" identifier="N2">NVQ Level 2</dc:type>
@@ -31105,26 +31030,6 @@ Cornwall</mlo:address>
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16SECC2NCFE</dc:identifier>
-        <dc:subject>The School of Education and Professional Development</dc:subject>
-        <dc:title>Counselling Skills NCFE Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16SECC2NCFE</mlo:url>
-        <mlo:start dtf="2016-02-25">25 February 2016</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-      </presentation>
     </course>
     <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>You will need to complete a DBS check on this course.</p><p>Bursaries available - see student finance / tuition fees pages of our website for details. For further details please contact Student Serives at the College.   This course is subject to validation by the University of Plymouth.</p>]]></dc:description>
@@ -34924,50 +34829,7 @@ Cornwall
       <mlo:qualification>
         <dc:identifier>Z0001755</dc:identifier>
         <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARELCLA</dc:identifier>
-        <dc:subject>Creative arts</dc:subject>
-        <dc:title>Lace Circle</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZARELCLA</mlo:url>
-        <mlo:start dtf="2016-09-14">15 September 2016</mlo:start>
-        <end dtf="2016-11-24">24 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARELCLB</dc:identifier>
         <dc:subject>Creative arts</dc:subject>
@@ -37612,99 +37474,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>Ideal if: The CIMA Advanced Diploma in Management Accounting is for anyone wishing to continue working towards this highly regarded, internationally recognised, professional management accounting qualification.</p>
-<p>You'll need:  to have successfully completed the CIMA Diploma in Management Accounting (operational level)</p>
-<p>You'll learn:  In depth knowledge in areas of core accounting skills, 'Big Data', sustainability, integrated reporting and finance function transformation. Risk, as well as costing and cost management.</p>
-<p>Expect: to develop business acumen and core accounting skills that management accountants need to drive business success.</p>
-<p>You'll love:  that the real-life skills and competencies employers need are woven into the syllabus.   </p>
-<p>You'll go onto:  obtain the full CGMA professional qualification.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>ENTERPRISE PILLAR</p>
-<p><span style="text-decoration: underline;">E2 Project and Relationship Management</span></p>
-<ul>
-<li>Introduction to strategic management and assessing the global environment.</li>
-<li>The human aspect of the organisation, managing relationships.</li>
-<li>Managing change through projects.</li>
-</ul>
-<p>PERFORMANCE PILLAR</p>
-<p><span style="text-decoration: underline;">P2 Advanced Management Accounting</span></p>
-<ul>
-<li>Cost planning and analysis for competitive advantage.</li>
-<li>Control and performance management of responsibility centres.</li>
-<li>Long-term decision making.</li>
-<li>Management control and risk.</li>
-</ul>
-<p> <span style="line-height: 1.4;">FINANCIAL PILLAR</span></p>
-<p><span style="text-decoration: underline;">F2 Advanced Financial Reporting</span></p>
-<ul>
-<li>Sources of long-term finance.</li>
-<li>Financial reporting.</li>
-<li>Analysis of financial performance and position.</li>
-</ul>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216750</dc:identifier>
-      <dc:subject xsi:type=":Subject">Business, Administration &amp; Law</dc:subject>
-      <dc:title>Management Accounting CIMA Advanced Diploma Level 7</dc:title>
-      <dc:type xsi:type=":Type" identifier="PH">Diploma Higer Level</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216750</mlo:url>
-      <abstract>If you would like to progress your career in accountancy and want an industry recognised qualification...</abstract>
-      <learningOutcome><![CDATA[<p>Study the CIMA Strategic Level papers to obtain the full CGMA professional qualification.</p>
-<p>The CIMA qualification offers the opportunity to work in a diverse range of business sectors, from the public to private sector, or pursuing a career in business. Management accounting qualifications are a passport to a rewarding career and CIMA leads to an international transferable qualification.  </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>The CIMA qualification is frequently revised to keep up with the latest business trends and employer needs.</p>
-<p> <span style="line-height: 1.4;">Learners study subjects across three pillars.</span></p>
-<ul>
-<li>The enterprise pillar</li>
-<li>The performance pillar</li>
-<li>The financial pillar</li>
-</ul>
-<p> <span style="line-height: 1.4;">CIMA holders add value to your business by blending financial expertise with business insight.</span></p>
-<p>Translate complex information and communicate it effectively, guiding critical business decisions and creating sustainable business success. (cimaglobal.com/CIMA-in-business/How-MA-supports-your-business-/)</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>Learners should have successfully completed the CIMA Diploma in Management Accounting (operational level)</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00267042</dc:identifier>
-        <abbr>PH</abbr>
-        <dcterms:educationLevel>7</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPIPHADMA</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Management Accounting CIMA Advanced Diploma Level 7</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPIPHADMA</mlo:url>
-        <mlo:start dtf="2016-09-14">15 September 2016</mlo:start>
-        <end dtf="2017-12-21">21 December 2017</end>
-        <mlo:duration interval="P1Y"/>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><span>Some applicants may be eligible for financial support on this course to assist with childcare, transport etc. The Learner Support Fund is under review and is determined by individual circumstances. </span></p><p>If you are under 24 years of age, you may be eligible for fee remission. Information will be given within the workshops, however if your require more information contact the college your applying for and speak to Student Services for further details.</p><p>If you are 24 years of age  or over, please click on this link for funding information and a direct link to the government funding site.</p><p><a href="http://www.cornwall.ac.uk/cc/index.php?page=_Student_Information&subpage=_Finance&id=1107" target="_blank" title="Funding for over 24">Funding for over 24</a></p>]]></dc:description>
       <dc:description><![CDATA[<p>The Access to Higher Education Diploma is a nationally recognised qualification thatprovides students with the entry requirements for most higher education degrees. Itconsists of a minimum of 20 units of study which include: Study Skills, ICT and a wide rangeof subject specific Art & Design units. As a part of this course students will also be providedwith tutorial guidance which focuses on UCAS applications and preparing for universitystudy. There is currently a very large choice of higher level courses in the creative arts.Although this is essentially a progression course into university study, several of ourlearners use this learning opportunity to prepare for the world of work, combined with parttimeFoundation degree Award (FdA) engagement.</p>
 <p>The Access course is a 1 year, full time course, especially intended for those people whohave always wanted to study art and design, but have not previously had the chance to doso. The course runs over 3 days (Wed, Thurs & Fri). The college study time is designedaround people with family and, or work commitments i.e. start times are in line with schoolstart times. In addition, students are expected to spend 5 hours a week as home study.</p>
@@ -39313,55 +39082,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Delegates will need to pay a registration fee to CIPS and pay relevant exam and Study Guide fees for each module in addition to the fee quoted.</p><p>To enable entry to exams, each student must register with CIPS and pay their student membership fee.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>Typical job titles:</p><ul><li>Buyer</li><li>Procurement / purchasing executive</li><li>Procurement specialist</li><li>Contract officer</li><li>Supply chain / inventory / logistics analyst</li><li>Supply chain / inventory / logistics planner</li></ul>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215000</dc:identifier>
-      <dc:subject>procurement supply advanced diploma level 4, cips, chartered institute purchasing supply, CIPS</dc:subject>
-      <dc:title>Procurement and Supply CIPS Advanced Diploma Level 5</dc:title>
-      <dc:type xsi:type=":Type" identifier="P5">Diploma Level 5</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215000</mlo:url>
-      <learningOutcome><![CDATA[<p>Core skills upon completion of this qualification provision of advice and guidance to key stakeholders on the performance of organisational procedures and processes in procurement and supply.</p><p>Individuals may move on to Level 6 Professional Diploma in Procurement and Supply.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course will cover the mandatory units:</p><ul><li>Management in procurement and supply</li><li>Managing risks in supply chains</li><li>Improving the competitiveness of supply chains</li></ul><p>You will also cover optional units:</p><ul><li>Category management in procurement and supply</li><li>Sustainability in supply chains</li><li>Operations management in supply chains</li></ul><p>Each unit is delivered as a 2-day taught module, followed by a 1-day revision session one month later in readiness for the exam the following month.</p><p>We believe that this approach is superior to other methods in the following ways:</p><ul><li>The students commit to 3 intensive training days rather than endless evenings at night school</li><li>The support of a dedicated tutor team</li><li>Focus and momentum in the learning</li><li>Students are guided by the best trainers in the country, of which 2 are CIPS assessors</li><li>5 modules in a year ensures rapid progression.</li></ul><p>Full details of the programme can be found at the CIPS website by following the link below:</p><p><a href="http://www.cips.org/Documents/Qualifications/Unit_Content_Guides/CIPS_AdDipProcSupp_AW%20FINAL.pdf">http://www.cips.org/Documents/Qualifications/Unit_Content_Guides/CIPS_AdDipProcSupp_AW%20FINAL.pdf</a></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>You will need to have achieved the CIPS Diploma in procurement and supply.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>6007548X</dc:identifier>
-        <abbr>P5</abbr>
-        <dcterms:educationLevel>5</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPHP5REPD</dc:identifier>
-        <dc:title>Procurement and Supply Advanced Diploma Level 5</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPHP5REPD</mlo:url>
-        <mlo:start dtf="2016-09-14">15 September 2016</mlo:start>
-        <end dtf="2017-07-05">06 July 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Plymouth</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL1 1QW</mlo:postcode>
-              <mlo:address>69 Mayflower Street
-Plymouth</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>Typical job titles:</p><ul><li>Strategic / senior  /purchasing or procurement manager</li><li>Head of commercial</li><li>Supply chain manager</li><li>Head of logistics / transport</li><li>Operations manager</li></ul>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215001</dc:identifier>
       <dc:subject>procurement supply professional diploma level 6, cips, chartered institute purchasing supply, CIPS</dc:subject>
@@ -39898,38 +39618,6 @@ Launceston</mlo:address>
         <abbr>W3</abbr>
         <dcterms:educationLevel>3</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW3RFL0</dc:identifier>
-        <dc:title>Award in First Line Management QCF Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW3RFL0</mlo:url>
-        <mlo:start dtf="2016-10-31">31 October 2016</mlo:start>
-        <end dtf="2016-11-14">14 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>UNK</attendanceMode>
-        <attendancePattern>UNK</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Plymouth</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL1 1QW</mlo:postcode>
-              <mlo:address>69 Mayflower Street
-Plymouth</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW3RFL1</dc:identifier>
         <dc:title>Award in First Line Management QCF Level 3</dc:title>
