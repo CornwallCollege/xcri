@@ -2851,58 +2851,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>All students are subject to a £20 registration fee.</p><p>You will need to supply you own small equipment such as piping tubes cutters etc, a kit list will be supplied at interview.</p><p><span> </span></p>]]></dc:description>
-      <dc:description><![CDATA[<p>This course is intended for those who wish to work as a cake decorator.</p><p></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216077</dc:identifier>
-      <dc:title>Cake Decoration ABC Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216077</mlo:url>
-      <learningOutcome><![CDATA[<p><span><a href="http://www.brooklands.ac.uk/course/advanced-royal-icing"><span>Advanced Sugarpaste Techniques</span></a></span></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span>• Practical assessment through project work<br /> • Design Folder (folder of work with step-by-step instructions for each project)<br /> • Theory exam (1 hour multiple-choice</span>)</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p> This course is recommended if you have done sugar craft before but have not got a formal qualification.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60094990</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCC2CDCT</dc:identifier>
-        <dc:title>Cake Decoration Certificate (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCC2CDCT</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2017-03-14">14 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>This course is for those who have had difficulty settling into their chosen study programme, who may need further support with Functional Skills, or who have experienced personal issues that have preventing them from achieving  their goal.</p>
 <p><span>City & Guilds' Employability and Personal Development qualifications help you to demonstrate that you have the personal skills, qualities and attitudes needed by employers. They will help you to look for, obtain and maintain employment. By developing your skills and confidence, these qualifications may also help you progress into further education and learning. </span></p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
@@ -3432,57 +3380,6 @@ Cornwall</mlo:address>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><span>All students will be subject to a £20 registration fee per academic year.<br /> You will need to supply your own small equipment such as piping tubes cutters etc, a kit list will be supplied at interview</span></p>]]></dc:description>
-      <dc:description><![CDATA[<p><span>This course is intended for those who wish to work as a cake decorator. This course is recommended if you have done sugar craft before but have not got a formal qualification.</span></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216076</dc:identifier>
-      <dc:title>Cake Decoration ABC Award Level 1</dc:title>
-      <dc:type xsi:type=":Type" identifier="W1">Award Level 1</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216076</mlo:url>
-      <mlo:objective><![CDATA[<p><span>• Practical assessment through project work<br /> • Design Folder (folder of work with step-by-step instructions for each project)<br /> • Theory exam (1 hour multiple-choice)</span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><span>No prior experience of sugar craft is needed. It is recommended that you complete the basic level before moving on to the intermediate level; however if you feel that you are able to start on at intermediate level then photos of your work will be required. All applicants have an interview before enrolling on the course.  </span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60094989</dc:identifier>
-        <abbr>W1</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCW1CDAW</dc:identifier>
-        <dc:title>Cake Decoration Award (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCW1CDAW</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2017-03-14">14 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
         <venue>
           <provider>
             <dc:title>Cornwall College St Austell</dc:title>
@@ -6104,112 +6001,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>contact us for more information.</p>]]></dc:description>
-      <dc:description><![CDATA[<div>
-<p>This is a top-up degree to convert your HND or FdA in a business related subject to a BA (Hons) Business Enterprise. This course is aimed at those who want to develop a creative solution orientated approach to business. You will have an interest in business improvement techniques, enterprise and value adding.</p>
-<p>It is our belief that an enterprise focused degree will enable you to prepare for employment in smaller firms whilst not negating the development of a skills set that is very relevant to modern corporate settings (intrapreneurship). In recent years this type of degree has been successfully developed at other institutions especially in the USA.</p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>Core Modules</p>
-<ul>
-<li>Business Management (20 Credits)</li>
-<li>Responsible Enterprise (20 Credits)</li>
-<li>Enterprise Portfolio (20 Credits)</li>
-<li>Performance Management (20 Credits)</li>
-</ul>
-<p>Optional Modules (two to be chosen)</p>
-<ul>
-<li>Human Resource Management and Employment Law (20 Credits)</li>
-<li>Lean for the Whole Enterprise (20 Credits)</li>
-<li>Strategic Marketing Management (20 Credits)</li>
-</ul>]]></dc:description>
-      <dc:description xsi:type=":support"><![CDATA[<div>
-<p><img style="float: left;" src="/sites/default/files/images/Business/small_Business%20student%20%2813%29.jpg" alt="" width="200" height="134" /></p>
-</div>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/101806</dc:identifier>
-      <dc:subject>BA, business management, management, marketing, planning, post grad, retail business, public services, enterprise, marketing, management, accoutnancy, human resource, business law, business development, venture, employability, leadership, strategy development, business finance, legal, economics, research</dc:subject>
-      <dc:subject xsi:type=":Subject">Business, Administration &amp; Law</dc:subject>
-      <dc:title>BA (Hons) Business Enterprise</dc:title>
-      <dc:type xsi:type=":Type" identifier="DE">Degree</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/101806</mlo:url>
-      <abstract>This a top up degree to convert a relevant HND or Foundation degree in to a BA Hons Business Enterprise</abstract>
-      <learningOutcome><![CDATA[<div>
-<div>
-<p>Relevant job opportunities exist in all sectors of industry, commerce and public service. Graduates from similar courses have entered careers in accounting, marketing, general management, local government, national health and teaching. Other areas include the police force, customs and excise, hotel management, hospitality management and management consultancy. There are also opportunities to take professional qualifications within the college in marketing, law, education, management and accountancy.</p>
-<p>Our Careers Service is available to give information, advice and guidance on all aspects of education, training and career progression.</p>
-<p>Tel: 01209 616270 Monday, Tuesday and Thursday (9am- 4pm)</p>
-<p>Email: <a href="mailto:careers@cornwall.ac.uk">careers@cornwall.ac.uk</a></p>
-</div>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<div>
-<p>Enterprise Portfolio Consultancy Project Responsible Enterprise Human Resource Management & Employment Law Performance Management Strategic Marketing Management.</p>
-<p>You will have the opportunity to conduct live consultancy work with local and national companies, to apply theoretical skills to practical situations and to develop your employability skills through enterprise. Your existing skills will be developed through a series of lectures, seminars and problem-based learning opportunities.</p>
-<p>The more theoretical aspects of business studies will be contextualised into real world business settings and you will be encouraged to nurture your problem-solving talents. You will be assessed through a combination of reports, presentations, articles, tests and simulations.</p>
-</div>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<div>
-<p>An FdA or equivalent qualification in a business related subject obtained within the last 5 years and successful interview.</p>
-<p>Previous learning and experience may be credited. If in doubt, call 0845 22 32 567 or email <a href="mailto:enquiries@cornwall.ac.uk">enquiries@cornwall.ac.uk</a>.</p>
-</div>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00246100</dc:identifier>
-        <abbr>DE</abbr>
-        <dcterms:educationLevel>6</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <mlo:credit>
-        <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
-        <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 6</level>
-        <value xmlns="http://purl.org/net/cm">120</value>
-      </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBBDEENTE</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>BA (Hons) Business Enterprise (Full-Time Top-Up)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBBDEENTE</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2017-06-08">09 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="8000" category="Full Time Degree and Top Up">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You have achieved a Full Level 3 (A-Levels, NVQ Level 3, Etc) qualification.</CE:criteria>
-              <CE:criteria>You must have been ordinarily resident in the UK or the European Union (EU) or the European Economic Area (EEA) continuously for at least the previous three years on 31st July 2013.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>This course is a 20 credit module (FBU104) from a Foundation Degree, awarded by Plymouth University.</p>
 <p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p><span><span>This course is for anyone who is new to marketing or who has marketing as part of their role, including business owners, senior and middle managers and marketing assistants.</span></span></p>]]></dc:description>
@@ -6846,48 +6637,6 @@ Cornwall</mlo:address>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
       <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A19</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Drawing and Watercolour Painting for Beginners</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1A19</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2016-11-29">29 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A20</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
         <dc:title>Drawing and Watercolour Painting for Beginners</dc:title>
@@ -7084,48 +6833,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A64</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Drawing and Watercolour Painting for All</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1A64</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2016-11-29">29 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A66</dc:identifier>
@@ -7507,71 +7214,6 @@ Redruth
 Cornwall
 </mlo:address>
               <mlo:phone>01209 216144 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><span>On this course you will learn advanced techniques.</span></p>
-<p><span>Wednesday evenings from 7.00pm to 9.00pm<br /></span></p>
-<p><span><span>10 week course - starting 28.09.16 - course fee £100.00 (START DATE CHANGED)<br /></span></span></p>
-<p><span><span>10 week course - starting 18.01.17 - course fee £100.00<br /></span></span></p>
-<p><span><span>8 week course - starting 26.04.17 - course fee £80.00</span></span></p>
-<p><span><span>Please note that this course is now running on a Wednesday evening.<br /></span></span></p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[215586,215042,215040,214339]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216248</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Digital Photography - Advance (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216248</mlo:url>
-      <abstract>On this course you will learn advanced techniques. </abstract>
-      <learningOutcome><![CDATA[<p>After the course you could try one of our many other leisure courses or workshops.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span>On this course you will learn advanced techniques to improve, portraits, landscapes, travel photography, special occasions, and competition entries. Best settings, best lens choice, and best printing options. Advanced use of natural, artificial and studio flash lighting. Common uses of photo software. Special techniques; including Panoramas, HDR, Focus Stacking. There will be projects each week across all genres for people to bring in and show to the group.</span></p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001756</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1G97</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Advance Guide to Digital Photography</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1G97</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2016-11-29">29 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
           </provider>
@@ -30175,85 +29817,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><span> </span><span>Students benefit from arranging some personal counselling for themselves for purposes of personal support and also to experience counselling as a client. As well as the college counselling available there is also a low cost counselling agency, the Penhaligon Counselling Agency attached to the college. </span></p>
-<p><span>You will be required to attend an induction session at the start of your course. During this time you will have the opportunity to meet the Programme Manager, teaching staff , other applicants and gain an insight of the course content and requirements.</span></p>
-<p><span> </span></p>]]></dc:description>
-      <dc:description><![CDATA[<div>
-<p><span>This course is especially for those working in the caring and helping professions or for those in other areas of work or study where the value of counselling and skills is recognised.</span></p>
-<p><span>It (or equivalent) is a requirement for anyone wishing to progress onto our HE counselling courses.</span></p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/212369</dc:identifier>
-      <dc:subject>counselling, counsellor, counseller, counsel, psychology, social work, socialology,</dc:subject>
-      <dc:subject xsi:type=":Subject">The School of Education and Professional Development</dc:subject>
-      <dc:title>Counselling Skills NCFE Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/212369</mlo:url>
-      <abstract>This is course is especially for those working in the caring profession.</abstract>
-      <learningOutcome><![CDATA[<div>
-<p>Successful students can progress to further counselling courses such as the Certificate in Advanced Counselling Studies or the Diploma in Person Centred Counselling and Therapy.</p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>This qualification consists of 4 mandatory units which must all be completed in order to be awarded the qualification.</p>
-<p>Units are:</p>
-<ul>
-<li>Using counselling Skills</li>
-<li>Introduction to counselling skills theories</li>
-<li>Diversity and ethics in the use of counselling skills</li>
-<li>Counselling skills and personal development</li>
-</ul>
-<p>You will complete a portfolio of work demonstrating successful completion.</p>
-<p> </p>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>Candidates must have an interest in the use of counselling skills in a variety of contexts and also be aged 19 or over.</p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>6000728X</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16SECC2NCEV</dc:identifier>
-        <dc:subject>The School of Education and Professional Development</dc:subject>
-        <dc:title>Counselling Skills NCFE Certificate Level 2 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16SECC2NCEV</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2017-03-07">07 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">School of Education</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>You will need to complete a DBS check on this course.</p><p>Bursaries available - see student finance / tuition fees pages of our website for details. For further details please contact Student Serives at the College.   This course is subject to validation by the University of Plymouth.</p>]]></dc:description>
       <dc:description><![CDATA[<p><strong>UCAS Code: LL53</strong><br /><strong>Institution Code: CORN C78</strong></p>
 <p>This three year BSc Honours degree course is for anyone who has an interest in Health, Community and Social Sciences and for those who wish to pursue a career in a related area. The course has been designed to equip you with the skills and knowledge base required to work in your chosen specialism or progress onto other graduate opportunities. It is also a platform from which you can undertake additional vocational and academic qualifications and requires you to undertake work based learning and gain an honours degree that can be completed in Cornwall. The course has been designed with a number of pathways which will allow you to specialise within a particular area of study.</p>
@@ -34979,48 +34542,6 @@ Cornwall
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLREFRIA</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title>French Improvers (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZLREFRIA</mlo:url>
-        <mlo:start dtf="2016-09-19">20 September 2016</mlo:start>
-        <end dtf="2016-11-29">29 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLREFRIB</dc:identifier>
