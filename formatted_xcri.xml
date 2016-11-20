@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-19T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-20T10:05:02Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -7160,60 +7160,6 @@ Pool
 Redruth
 Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Enjoy getting fit in a friendly non-competitive environment. </p>
-<p>10 week courses on Wednesday mornings from 9.30am to 10.30am</p>
-<p><strong>Now held on site in the Dance Studio, in the Sports Hall at Cornwall College Camborne</strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215031</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Simply Keep Fit (JP)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215031</mlo:url>
-      <abstract>Enjoy getting fit in a friendly non-competitive environment.</abstract>
-      <learningOutcome><![CDATA[<p>You can enrol onto this course again for the next term or any of our other Recreational courses or workshops.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Improve your physical fitness, flexibility, balance and co-ordination through exercise, movement and dance.  This course is suitable for all age groups and abilities.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001752</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1F21</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Simply Keep Fit</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1F21</mlo:url>
-        <mlo:start dtf="2016-09-20">21 September 2016</mlo:start>
-        <end dtf="2016-11-30">30 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Trevenson Hall Community Resource Centre</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3PT</mlo:postcode>
-              <mlo:address>Church Road
-Pool
-Redruth
-Cornwall
-</mlo:address>
-              <mlo:phone>01209 216144 </mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
           </provider>
@@ -34855,10 +34801,7 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[This course is designed for those people who are fairly new to learning the guitar but have some knowledge and experience in playing.]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215506</dc:identifier>
-      <dc:subject>guitar rock classical music</dc:subject>
-      <dc:subject xsi:type=":Subject">Music</dc:subject>
       <dc:title>Learning Guitar (E)</dc:title>
       <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
       <mlo:url>http://www.cornwall.ac.uk/course/215506</mlo:url>
@@ -34869,50 +34812,7 @@ Cornwall
       </mlo:qualification>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZMREGBGA</dc:identifier>
-        <dc:subject>Music</dc:subject>
-        <dc:title>Guitar (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZMREGBGA</mlo:url>
-        <mlo:start dtf="2016-09-20">21 September 2016</mlo:start>
-        <end dtf="2016-11-30">30 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZMREGBGC</dc:identifier>
-        <dc:subject>Music</dc:subject>
         <dc:title>Guitar (Evening)</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16YZMREGBGC</mlo:url>
         <mlo:start dtf="2017-04-11">12 April 2017</mlo:start>
@@ -36142,6 +36042,111 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p>Ceramic/Pottery courses on Wednesday or Thursday evenings from 6.30pm to 8.30pm at Cornwall College Camborne. </p>
+<p>Wednesday 21st of September 2016 for 10 weeks - Course fee £118.00</p>
+<p>Thursday 22nd of September 2016 or 10 weeks - Course fee £118.00</p>
+<p>Wednesday 18th of January 2017 for 10 weeks - Course fee £118.00</p>
+<p>Thursday 19th of January 2017 for 10 weeks - Course fee £118.00</p>
+<p>Wednesday 26th of April 2017 for 8 weeks - Course fee £98.00</p>
+<p>Thursday 27th of April 2017 for 8 weeks - Course fee £98.00</p>
+<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
+<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/214937</dc:identifier>
+      <dc:subject>pottery ceramics clay arts art craft crafts sculptures sculptures</dc:subject>
+      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
+      <dc:title>Ceramics/Pottery (W)</dc:title>
+      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/214937</mlo:url>
+      <abstract>This course is suitable for students with or without previous experience.</abstract>
+      <learningOutcome><![CDATA[<p>We offer a range of courses, please contact our Customer Enquiries Team on  01209 611622 for more information</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p>This course is suitable for students with or without previous experience. There will be demonstrations of basic pottery techniques and ongoing projects for students who wish to join in. Students who have had some previous experience can either join in with an ongoing project or carry out their own work accessing information and support as they need it. There is also the opportunity to learn to use the potters wheel - no previous experience necessary.</p>]]></mlo:objective>
+      <mlo:qualification>
+        <dc:identifier>Z0001755</dc:identifier>
+        <abbr>RE</abbr>
+        <dcterms:educationLevel>X</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C17</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
+        <dc:title>Ceramics/Pottery (Evening)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C17</mlo:url>
+        <mlo:start dtf="2016-09-21">22 September 2016</mlo:start>
+        <end dtf="2016-12-01">01 December 2016</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Leisure">Leisure</CD:sector>
+        </sectors>
+        <studyMode identifier="PT">Part Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College Camborne</dc:title>
+            <mlo:location>
+              <mlo:postcode>TR15 3RD</mlo:postcode>
+              <mlo:address>Trevenson Campus
+Pool
+Redruth
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+      <presentation>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C49</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
+        <dc:title>Ceramics/Pottery (Evening)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C49</mlo:url>
+        <mlo:start dtf="2017-04-25">26 April 2017</mlo:start>
+        <end dtf="2017-06-20">21 June 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand"/>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <studyMode identifier="PT">Part Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College Camborne</dc:title>
+            <mlo:location>
+              <mlo:postcode>TR15 3RD</mlo:postcode>
+              <mlo:address>Trevenson Campus
+Pool
+Redruth
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>You will be required to find a suitable animal-based work placement which you can attend on a regular basis to complete the 300 hours of work experience necessary to undertake this course. You will also need to purchase protective clothing, ordered through the College at a discounted rate.  There are regular trips and visits to animal-based organisations and the approximate cost of a two day visit away is £100.</p><br /><p>If you are over 19 year old you will need to pay tuition fees, although there are concessions if this is your first full level 3 qualification, or if you are claiming means-tested benefits.  Please contact our Admissions Office for full details.</p>]]></dc:description>
       <dc:description><![CDATA[<p><span>This course is for anyone with sound academic ability who wishes to study a vocational qualification, which is mostly theory-based with some practical input.  The course allows you to gain a supervisory level qualification which will enhance your employability in the animal industry.</span></p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216776</dc:identifier>
@@ -36575,153 +36580,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C99</mlo:url>
         <mlo:start dtf="2017-06-09">10 June 2017</mlo:start>
         <end dtf="2017-06-09">10 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Ceramic/Pottery courses on Wednesday or Thursday evenings from 6.30pm to 8.30pm at Cornwall College Camborne. </p>
-<p>Wednesday 21st of September 2016 for 10 weeks - Course fee £118.00</p>
-<p>Thursday 22nd of September 2016 or 10 weeks - Course fee £118.00</p>
-<p>Wednesday 18th of January 2017 for 10 weeks - Course fee £118.00</p>
-<p>Thursday 19th of January 2017 for 10 weeks - Course fee £118.00</p>
-<p>Wednesday 26th of April 2017 for 8 weeks - Course fee £98.00</p>
-<p>Thursday 27th of April 2017 for 8 weeks - Course fee £98.00</p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214937</dc:identifier>
-      <dc:subject>pottery ceramics clay arts art craft crafts sculptures sculptures</dc:subject>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Ceramics/Pottery (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214937</mlo:url>
-      <abstract>This course is suitable for students with or without previous experience.</abstract>
-      <learningOutcome><![CDATA[<p>We offer a range of courses, please contact our Customer Enquiries Team on  01209 611622 for more information</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course is suitable for students with or without previous experience. There will be demonstrations of basic pottery techniques and ongoing projects for students who wish to join in. Students who have had some previous experience can either join in with an ongoing project or carry out their own work accessing information and support as they need it. There is also the opportunity to learn to use the potters wheel - no previous experience necessary.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C17</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Ceramics/Pottery (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C17</mlo:url>
-        <mlo:start dtf="2016-09-21">22 September 2016</mlo:start>
-        <end dtf="2016-12-01">01 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C49</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Ceramics/Pottery (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C49</mlo:url>
-        <mlo:start dtf="2017-04-25">26 April 2017</mlo:start>
-        <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C24</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Ceramics/Pottery (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C24</mlo:url>
-        <mlo:start dtf="2016-09-20">21 September 2016</mlo:start>
-        <end dtf="2016-11-30">30 November 2016</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
