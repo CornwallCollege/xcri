@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-21T17:05:03Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-22T10:05:02Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -5616,40 +5616,6 @@ Cornwall</mlo:address>
         <abbr>NN</abbr>
         <dcterms:educationLevel>5</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CASNNGISA</dc:identifier>
-        <dc:title>Geographical Information Systems College Certificate Level 5</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CASNNGISA</mlo:url>
-        <mlo:start dtf="2016-11-01">01 November 2016</mlo:start>
-        <end dtf="2016-11-22">22 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CASNNGISC</dc:identifier>
         <dc:title>Geographical Information Systems College Certificate Level 5</dc:title>
@@ -34865,62 +34831,6 @@ Cornwall
 
 </mlo:address>
               <mlo:phone>(01209) 722100</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p align="LEFT">This qualification is primarily aimed at practising electricians with relevant experience and</p><p align="LEFT">other allied professionals eg surveyors, consultants and other trades needing to update and</p><p align="LEFT">enhance their understanding of IEE Wiring Regulations. It is also suitable for anyone wishing</p><p align="LEFT">to demonstrate an understanding of the IEE 17th Edition Wiring Regulations (BS7671).</p><p>This course runs over ten half-day sessions.</p><p><span><span></span></span></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216571</dc:identifier>
-      <dc:title>Requirements for Electrical Installations BS7671: June 2008(2015) (QCF) EMTA Award Level 3 </dc:title>
-      <dc:type xsi:type=":Type" identifier="W3">Award Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216571</mlo:url>
-      <learningOutcome><![CDATA[<p>Upon successful completion of this course you will then be able to progress on to further electrical quaifications.</p><p></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p align="LEFT">The course will cover the following topics:</p><p align="LEFT">Introduction and structure of BS 7671</p><p align="LEFT">Part 1 Scope, object and fundamental principles</p><p align="LEFT">Part 2 Definitions</p><p align="LEFT">Part 3 Assessment of general characteristics</p><p align="LEFT">Part 4 Protection for safety</p><p align="LEFT">Part 5 Selection and erection of equipment</p><p align="LEFT">Part 6 Inspection and testing</p><p>Part 7 Special installations or locations</p><p><span><span></span></span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p align="LEFT">There are no formal requirements, but it is expected that you will have a working</p><p align="LEFT">knowledge of electrical installation practices and some experience in the industry. Please</p><p>enquire if you are at all unsure about whether this is a suitable course for your needs.</p><p><span><span></span></span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60153210</dc:identifier>
-        <dc:title>Requirements for Electrical Installations BS7671: June 2008(2015) (QCF) EMTA Award Level 3 </dc:title>
-        <abbr>W3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type=":studyHours"><![CDATA[<p>This course will be studied half a day per week for 10 weeks.</p>]]></dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/15CTEW37671</dc:identifier>
-        <dc:title>Requirements for Electrical Installations BS7671: June 2008(2015) (QCF) EMTA Award Level 3 </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/15CTEW37671</mlo:url>
-        <mlo:start dtf="2016-09-21">22 September 2016</mlo:start>
-        <end dtf="2016-12-02">02 December 2016</end>
-        <mlo:duration interval="P10W"/>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
           </provider>
