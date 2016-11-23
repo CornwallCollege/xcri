@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-22T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-23T10:05:12Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -781,47 +781,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA175</mlo:url>
         <mlo:start dtf="2017-05-09">10 May 2017</mlo:start>
         <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA179</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Silversmithing Beginners </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA179</mlo:url>
-        <mlo:start dtf="2016-10-11">12 October 2016</mlo:start>
-        <end dtf="2016-11-23">23 November 2016</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
@@ -5105,53 +5064,12 @@ Cornwall</mlo:address>
       <mlo:qualification>
         <abbr>HU</abbr>
         <dcterms:educationLevel>4</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
       </mlo:qualification>
       <mlo:credit>
         <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
         <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 4</level>
         <value xmlns="http://purl.org/net/cm">20</value>
       </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHU3AUI</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:subject>Information &amp; Communication Technology</dc:subject>
-        <dc:title>Web Design and Authoring</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHHU3AUI</mlo:url>
-        <mlo:start dtf="2016-10-18">19 October 2016</mlo:start>
-        <end dtf="2016-11-23">23 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Truro</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR1 2JL</mlo:postcode>
-              <mlo:address>Chiltern House
-City Road
-Truro</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHU6AU3</dc:identifier>
         <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
@@ -6796,68 +6714,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>If you have every worried about how to make pastry then come and enjoy the art of pastries, cakes and puddings in our state of the art kitchens. </p>
-<p>2 week course starting Wednesday 16th of November 2016 from 6.00pm to 9.00pm</p>
-<p>Course fee - £35.00.</p>
-<p>You will be required to purchase ingredients for this course.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215577</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Pastries, Cakes and Puddings (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215577</mlo:url>
-      <abstract>Come and learn the art of pastries, cakes and puddings making.</abstract>
-      <learningOutcome><![CDATA[<p>You can do one of our other cookery courses or workshops or any of our other recreational courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will leave with a good understanding of a variety of techniques and dishes that will include dishes like sweet pastry, fruit tarts, summer puddings, a variety of cakes and pudding.  You will be required to purchase ingredients for this course.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001751</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1K43</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Pastries, Cakes and Puddings (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1K43</mlo:url>
-        <mlo:start dtf="2016-11-16">16 November 2016</mlo:start>
-        <end dtf="2016-11-23">23 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
         <studyMode identifier="PT">Part Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
@@ -13402,211 +13258,6 @@ Cornwall</mlo:address>
           </CE:cost>
         </Costs>
         <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Boost your career, start to learn a new trade or just pick up some handy DIY skills.</p>
-<p>This course will allow you to build your skills CV and gain a recognised qualification while training around work and family commitments at the weekend.</p>
-<p>Learn practical skills in the workshops at Cornwall College Camborne and work with experienced tutors to achieve a new qualification.</p>
-<p>Each course is the equivalent of one unit of the City and Guilds qualification and is the ideal length for you to get a real taste of college life, while working on projects ranging from building chimneys and tiling roofs, to creating your very own piece of furniture.</p>
-<p>Call us now on 0800 731 7594 to find out how to book your place.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214571</dc:identifier>
-      <dc:subject xsi:type=":Subject">Construction Trades</dc:subject>
-      <dc:title>Developing Blockwork Skills City &amp; Guilds Unit Level 1</dc:title>
-      <dc:type xsi:type=":Type" identifier="UN">Unitisation</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214571</mlo:url>
-      <abstract>Saturday Skills course in Blockwork skills</abstract>
-      <learningOutcome><![CDATA[<p>After completing Saturday Skills you may wish to continue on another part-time or full-time course, or put your skills into practice in the workplace.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During the ten weeks you will learn the basic skills in your chosen craft as well as health and safety practices in the workshop.</p>
-<p>Areas you will cover include:</p>
-<ul>
-<li>Knowing your blocklaying tools and how to use them correctly</li>
-<li>Learning how to mix mortar and at what ratios</li>
-<li>The fundamentals of blocklaying gauge, level, plumb and range</li>
-<li>How to set out our spot board and stack our bricks ready for bricklaying</li>
-<li>How to spread and roll mortar</li>
-<li>How to build a series of brick corners</li>
-<li>Setting out and working to measurements</li>
-<li>How to set out large lengths of blockwork using dead mens corners</li>
-<li>How to build a conservatory base with cavity wall to a building drawing</li>
-<li>How to build a block pillar using d.p.c and various pointing methods</li>
-<li>How to use various lintels</li>
-</ul>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>A6021362</dc:identifier>
-        <abbr>UN</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBUN1BWS</dc:identifier>
-        <dc:subject>Construction Trades</dc:subject>
-        <dc:title>Developing Blockwork Skills City &amp; Guilds Unit Level 1 (Evenings &amp; Weekend)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBUN1BWS</mlo:url>
-        <mlo:start dtf="2016-09-23">24 September 2016</mlo:start>
-        <end dtf="2016-12-03">03 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Boost your career, start to learn a new trade or just pick up some handy DIY skills.</p>
-<p>This course will allow you to build your skills CV and gain a recognised qualification while training around work and family commitments at the weekend.</p>
-<p>Learn practical skills in the workshops at Cornwall College Camborne and work with experienced tutors to achieve a new qualification.</p>
-<p>Each course is the equivalent of one unit of the City and Guilds qualification and is the ideal length for you to get a real taste of college life, while working on projects ranging from building chimneys and tiling roofs, to creating your very own piece of furniture.</p>
-<p>Call us now on 0800 731 7594 to find out how to book your place.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214569</dc:identifier>
-      <dc:subject xsi:type=":Subject">Construction Trades</dc:subject>
-      <dc:title>Developing Brickwork Skills City &amp; Guilds Unit Level 1 </dc:title>
-      <dc:type xsi:type=":Type" identifier="UN">Unitisation</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214569</mlo:url>
-      <abstract>Saturday Skills course in Brickwork Skills</abstract>
-      <learningOutcome><![CDATA[<p>After completing Saturday Skills you may wish to continue on another part-time or full-time course, or put your skills into practice in the workplace.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During the ten weeks you will learn the basic skills in your chosen craft as well as health and safety practices in the workshop.</p>
-<p>Areas you will cover include:</p>
-<ul>
-<li>Knowing your bricklaying tools and how to use them correctly</li>
-<li>Learning how to mix mortar and at what ratios</li>
-<li>The fundamentals of bricklaying gauge, level, plumb and range</li>
-<li>How to set out our spot board and stack our bricks ready for bricklaying</li>
-<li>How to spread and roll mortar</li>
-<li>How to build a series of brick corners</li>
-<li>Setting out and working to measurements</li>
-<li>How to set out large lengths of brickwork using dead mens corners</li>
-<li>How to build a conservatory base with cavity wall to a building drawing</li>
-<li>How to build a brick pillar using d.p.c and various pointing methods</li>
-<li>How to use various lintels</li>
-</ul>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>J6021350</dc:identifier>
-        <abbr>UN</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBUN1DBS</dc:identifier>
-        <dc:subject>Construction Trades</dc:subject>
-        <dc:title>Developing Brickwork Skills City &amp; Guilds Unit Level 1 Evenings &amp; Weekends)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBUN1DBS</mlo:url>
-        <mlo:start dtf="2016-09-23">24 September 2016</mlo:start>
-        <end dtf="2016-12-03">03 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Boost your career, start to learn a new trade or just pick up some handy DIY skills.</p>
-<p>This course will allow you to build your skills CV and gain a recognised qualification while training around work and family commitments at the weekend.</p>
-<p>Learn practical skills in the workshops at Cornwall College Camborne and work with experienced tutors to achieve a new qualification.</p>
-<p>Each course is the equivalent of one unit of the City and Guilds qualification and is the ideal length for you to get a real taste of college life, while working on projects ranging from building chimneys and tiling roofs, to creating your very own piece of furniture.</p>
-<p>Call us now on 0800 731 7594 to find out how to book your place.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214578</dc:identifier>
-      <dc:subject xsi:type=":Subject">Construction Trades</dc:subject>
-      <dc:title>Developing Rendering Skills City &amp; Guilds Level 1</dc:title>
-      <dc:type xsi:type=":Type" identifier="UN">Unitisation</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214578</mlo:url>
-      <abstract>Saturday Skills course in Rendering skills</abstract>
-      <learningOutcome><![CDATA[<p>After completing Saturday Skills you may wish to continue on another part-time or full-time course, or put your skills into practice in the workplace.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During the ten weeks you will learn the basic skills in your chosen craft as well as health and safety practices in the workshop.</p>
-<p>Areas covered include:</p>
-<ul>
-<li>Introduction to basic tools and their uses</li>
-<li>Applying materials to solid backgrounds</li>
-<li>Internal solid plastering to include dot-and-dab methods</li>
-<li>Fixing sheet materials</li>
-<li>Applying setting coats</li>
-<li>Repairs to internal solid plastering</li>
-</ul>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>F6021363</dc:identifier>
-        <abbr>UN</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBUN1DRS</dc:identifier>
-        <dc:subject>Construction Trades</dc:subject>
-        <dc:title>Developing Rendering Skills City &amp; Guilds Unit Level 1 (Evening &amp; Weekends)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBUN1DRS</mlo:url>
-        <mlo:start dtf="2016-09-23">24 September 2016</mlo:start>
-        <end dtf="2016-12-03">03 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
