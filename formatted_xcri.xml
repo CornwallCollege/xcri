@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-24T17:05:06Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-25T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -11953,78 +11953,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>This is a brand new qualification that has been developed with the aviation sector by NCFE.  It sets out to promote good practice in cabin crewing by setting a nationally recognised standard which is endorsed by Thomas Cook, Monarch and BMI.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>This qualification  has been developed with the aviation sector by NCFE for those who wish to work as cabin crew.  Younger students are able to study the course but will need to be 18 before applying to work in the industry.</p>
-<p>The course runs for 3hrs per week from October to June and makes use of our mock cabin, there will also be some full day workshops later in the course that will be organised in negotiation with your tutor.  During the course you will be expected to carry out a number of assessments that will include practical role plays, professional discussions, research and written assessments.  You will also be expected to carry out some research and assignments in your own time.</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211603</dc:identifier>
-      <dc:subject>Cabin Crew  Tourism   Air Travel   Transport</dc:subject>
-      <dc:subject xsi:type=":Subject">Travel &amp; Tourism</dc:subject>
-      <dc:title>Introduction to Cabin Crew NCFE Certificate Level 2 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211603</mlo:url>
-      <abstract>This qualification has been developed with the aviation sector by NCFE</abstract>
-      <learningOutcome><![CDATA[<p>NCFE have negotiated with a number of airlines to ensure that successful achievers are given the opportunity to be interviewed for positions available within the sector.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will investigate the airline industry and the role of airline cabin crew and develop the necessary skills required to carry out the role of air cabin crew.</p>
-<p>During the course you will be expected to carry out a number of assessments that will include practical role plays, professional discussions, research and written assessments.  You will also be expected to carry out some research and assignments in your own time.</p>
-<p>The course content includes 6 units:</p>
-<ul>
-<li>Working as cabin crew</li>
-<li>Airline health, safety and security</li>
-<li>Aircraft emergency situations</li>
-<li>Dealing with passengers on board an aircraft</li>
-<li>Cabin service - selling techniques</li>
-<li>Making passenger announcements on board an aircraft</li>
-</ul>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no specific entry requirements but all candidates will be interviewed to ensure their are both committed and have a suitable level of language skills to be able to complete assessments to the required standard.  You must be at least 16 years of age.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60004745</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRTC21ACC</dc:identifier>
-        <dc:subject>Travel &amp; Tourism</dc:subject>
-        <dc:title>Airline Cabin Crew Certificate</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRTC21ACC</mlo:url>
-        <mlo:start dtf="2016-09-25">26 September 2016</mlo:start>
-        <end dtf="2017-06-25">26 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>This course is a 20 credit module (CORC156) from a Foundation Degree, awarded by Plymouth University.</p>
 <p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p>This course is ideal for anybody involved in planning, delivering or evaluating events; or for those aspiring to work as event managers or coordinators with no previous experience. </p>]]></dc:description>
@@ -16536,91 +16464,6 @@ Cornwall
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Stoke Climsland</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL17 8PB</mlo:postcode>
-              <mlo:address>Stoke Climsland
-Callington
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<div>
-<p>The Research Masters is a Masters-level degree which incorporates taught elements and an extended research phase, culminating in a dissertation</p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215834</dc:identifier>
-      <dc:subject>Research  Masters  Land-based  Agriculture  Equine  Animal Science  Public Services</dc:subject>
-      <dc:subject xsi:type=":Subject">Duchy College</dc:subject>
-      <dc:title>Research Masters (ResM) Agriculture</dc:title>
-      <dc:type xsi:type=":Type" identifier="PG">Post Graduate Certificate or Diploma</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215834</mlo:url>
-      <abstract>The Research Masters is a Masters-level degree</abstract>
-      <learningOutcome><![CDATA[<p>Possible Careers</p>
-<ul>
-<li><span style="line-height: 1.4;">Advisor</span></li>
-<li><span style="line-height: 1.4;">High-level Manager</span></li>
-<li><span style="line-height: 1.4;">Academic</span></li>
-<li><span style="line-height: 1.4;">Researcher</span></li>
-<li><span style="line-height: 1.4;">Industry Consultant</span></li>
-</ul>
-<p>Our Careers Service is available to give information, advice and guidance on all aspects of education, training and career progression. </p>
-<p>Tel: 01209 616270 Monday, Tuesday and Thursday (9am- 4pm)</p>
-<p>Email: <a href="mailto:careers@cornwall.ac.uk">careers@cornwall.ac.uk</a></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This programme offers you the opportunity to study a specific area of agriculture and food, biological science or equitation science in detail and depth. It is a higher-level qualification that allows those with a good understanding of agriculture and food science to further develop and focus their skills.</p>
-<p>There is an increasing need for highly trained and skilled scientists to assist in the development and understanding of agriculture and food, biological and equine sciences.</p>
-<p>Graduates from this programme of study will help to meet this need.</p>
-<p>The Research Masters will develop and advance your knowledge of the science underpinning agriculture and food. You will quickly develop an understanding of the importance of the multidisciplinary approach to this diverse and complex area.</p>
-<p>The Research Masters incorporates both taught and research elements and can be completed either on a full or part-time basis.</p>
-<p>You will undertake two taught modules which will make up 40 credits in total. These modules typically focus on research methods and contemporary issues but may vary according to your subject area.   You will then undertake a substantial research project under the supervision of a team of subject experts.</p>
-<p>Whilst undertaking the ResM you will be supported by two supervisors (the Director of Studies based at Duchy working with a member of staff from Plymouth University) who will assist you with the selection of your optional module. Your supervisor will also guide you on the extended research project which is expected to take 12 months to complete. The research project is examined by means of thesis and viva voce.</p>
-<p>This programme offers you the opportunity to study a subject that truly inspires and engages you. You will advance and expand your skills in a supportive and personal environment. Whilst our staff are</p>
-<p>academically acclaimed they are also accessible and genuinely interested in helping you to develop your potential. All this in an environment that is both intellectually stimulating and visually outstanding.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>2:1 in a biological or related science BSc (Hons) degree with a 2:1 grade for the honours project element</p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <abbr>PG</abbr>
-        <dcterms:educationLevel>7</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Postgraduate</dc:description>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSAPGRES2</dc:identifier>
-        <dc:subject>Duchy College</dc:subject>
-        <dc:title>Research Masters (Part Time)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DSAPGRES2</mlo:url>
-        <mlo:start dtf="2016-09-25">26 September 2016</mlo:start>
-        <end dtf="2019-02-24">24 February 2019</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Stoke Climsland</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Research Masters 36M">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must have been ordinarily resident in the UK or the European Union (EU) or the European Economic Area (EEA) continuously for at least the previous three years on 31st July 2013.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
         <venue>
           <provider>
             <dc:title>Duchy College - Stoke Climsland</dc:title>
