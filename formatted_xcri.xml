@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-25T17:05:07Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-26T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -1827,47 +1827,6 @@ Cornwall</mlo:address>
       </mlo:qualification>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ113</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Basic Cake Decorating (Beginners)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREQ113</mlo:url>
-        <mlo:start dtf="2016-09-26">27 September 2016</mlo:start>
-        <end dtf="2016-12-06">06 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ114</dc:identifier>
         <dc:subject>Catering &amp; Hospitality</dc:subject>
         <dc:title>Basic Cake Decorating (Intermediate)</dc:title>
@@ -2145,47 +2104,6 @@ Cornwall</mlo:address>
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ134</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Christmas Cupcakes </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREQ134</mlo:url>
-        <mlo:start dtf="2016-11-26">26 November 2016</mlo:start>
-        <end dtf="2016-11-26">26 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
     </course>
     <course>
       <dc:description><![CDATA[<p>A series of singing workshops for family, friends, groups or individuals</p>]]></dc:description>
@@ -2286,47 +2204,6 @@ Cornwall</mlo:address>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
         <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
           <CE:cost type="FullFee" amount="60" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREW105</dc:identifier>
-        <dc:subject>Engineering</dc:subject>
-        <dc:title>Welding Skills - ARC/MIG (JM)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREW105</mlo:url>
-        <mlo:start dtf="2016-11-05">05 November 2016</mlo:start>
-        <end dtf="2016-11-26">26 November 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
             <dc:description>For information on fee payment options please contact our Enquiries Team.
 </dc:description>
             <CE:FundingCriteria>
@@ -16609,41 +16486,6 @@ Cornwall
         <dcterms:educationLevel>2</dcterms:educationLevel>
       </mlo:qualification>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSDW2FPS1</dc:identifier>
-        <dc:subject>Early Years, Playwork &amp; Forest School</dc:subject>
-        <dc:title>Forest School Programme Support apt awards Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DSDW2FPS1</mlo:url>
-        <mlo:start dtf="2016-09-26">27 September 2016</mlo:start>
-        <end dtf="2017-09-26">27 September 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Stoke Climsland</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Stoke Climsland</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL17 8PB</mlo:postcode>
-              <mlo:address>Stoke Climsland
-Callington
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSDW2FPS2</dc:identifier>
         <dc:subject>Early Years, Playwork &amp; Forest School</dc:subject>
         <dc:title>Forest School Programme Support apt awards Award Level 2</dc:title>
@@ -19041,122 +18883,6 @@ Cornwall
               <mlo:address>Stoke Climsland
 Callington
 Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><em><strong>Please note: this foundation degree is based at the UKSA centre in Cowes, Isle of Wight and is validated and supported by Falmouth Marine School.</strong></em></p>
-<p> <span style="line-height: 1.4;"> </span></p>
-<p>Do you want to study a life changing course?  Do you have the passion to work in the Superyacht industry?  Do you already work in the Superyacht industry?  The FdSc in Operational Yacht Science is designed to work to produce professional Superyacht employees who want to have an employment edge amongst their peers and increase their options for their future careers.</p>
-<p> </p>
-<p>You will gain the skills you need to work as Deck Crew onboard Superyachts, <span>working towards MCA Officer of the Watch 3000,  </span><span>(OOW<br />3000), allowing you to work as a Deck Officer on Yachts up to 3000 GRT</span> plus the experience and qualifications that allow you to work towards First Mate and Captain level.  We work in partnership with the UKSA Cadetship course, and have a 90% employment record.  If you are able to work hard, enjoy the yachting industry and are happy to spend long times abroad, then this course is worth the enquiry.</p>
-<p> </p>
-<p>NB.  As this course is specialist and involves a lot of time on yachts achieving RYA and MCA qualifications, there are additional fees.  Bursaries and sponsorship routes are available for those that enquire.  The additional course fees are available on request.<br /><br />For more information about UKSA click here <a href="http://uksa.org/professional-training/deck/fdsc-foundation-degree-in-operational-yacht-science/">http://uksa.org/professional-training/deck/fdsc-foundation-degree-in-operational-yacht-science/</a></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p><strong>Modules</strong></p>
-<p><strong>Year 1</strong></p>
-<ul>
-<li>Yacht Theory and Practice (20 credits)</li>
-<li>Yacht Operations (20 credits)</li>
-<li>Navigation and Meteorology (20 credits)</li>
-<li>Reflective Practice (20 credits)</li>
-<li>Marine  Engineering (20 credits)</li>
-<li>Personal & Employability Skills Development (20 credits)</li>
-</ul>
-<p><strong>Year 2</strong></p>
-<ul>
-<li>Small Ships Business (20 credits)</li>
-<li>Ocean Passage Planning and Global Weather Systems (20 credits)</li>
-<li>Yacht  Construction and Design (20 credits)</li>
-<li>Leadership and Management at Sea (20 credits)</li>
-<li>Research Project (30 credits)</li>
-</ul>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/100565</dc:identifier>
-      <dc:identifier xsi:type=":kisWidget">http://widget.unistats.ac.uk/Widget/10001696/100565/</dc:identifier>
-      <dc:identifier xsi:type=":kisCourseid">100565</dc:identifier>
-      <dc:identifier xsi:type=":kisCourse">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/System.Collections.Generic.List`1[XCRI.Interfaces.IIdentifier].xml</dc:identifier>
-      <dc:identifier xsi:type=":kisAccreditation">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100565/Accreditation.xml</dc:identifier>
-      <dc:identifier xsi:type=":kisStages">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100565/Stages.xml</dc:identifier>
-      <dc:identifier xsi:type=":kisStatistics">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100565/Statistics.xml</dc:identifier>
-      <dc:identifier xsi:type=":ucasCourseCode">3U6F</dc:identifier>
-      <dc:identifier xsi:type=":ucasInstitutionCode">C78</dc:identifier>
-      <dc:subject>Operational Yacht Science. Watersports, sailing</dc:subject>
-      <dc:subject xsi:type=":Subject">Falmouth Marine School</dc:subject>
-      <dc:title>FdSc Operational Yacht Science</dc:title>
-      <dc:type xsi:type=":Type" identifier="FO">Foundation Degree</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/100565</mlo:url>
-      <abstract>Do you want to study a life changing course?</abstract>
-      <learningOutcome><![CDATA[<p><span>On completion of this course you will be experienced in all areas of yachting and will be able to start a career in areas such as:</span></p>
-<ul>
-<ul>
-<li>Yacht Crew</li>
-<li>Bosun</li>
-<li>Mate</li>
-<li>Captain</li>
-</ul>
-</ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This programme has been designed in order for you to gain the qualifications and experience that you will need for a career in the Superyacht industry.  You will be spending much of your time in yachts, working 6 or 7 days a week plus evenings, learning the theory and practicing yacht science.  The modules are designed and flow so that you pick up the basics early in the course, to allow progression to the second year.  Some of the modules are embedded into the RYA and MCA qualifications that you will be studying to gain even more qualifications that the Superyacht industry recognise e.g. RYA Yachtmaster and MCA Engineering.</p>
-<p>The course is split between 2 intensive learning periods based at the UKSA in Cowes.  After the first learning period (year 1) you will have enough qualifications to be expected, with support, to gain a work placement in the Superyacht industry.  After your work placement you return to the UKSA to finish the second year of your course and add more industry relevant qualifications to your portfolio.</p>
-<p>Whilst at the UKSA in Cowes you will be part of a large yachting community, with the benefit of intimate class sizes to ensure an encouraging a productive, driven and learning atmosphere.</p>
-<p>You will be assessed mainly though coursework and assignments. The assignments will be industry based and the work you carry out will be largely be scenarios and reflection on performance. You will also have to sit in class tests, participate in group work and presentations, and also write reports based on your practical work.</p>
-<p>If you already have relevant industry qualifications (a list available on request), or are doing them privately, you can access the modules privately, organised through Falmouth Marine School, delivered at the UKSA in Cowes.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>120 UCAS points from AS and A-Levels (at least 80 points must be at A2-level) or relevant level 3 qualification i.e. BTEC National Diploma/BTEC Extended Diploma - PPP Grades required, specific unit grades may be required. Access to HE Diplomas - 45 credits at level 3. Plus GCSEs at grade C or above in English language and mathematics: alternatives at Level 2 may be considered.</p>
-<p>Mature applicants with relevant experience but without the stated qualifications will be considered individually and are encouraged to apply.</p>
-<p>Previous learning and experience may be credited. If in doubt, call 0845 22 32 567 or email <a href="mailto:enquiries@cornwall.ac.uk">enquiries@cornwall.ac.uk</a></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00246159</dc:identifier>
-        <abbr>FO</abbr>
-        <dcterms:educationLevel>5</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <mlo:credit>
-        <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
-        <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 5</level>
-        <value xmlns="http://purl.org/net/cm">240</value>
-      </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16FCHFO1OYS</dc:identifier>
-        <dc:subject>Falmouth Marine School</dc:subject>
-        <dc:title>FdSc Operational Yacht Science (Full-Time)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16FCHFO1OYS</mlo:url>
-        <mlo:start dtf="2016-09-26">27 September 2016</mlo:start>
-        <end dtf="2018-06-25">26 June 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Falmouth Marine School</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Falmouth Marine School</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="7500" category="120 Credit Degree/Diploma Learner">
-            <dc:description>This fees for this course may be met through an HE Loan.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You have achieved a Full Level 3 (A-Levels, NVQ Level 3, Etc) qualification.</CE:criteria>
-              <CE:criteria>You must have been ordinarily resident in the UK or the European Union (EU) or the European Economic Area (EEA) continuously for at least the previous three years on 31st July 2013.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Falmouth Marine School</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR11 3QS</mlo:postcode>
-              <mlo:address>Killigrew Street
-Falmouth
-Cornwall
-
 </mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
