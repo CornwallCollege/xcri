@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-26T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-11-27T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -732,47 +732,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA180</dc:identifier>
-        <dc:subject>Construction Trades</dc:subject>
-        <dc:title>Woodwork as a Hobby (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA180</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2016-12-07">07 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA182</dc:identifier>
@@ -1796,10 +1755,9 @@ Cornwall</mlo:address>
     </course>
     <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>The intermediate level course deals with Progression from beginners course and develops the basic cake decorating and design skills, introduced on the previous course </p>]]></dc:description>
-      <dc:description><![CDATA[<div>We offer a great programme of cake decorating to suit all requirements .  The Basic Cake Decorating  course is suitable for anyone who wants to learn how to use basic  skills and improve on current knowledge.  We offer a 10 week programme to cover the introductory skills and will follow up with another 10 week programme learning  more advanced techniques.   We will also be offering Saturday masterclasses and workshops for specific cupcake designs and special occasions.  These workshops deliver skills and techniques to create individual masterpieces to impress family and friends.</div>
+      <dc:description><![CDATA[<div>This course is suitable for anyone who wants to learn how to use basic cake decorating skills.  We offer a 10 week programme to cover the introductory skills and will follow up with another 10 week programme learning  more advanced techniques.   We will also be offering Saturday masterclasses and workshops for Celebration Cupcakes and Bouquets of Cupcakes .
 <div>
-<div>
-<p><img src="/sites/default/files/images/IMG_3940_1_0.JPG" alt="" width="800" height="800" /> </p>
+<p> </p>
 </div>
 </div>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
@@ -1807,6 +1765,7 @@ Cornwall</mlo:address>
 <p>We offer a range of cake making and decorating courses at our Camborne,  St Austell and Saltash sites.  Our tutors have a wealth of skills and qualifications to ensure you develop techniques and gain experience to produce your own creatively designed and decorated cakes.</p>
 </div>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214904</dc:identifier>
+      <dc:subject>cookery ,  baking ,  celebration cupcakes, cakes , bouquets cupcakes ,  cake decorating  , fondant , royal icing ,Cornwall College St Austell</dc:subject>
       <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
       <dc:title>Cake Making and Decoration (JM)</dc:title>
       <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
@@ -1825,47 +1784,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ114</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Basic Cake Decorating (Intermediate)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREQ114</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2016-12-07">07 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ115</dc:identifier>
@@ -5648,41 +5566,6 @@ Cornwall</mlo:address>
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBINNSCE2</dc:identifier>
-        <dc:subject>Information &amp; Communication Technology</dc:subject>
-        <dc:title>CISCO CCNA Exploration 2 - Routing Protocol and Concepts (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNSCE2</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
     </course>
     <course>
       <dc:description><![CDATA[<p>This course provides a comprehensive, theoretical, and practical approach to learning the technologies and protocols needed to design and implement a converged switched network. Students learn about the hierarchical network design model and how to select devices for each layer. The course explains how to configure a switch for basic functionality and how to implement Virtual LANs, VTP, and Inter-VLAN routing in a converged network. The different implementations of Spanning Tree Protocol in a converged network are presented, and students develop the knowledge and skills necessary to implement a WLAN in a small-to-medium network.</p>]]></dc:description>
@@ -5705,41 +5588,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNFCE3</mlo:url>
         <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
         <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBINNSCE3</dc:identifier>
-        <dc:subject>Information &amp; Communication Technology</dc:subject>
-        <dc:title>CISCO CCNA Exploration 3 - LAN Switching and Wireless (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNSCE3</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -5791,41 +5639,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNFCE4</mlo:url>
         <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
         <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBINNSCE4</dc:identifier>
-        <dc:subject>Information &amp; Communication Technology</dc:subject>
-        <dc:title>CISCO CCNA Exploration 4 - Accessing the WAN (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNSCE4</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -5942,82 +5755,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNFCI4</mlo:url>
         <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
         <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBINNSCI2</dc:identifier>
-        <dc:title>CISCO CCNA Discovery 2 - Working at a Small/Medium Business (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNSCI2</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CBINNSCI4</dc:identifier>
-        <dc:title>CISCO CCNA Discovery 4 - Designing and Supporting Computer Networks (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CBINNSCI4</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -18883,57 +18620,6 @@ Cornwall
               <mlo:address>Stoke Climsland
 Callington
 Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215107</dc:identifier>
-      <dc:title>HNC Operational Yacht Science</dc:title>
-      <dc:type xsi:type=":Type" identifier="HC">Higher National Certificate</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215107</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>00300844</dc:identifier>
-        <abbr>HC</abbr>
-        <dcterms:educationLevel>4</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16FCMHCOYS4</dc:identifier>
-        <dc:title>HNC Operational Yacht Science</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16FCMHCOYS4</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2017-06-08">09 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Falmouth Marine School</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Falmouth Marine School</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Falmouth Marine School</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR11 3QS</mlo:postcode>
-              <mlo:address>Killigrew Street
-Falmouth
-Cornwall
-
 </mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
@@ -34328,6 +34014,101 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[This course will teach you the basic Italian to help you enjoy your holiday, through a variety of activities covering travel, accommodation, eating out, directions, shopping and other situations - from the ordinary to the more exotic!]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/214908</dc:identifier>
+      <dc:subject>italian language</dc:subject>
+      <dc:subject xsi:type=":Subject">Languages</dc:subject>
+      <dc:title>Learn Italian (JM)</dc:title>
+      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/214908</mlo:url>
+      <mlo:qualification>
+        <dc:identifier>Z0001768</dc:identifier>
+        <abbr>RE</abbr>
+        <dcterms:educationLevel>X</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL109</dc:identifier>
+        <dc:subject>Languages</dc:subject>
+        <dc:title>Italian Improvers (Evening)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL109</mlo:url>
+        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
+        <end dtf="2017-03-22">22 March 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand"/>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Leisure">Leisure</CD:sector>
+        </sectors>
+        <studyMode identifier="FL">Flexible</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL110</dc:identifier>
+        <dc:subject>Languages</dc:subject>
+        <dc:title> Italian mixed ability  (JM)</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL110</mlo:url>
+        <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
+        <end dtf="2017-03-22">22 March 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Leisure">Leisure</CD:sector>
+        </sectors>
+        <studyMode identifier="PT">Part Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College St Austell</dc:title>
+            <mlo:location>
+              <mlo:postcode>PL25 4DJ</mlo:postcode>
+              <mlo:address>Tregonissey Road
+St Austell
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:description><![CDATA[Learn the basics to be able to understand and speak Japanese.]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214911</dc:identifier>
       <dc:subject>japanese, foreign language, asia, japan, culture, </dc:subject>
@@ -35751,142 +35532,6 @@ Cornwall</mlo:address>
             <dc:title>Other sites not listed</dc:title>
             <mlo:location>
               <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[This course will teach you the basic Italian to help you enjoy your holiday, through a variety of activities covering travel, accommodation, eating out, directions, shopping and other situations - from the ordinary to the more exotic!]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214908</dc:identifier>
-      <dc:subject>italian language</dc:subject>
-      <dc:subject xsi:type=":Subject">Languages</dc:subject>
-      <dc:title>Learn Italian (JM)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214908</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>Z0001768</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL109</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title>Italian Improvers (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL109</mlo:url>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL110</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title> Italian mixed ability  (JM)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL110</mlo:url>
-        <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL103</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title>Italian Beginners (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL103</mlo:url>
-        <mlo:start dtf="2016-09-27">28 September 2016</mlo:start>
-        <end dtf="2016-12-07">07 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
