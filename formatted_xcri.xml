@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-02T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-03T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -864,48 +864,6 @@ Cornwall</mlo:address>
           <CD:sector type="Leisure">Leisure</CD:sector>
         </sectors>
         <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:description><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="434"><tbody><tr height="30"><td height="30" width="434">Bring your digital camera and come and understand the basics whilst having fun at the same time</td></tr></tbody></table>]]></dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA220</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Digital Photography</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA220</mlo:url>
-        <mlo:start dtf="2016-10-03">04 October 2016</mlo:start>
-        <end dtf="2017-11-09">09 November 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
@@ -29029,81 +28987,6 @@ Worcester</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This is a three year part time modular course, devised by CHS and validated by the University of Plymouth, with years 1 and 2 incorporating the Chartered Institute of Housing's (CIH) Level 4 Certificate and Diploma in Housing. The programme is being offered by CHS as part of its range of blended learning courses for those working in housing.  If you meet the requirements of the course you will be awarded your foundation degree by the University of Plymouth and the Level 4 Certificate and Diploma by the CIH.</p>
-<p>This Foundation Degree (FdA) provides an opportunity for those who work in all types of housing with support to advance both your personal and professional development and your academic development.  It is designed to enable you to develop the skills and knowledge you need to operate confidently in today’s challenging and rapidly changing professional climate.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/100092</dc:identifier>
-      <dc:identifier xsi:type=":kisWidget">http://widget.unistats.ac.uk/Widget/10001696/100092/</dc:identifier>
-      <dc:identifier xsi:type=":kisCourseid">100092</dc:identifier>
-      <dc:identifier xsi:type=":kisCourse">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/System.Collections.Generic.List`1[XCRI.Interfaces.IIdentifier].xml</dc:identifier>
-      <dc:identifier xsi:type=":kisAccreditation">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100092/Accreditation.xml</dc:identifier>
-      <dc:identifier xsi:type=":kisStages">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100092/Stages.xml</dc:identifier>
-      <dc:identifier xsi:type=":kisStatistics">http://UBMH1466PTED0Z07A3WA@data.unistats.ac.uk/api/KIS/Institution/10001696/Course/100092/Statistics.xml</dc:identifier>
-      <dc:subject xsi:type=":Subject">Public Services</dc:subject>
-      <dc:title>FdA Housing With Support</dc:title>
-      <dc:type xsi:type=":Type" identifier="FO">Foundation Degree</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/100092</mlo:url>
-      <abstract>This FdA is for those who work in all types of housing with support</abstract>
-      <learningOutcome><![CDATA[<p>Completing the Foundation Degree successfully gives you opportunities to progress to the final stages of a full honours degree.  One such opportunity would be to progress to Plymouth University’s BSc (Hons) Public Services. Please note there is a deadline for progression applications.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During the course you gain a broad knowledge of the social, cultural, environmental, economic, legal and political frameworks within which supported housing operates. You will be able to apply key service management principles and quality standards, including staff and performance management. You will also gain a knowledge of the trends within supported housing on an international level. </p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>120 UCAS points from AS and A-Levels (at least 80 points must be at A2-level) or relevant level 3 qualification i.e. BTEC National Diploma/BTEC Extended Diploma - PPP Grades required. Access to HE Diplomas - 45 credits at level 3.  Plus GCSEs at grade C or above in English language and mathematics: alternatives at Level 2 may be considered.</p>
-<p>Potential students must be prepared to be actively involved with the many practical opportunities whilst on the course.</p>
-<p>Mature applicants with relevant experience but without the stated qualifications will be considered individually and are encouraged to apply.</p>
-<p>Previous learning and experience may be credited. If in doubt, call 0845 22 32 567 or email<a href="mailto:enquiries@cornwall.ac.uk">enquiries@cornwall.ac.uk</a></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00246130</dc:identifier>
-        <abbr>FO</abbr>
-        <dcterms:educationLevel>5</dcterms:educationLevel>
-        <awardedBy>Plymouth University</awardedBy>
-      </mlo:qualification>
-      <mlo:credit>
-        <scheme xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS</scheme>
-        <level xmlns="http://purl.org/net/cm">http://purl.org/net/cm/terms/ECTS#Level 5</level>
-        <value xmlns="http://purl.org/net/cm">240</value>
-      </mlo:credit>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:description xsi:type="CD:courseCategory">Distance Learning</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16SHXFO1HWS</dc:identifier>
-        <dc:subject>Public Services</dc:subject>
-        <dc:title>FdA Housing With Support (Part-Time) (Block Release) (E-Learning) </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16SHXFO1HWS</mlo:url>
-        <mlo:start dtf="2016-10-03">04 October 2016</mlo:start>
-        <end dtf="2019-06-13">14 June 2019</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">School of Education</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>ON</attendanceMode>
-        <attendancePattern>DR</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Centre for Housing and Support</dc:title>
-            <mlo:location>
-              <mlo:postcode>WR4 9EE</mlo:postcode>
-              <mlo:address>1st Floor
-Elgar House
-Shrub Hill Road
-Worcester</mlo:address>
-              <mlo:phone>(01905) 727272</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216324</dc:identifier>
       <dc:title> Awareness of Dementia CG Award Level 2 </dc:title>
       <dc:type xsi:type=":Type" identifier="W2">Award Level 2</dc:type>
@@ -33415,49 +33298,6 @@ Cornwall</mlo:address>
               <mlo:address>Tregonissey Road
 St Austell
 Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214752</dc:identifier>
-      <dc:subject>Negotiation, skills, influence, product knowledge</dc:subject>
-      <dc:title>Negotiation Skills</dc:title>
-      <dc:type xsi:type=":Type" identifier="NN">Others (inc College Cert, Tutorial, Enrichment)</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214752</mlo:url>
-      <mlo:objective><![CDATA[<p>As part of this workshop you will cover:</p><ul><li>What qualities are needed to be successful in influencing and negotiating</li><li>Understand motivations and how to respond to these</li><li>Dealing with challenging situations/handling objections</li></ul><p> </p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001826</dc:identifier>
-        <abbr>NN</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMNNRNSD</dc:identifier>
-        <dc:title>Business Negotiation Skills</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMNNRNSD</mlo:url>
-        <mlo:start dtf="2016-10-03">04 October 2016</mlo:start>
-        <end dtf="2017-10-03">04 October 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Other sites not listed</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
