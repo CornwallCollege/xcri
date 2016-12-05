@@ -1077,48 +1077,6 @@ Cornwall</mlo:address>
       </mlo:qualification>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB110</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Reiki Healing (Usui) Level 2 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREB110</mlo:url>
-        <mlo:assessment>&lt;p&gt;We are now offering 3 sessions of Reiki shares.  Reiki shares are an interesting and validating way to experience personal growth and understanding of the Reiki Healing level you have been attuned to.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-10-05">06 October 2016</mlo:start>
-        <end dtf="2016-12-15">15 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB113</dc:identifier>
         <dc:subject>Hair &amp; Beauty</dc:subject>
         <dc:title>Reiki (M) Shares </dc:title>
@@ -34681,39 +34639,6 @@ Cornwall</mlo:address>
         <abbr>W4</abbr>
         <dcterms:educationLevel>4</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW4RM42</dc:identifier>
-        <dc:title>Management and Leadership QCF Award Level 4</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW4RM42</mlo:url>
-        <mlo:start dtf="2016-11-21">21 November 2016</mlo:start>
-        <end dtf="2016-12-05">05 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>UNK</attendanceMode>
-        <attendancePattern>UNK</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Bicton College</dc:title>
-            <mlo:location>
-              <mlo:postcode>EX9 7BY</mlo:postcode>
-              <mlo:address>East Budleigh
-Budleigh Salterton
-Devon</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW4RM43</dc:identifier>
         <dc:title>Management and Leadership QCF Award Level 4</dc:title>
