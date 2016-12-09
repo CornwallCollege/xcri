@@ -12674,41 +12674,6 @@ Cornwall</mlo:address>
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBW3WNOV</dc:identifier>
-        <dc:subject>Engineering</dc:subject>
-        <dc:title>Installation and Maintenance of Water Harvesting and Re-Use Systems City &amp; Guilds Award Level 3 </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBW3WNOV</mlo:url>
-        <mlo:start dtf="2016-11-04">04 November 2016</mlo:start>
-        <end dtf="2016-12-09">09 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
     </course>
     <course>
       <dc:description><![CDATA[<p>On-Site Assessment and Training (OSAT) helps experienced workers get the qualifications to prove they can do the job. It turns their existing skills and experience into a nationally recognised qualification such as an NVQ or SVQ. Having these qualifications also helps qualify them for a Construction Skills Certification Scheme (CSCS) card</p>
