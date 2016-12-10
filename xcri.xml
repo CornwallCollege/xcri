@@ -35338,40 +35338,6 @@ Cornwall</mlo:address>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C62</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Cosy Cushions Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C62</mlo:url>
-        <mlo:start dtf="2016-12-10">10 December 2016</mlo:start>
-        <end dtf="2016-12-10">10 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D20</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
