@@ -460,58 +460,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p></p><p><span>For further information you can call the College on 01726 226 or visit </span><a href="http://www.cornwall.ac.uk/s"><span>www.cornwall.ac.uk/s</span></a><span><span><span><span>taustell</span></span>  Impartial careers advice and guidance is also available from the College.  Financial support for childcare and transport may also be available, subject to meeting criteria.  </span></span></p><p></p>]]></dc:description>
-      <dc:description><![CDATA[<p></p><p><span><span>This course is suitable for anyone who wants to study on and Access course or other Level 3 qualification. This course would particularly suit those returning to education who would like to research their options, gain academic skills and confidence in a friendly and supportive environment. </span></span></p><p></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/213737</dc:identifier>
-      <dc:title>Award In Progression apt awards Level 3 (QCF) (M)</dc:title>
-      <dc:type xsi:type=":Type" identifier="W3">Award Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/213737</mlo:url>
-      <learningOutcome><![CDATA[<p></p><p><span><span>Students can progress onto an Access Diploma course in a range of subjects or other vocational qualifications.</span></span></p><p></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p></p><p><span><span>You will study three units over the duration of 10 weeks, attending college twice a week (Thursday and Friday).  The college day will be 10.00am- 3.00pm.  You will study a range of subjects that build on existing skills and prepare you for academic study.</span></span></p><p><br /><span>Course units are:  Personal Study Skills, Personal Career Planning and Presentation Software.  </span></p><p><span><span>Assessment will take the form of coursework, presentations or in-class assessments, depending on the unit that you are studying.</span></span></p><p><span> </span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>Successful completion of initial assessment at interview with results of level 1 or above in both maths and English.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>6008487X</dc:identifier>
-        <abbr>W3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKFW3APRO</dc:identifier>
-        <dc:title>DO NOT USE Award In Progression APT Level 3 (QCF)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKFW3APRO</mlo:url>
-        <mlo:start dtf="2016-10-12">13 October 2016</mlo:start>
-        <end dtf="2016-12-16">16 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[This course is suitable for students over 19 years of age. Focussing on advanced techniques and design, you will explore the use of different materials and construction processes. Materials for the first project are included.<p>.</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214893</dc:identifier>
@@ -32709,55 +32657,6 @@ Cornwall
 St Austell
 Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216753</dc:identifier>
-      <dc:title>Learning and Development CIPD Certificate Level 3</dc:title>
-      <dc:type xsi:type=":Type" identifier="C3">Certificate Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216753</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>60151729</dc:identifier>
-        <abbr>C3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMC3RLD1</dc:identifier>
-        <dc:title>Learning and Development CIPD Certificate Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMC3RLD1</mlo:url>
-        <mlo:start dtf="2016-10-12">13 October 2016</mlo:start>
-        <end dtf="2017-03-27">28 March 2017</end>
-        <mlo:duration interval="P20D"/>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Truro</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR1 2JL</mlo:postcode>
-              <mlo:address>Chiltern House
-City Road
-Truro</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
           </provider>
