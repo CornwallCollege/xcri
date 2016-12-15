@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-15T14:05:03Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-15T17:05:02Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -5340,7 +5340,6 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>Drawing and Watercolour Painting courses for beginners.</p>
 <p>This course runs on Tuesdays from 10.30am to 12.30pm at Cornwall College Camborne.</p>
-<p>10 weeks - starting 20th of September 2016 - course fee £100.00</p>
 <p>10 weeks - starting 17th of January 2017 - course fee £100.00</p>
 <p>8 weeks - starting 25th of April 2017 - course fee £80.00</p>
 <p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
@@ -5398,7 +5397,6 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>Drawing and Painting for All course at Kehelland Methodist Chapel Hall in Kehelland just outside Camborne.</p>
 <p>These course run on a Thursday morning from 10.45am to 12.45pm or a Thursday afternoon from 1.15pm to 3.15pm.</p>
-<p>10 weeks - starting 22nd of September 2016 - course fee £100.00</p>
 <p>10 weeks - starting 19th of January 2017 - course fee £100.00</p>
 <p>8 weeks - starting 27th of April 2017 - course fee £80.00</p>
 <p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
@@ -5503,7 +5501,6 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>The Drawing and Watercolour Painting for All course is suitable for all those with some drawing and watercolour experience or as a follow on from our Drawing & Watercolour Painting for Beginners course.</p>
 <p>This course runs on Tuesday afternoons from 1.00pm to 3.00pm at Cornwall College Camborne.</p>
-<p>10 weeks - starting 20th of September 2016 - course fee £100.00</p>
 <p>10 weeks - starting 17th of January 2017 - course fee £100.00</p>
 <p>8 weeks - starting 25th of April 2017 - course fee £80.00</p>
 <p><strong>Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</strong></p>
@@ -5571,7 +5568,6 @@ Cornwall</mlo:address>
       <dc:description><![CDATA[<p>Come and develop new skills with an experienced tutor.</p>
 <p>This course runs on Wednesday mornings from 10.00am to 12.00pm at the Sewing Studio in Redruth.</p>
 <p>The 10 week course fee is £112.00</p>
-<p>10 weeks - starting Wednesday 21st of September 2016</p>
 <p>10 weeks - starting Wednesday 11th of January 2017</p>
 <p>10 weeks - starting Wednesday 26th of April 2017</p>
 <p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
@@ -6149,7 +6145,6 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>Puzzled by the huge range of artist's colours? This one-day Colour Mixing Workshop for Beginners explains which are the must-haves and which are the ones you can do without, and how to get the most out of this basic range in terms of mixing them.</p>
 <p>Saturdays from 10.00am to 3.30pm.</p>
-<p>Saturday 15th of Ocotber 2016</p>
 <p>Saturday 11th of March 2017</p>
 <p>Saturday 13th of May 2017</p>
 <p>Fee per workshop - £33.00</p>
@@ -35212,16 +35207,16 @@ Cornwall</mlo:address>
 <p>Fee £35.00 per workshop.</p>
 <p>Please choose from our course options:-</p>
 <ul>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Sock Monkeys Workshop                       Saturday </span><span style="font-size: medium;">15th of October 2016</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Oil Cloth Bags Workshop                        Saturday </span><span style="font-size: medium;">12th of November 2016</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Cosy Cushion Workshop                         Saturday </span><span style="font-size: medium;">10th of December 2016</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Skirts Workshop             Saturday </span><span style="font-size: medium;">21st of January 2017</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Tops Workshop              Saturday </span><span style="font-size: medium;">25th of February 2017</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Trousers Workshop       Saturday </span><span style="font-size: medium;">18th of March 2017</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Vintage Style Apron Workshop              Saturday </span><span style="font-size: medium;">22nd of April 2017</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Up-cycling Textiles Day Workshop        Saturday </span><span style="font-size: medium;">6th of May 2017</span></span></li>
 <li><span style="font-family: Calibri;"><span style="font-size: medium;">Applique Picture Panel Workshop         Saturday </span><span style="font-size: medium;">10th of June 2017</span></span></li>
-&l]]></dc:description>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Tote Bags Workshop                                Saturday 24th of June 2017</span></span></li>
+</ul>
+<p> <strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri;"><span style="font-size: medium;"> </span></span></p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216245</dc:identifier>
       <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
