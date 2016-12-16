@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-15T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-16T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -3145,77 +3145,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>Ideal if: you want to work in the motor industry in behicle maintenance and repair, or if you are already in the industry and wish to gain a recognised qualification.</p>
-<p>You'll need:  three GCSEs at grade D or above,e including English, mathematics or science, or an equivalent qualification.</p>
-<p>You'll learn: from a variety of modules covering topics such as workshop safety, engine systems, cooling and librication, braking systems and wheels and tyres.</p>
-<p>Expect: to be continually assessed throughout your course.</p>
-<p>You'll love: developing the technical knowledge needed to maintain vehicles.</p>
-<p>You'll go onto: employment or further studies at level 2, such Vehicle Fitting Principles.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211654</dc:identifier>
-      <dc:subject>motec 1 vehicle maintenance auto automotive car</dc:subject>
-      <dc:subject xsi:type=":Subject">Motor Vehicle</dc:subject>
-      <dc:title>Vehicle Maintenance IMIAL Certificate Level 1 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C1">Certificate Level 1</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211654</mlo:url>
-      <abstract>This course is ideal if you are looking to work in the motor industry in vehicle maintenance and repair</abstract>
-      <mlo:assessment>&lt;p&gt;You will be continually assessed throughout the course.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<div>
-<p>This course forms part of a collection of Institute of The Motor Industry Awards offered at Cornwall College. Holding a qualification from The Institute of the Motor Industry will show colleagues and employers that you have a professional and recognised qualification which is much respected in the industry.</p>
-<p>There are a number of roles available to you in the Motor Industry once you have the right qualifications; from working on Body Repair in the workshop to working in the Fast Fit industry, providing parts or even running your own garage. Cornwall College offer the full package of qualifications and support to help you get there. Once you have completed Motec, you could choose from Light and Heavy Vehicle Maintenance, Accident Repair, Vehicle Fitting and Parts Operations to apprenticeships in Paint and Body Repair.</p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>You will be training in our state of the art motor vehicle department and learning how to use the tools and equipment of the motor vehicle trade. This course offers study in Workshop Safety, Engine Systems, Cooling and Lubrication, Steering and Suspension, Braking Systems, Wheels and Tyres and Electrical Foundation Skills.</p>
-<p>Students will work on a variety of vehicles and most assessments are task based which means less exams and more practical time in the workshop! Cornwall College want to engage you as much as possible and we aim to provide you with both stimulating and relevant training.</p>
-<p>There is also some classroom study to enable you to understand the technology that makes a vehicle work and as we want you to succeed on the course and prepare you for working life, you will also complete Functional Skills in Maths, English and IT.</p>
-<p>Motec 1 is a 6 month course and runs from September to February and allows for progression to Motec 2 which runs from February to June in the following academic year.</p>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<div>
-<p>Students on this course will usually hold 3 GCSE grade Ds in English, Maths and Science.</p>
-<p>If you are unsure as to whether or not you meet the requirements, please ring Cornwall College on 0845 2232567 and speak to one of our advisors who will be happy to discuss this with you. You will be accepted onto the course with a satisfactory interview and initial assessment.</p>
-</div>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50105474</dc:identifier>
-        <abbr>C1</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ATEC11MF1</dc:identifier>
-        <dc:subject>Motor Vehicle</dc:subject>
-        <dc:title>Vehicle Maintenance IMIAL Certificate Level 1</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ATEC11MF1</mlo:url>
-        <mlo:assessment>&lt;p&gt;You will be continually assessed throughout the course.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-10-27">28 October 2016</mlo:start>
-        <end dtf="2016-12-16">16 December 2016</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>New or existing workers, particularly those with basic experience or understanding of the logistics industry. Apprentices working towards a Level 2 Apprenticeship in Warehousing and Storage.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/211905</dc:identifier>
       <dc:subject>warehousing, storage, EMTA, certificate level 2</dc:subject>
@@ -5917,10 +5846,11 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This is a fun chocolatey cookery workshop for beginners who love chocolate.</p>
-<p>1 day workshop on Saturday the 5th of March 2016 at Cornwall College Camborne from 9.30am to 3.30pm taught by Mark Devonshire.</p>
-<p> </p>
-<p> </p>]]></dc:description>
+      <dc:description><![CDATA[<p>This is a fun chocolatey workshop for beginners who love chocolate.</p>
+<p>1 day workshop on Saturday the 18th of March 2017</p>
+<p>At Cornwall College Camborne</p>
+<p>From 9.30am to 3.30pm</p>
+<p>Taught by Mark Devonshire. </p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215569</dc:identifier>
       <dc:subject>cooking, food, choc, chocolate</dc:subject>
@@ -5976,9 +5906,9 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>This workshop will show you how to frame well on a budget.</p>
 <p>Run at Cornwall College Camborne on Saturdays from 10.00am to 3.30pm - fee £33.00.</p>
-<p>Saturday the 10th Ocotber 2015</p>
-<p>Saturday the 27th of February 2016</p>
-<p>Saturday the 14th of May 2016</p>]]></dc:description>
+<p>Saturday the 8th Ocotber 2016</p>
+<p>Saturday the 4th of February 2017</p>
+<p>Saturday the 20th of May 2017</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[215041,214352,214933,214327]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214339</dc:identifier>
       <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
@@ -6039,8 +5969,9 @@ Cornwall</mlo:address>
     <course>
       <dc:description><![CDATA[<p>Learn the basics of repairing your cycle.</p>
 <p>Saturdays from 10.00am to 3.30pm at Cornwall College Camborne.</p>
-<p>Saturday the 12th of March 2016</p>
-<p>Saturday the 11th of June 2016</p>
+<p>Saturday the 12th of November 2016</p>
+<p>Saturday the 11th of March 2017</p>
+<p>Saturday the 10th of June 2017</p>
 <p>Course fee - £30.00</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215599</dc:identifier>
@@ -33153,12 +33084,13 @@ Cornwall</mlo:address>
     </course>
     <course>
       <dc:description><![CDATA[<p>Ceramic/Pottery courses on Wednesday or Thursday evenings from 6.30pm to 8.30pm at Cornwall College Camborne. </p>
-<p>Wednesday 21st of September 2016 for 10 weeks - Course fee £118.00</p>
-<p>Thursday 22nd of September 2016 or 10 weeks - Course fee £118.00</p>
+<p> </p>
 <p>Wednesday 18th of January 2017 for 10 weeks - Course fee £118.00</p>
 <p>Thursday 19th of January 2017 for 10 weeks - Course fee £118.00</p>
+<p> </p>
 <p>Wednesday 26th of April 2017 for 8 weeks - Course fee £98.00</p>
 <p>Thursday 27th of April 2017 for 8 weeks - Course fee £98.00</p>
+<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>
 <p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
 <p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
@@ -34779,10 +34711,26 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p>Saturday workshop from 9.30am to 3.30pm - course fee £35.00</p>
+<p>Saturday the 15th of October 2016</p>
+<p>Saturday the 18th of March 2017</p>
+<p>Saturday the 20th of May 2017</p>
+<p><strong>Please ring 01209 611622 or 0845 22 32 567 to book your place.</strong></p>
+<p> </p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215039</dc:identifier>
+      <dc:subject>paranormal research investigations inestigation ghosts spirits scientific psychic haunted researching</dc:subject>
+      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
       <dc:title>Paranormal Investigation (JP)</dc:title>
       <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
       <mlo:url>http://www.cornwall.ac.uk/course/215039</mlo:url>
+      <abstract>On this course you will gain an understanding of the Paranormal</abstract>
+      <learningOutcome><![CDATA[<p>You could try one of our other leisure courses or workshops.</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p><span style="font-family: Calibri; font-size: medium;">On this workshop you will gain an understanding of the Paranormal in the context of Ghosts & Spirits. </span></p>
+<p><span style="font-size: medium;"><span style="font-family: Calibri;">You will be introduced to various investigation methods and equipment both from a scientific and psychic perspective.</span></span></p>
+<p><span style="font-family: Calibri;"><span style="font-size: medium;">You will explore the use of different equipment including:  </span><span style="font-size: medium;">EVP (Electronic Voice Phenomena), Recorders, Ghost/Franks Box, Photography, Trigger Objects, Dowsing Rods, Spirit Boards, Glass Dowsing </span></span></p>
+<p><span style="font-family: Calibri; font-size: medium;">You will be encouraged design your own “experiment” to use within a paranormal investigation.</span></p>
+<p><span style="font-family: Calibri; font-size: medium;">You will be given the opportunity to visit a "Haunted" location and apply the techniques covered in the course.- This will be at a later date and at a small additional cost.</span></p>]]></mlo:objective>
       <mlo:qualification>
         <dc:identifier>Z0001734</dc:identifier>
         <abbr>RE</abbr>
@@ -34791,6 +34739,7 @@ Cornwall</mlo:address>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S86</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
         <dc:title>Paranormal Investigation Workshop</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S86</mlo:url>
         <mlo:start dtf="2017-10-14">15 October 2017</mlo:start>
@@ -34831,6 +34780,7 @@ Cornwall</mlo:address>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S87</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
         <dc:title>Paranormal Investigation Workshop</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S87</mlo:url>
         <mlo:start dtf="2017-03-18">18 March 2017</mlo:start>
@@ -34872,6 +34822,7 @@ Cornwall</mlo:address>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S88</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
         <dc:title>Paranormal Investigation Workshop</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S88</mlo:url>
         <mlo:start dtf="2017-05-19">20 May 2017</mlo:start>
