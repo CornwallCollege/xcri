@@ -32285,55 +32285,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216754</dc:identifier>
-      <dc:title>Human Resource Management CIPD Certificate Level 5</dc:title>
-      <dc:type xsi:type=":Type" identifier="C5">Certificate Level 5</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216754</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>6017870X</dc:identifier>
-        <abbr>C5</abbr>
-        <dcterms:educationLevel>5</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMC5RHR1</dc:identifier>
-        <dc:title>Human Resource Management CIPD Certificate Level 5</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMC5RHR1</mlo:url>
-        <mlo:start dtf="2016-11-01">01 November 2016</mlo:start>
-        <end dtf="2017-12-05">05 December 2017</end>
-        <mlo:duration interval="P26D"/>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Truro</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR1 2JL</mlo:postcode>
-              <mlo:address>Chiltern House
-City Road
-Truro</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216774</dc:identifier>
       <dc:title>Post Graduate Diploma in Business Strategy, Enterprise and Growth</dc:title>
       <dc:type xsi:type=":Type" identifier="PG">Post Graduate Certificate or Diploma</dc:type>
