@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2016-12-31T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-01-01T10:05:08Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -4716,45 +4716,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CASHUGIS7</dc:identifier>
-        <dc:title>Geographical Information Systems (GIS)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CASHUGIS7</mlo:url>
-        <mlo:start dtf="2016-11-02">02 November 2016</mlo:start>
-        <end dtf="2017-01-02">02 January 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
