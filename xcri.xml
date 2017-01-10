@@ -33794,52 +33794,15 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This qualification is for the development of the role and skills of managers. This qualification aim to develop personal management capabilities, make effective use of information in decision-making, operations and the development of the skills in managing people.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215266</dc:identifier>
-      <dc:subject>leadership, management, CMI, team skills, future skills</dc:subject>
       <dc:title>Management and Leadership CMI Award Level 5</dc:title>
       <dc:type xsi:type=":Type" identifier="WH">Award Higher Level</dc:type>
       <mlo:url>http://www.cornwall.ac.uk/course/215266</mlo:url>
-      <mlo:objective><![CDATA[<p>The criteria of the assessment of a CMI Level 5 qualification (QCF) will be to meet the assessment criteria detailed within each individual unit.  The primary interface with the Learner is the Assessor whose job it is to assess the evidence presented by the Learner.</p><p>Typical units:   </p><ol><li>Conducting a management project    </li><li>Planning for development    </li><li>Operational risk management    </li><li>Ethical organisational management    </li><li>Managing ideas and innovation </li></ol>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>This qualification can be offered to Learners from age 19. CMI does not specify entry requirements for these qualifications, but Centres are required to ensure that Learners admitted to the programme have sufficient capability at the right level to undertake the learning and assessment.</p>]]></mlo:prerequisite>
       <mlo:qualification>
         <dc:identifier>60094527</dc:identifier>
         <abbr>WH</abbr>
         <dcterms:educationLevel>5</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMWHRSM9</dc:identifier>
-        <dc:title>Management and Leadership CMI Award Level 5</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMWHRSM9</mlo:url>
-        <mlo:start dtf="2016-11-11">11 November 2016</mlo:start>
-        <end dtf="2017-03-01">01 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMWHRML3</dc:identifier>
         <dc:title>Management and Leadership CMI Award Level 5</dc:title>
