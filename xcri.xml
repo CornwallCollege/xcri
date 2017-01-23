@@ -10113,12 +10113,14 @@ Cornwall</mlo:address>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p>Under the Licensing Act 2003, anyone authorising the retail sale of alcohol will have to hold a personal licence. In order to qualify for a personal licence, an applicant must hold a licensing qualification which is: Qualifications and Curriculum Authority (QCA) accredited, and Government approved.</p>
 <p>BIIABs new qualification, the BIIAB Level 2 Award for Personal Licence Holders, is both QCA accredited and Government approved, and has been specifically designed to meet the statutory requirements of the Licensing Act 2003.</p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/211369</dc:identifier>
       <dc:subject>Personal Licence Holders, Award, BIIAB, Licensing, 2003, Alcohol, hospitality, city and guilds, drink, CG, C&amp;amp;G, city &amp;amp; guilds</dc:subject>
       <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
       <dc:title>Personal Licence Holders BIIAB Award Level 2 </dc:title>
       <dc:type xsi:type=":Type" identifier="W2">Award Level 2</dc:type>
       <mlo:url>http://www.cornwall.ac.uk/course/211369</mlo:url>
+      <abstract>Under the Licensing Act 2003, anyone authorising the retail sale of alcohol will have to hold a personal licence.</abstract>
       <learningOutcome><![CDATA[<p>On successful assessment the candidate will receive a national qualification awarded by the BIIAB, which is recognised as evidence of the applicants knowledge and understanding of licensing law and the social responsibilities associated with running licensed premises.<br /><br />The BIIAB Level 2 Award for Personal Licence Holders is a nationally recognised qualification designed for anyone authorising the retail sale of alcohol in licensed premises including:</p>
 <ul>
 <li>Public Houses</li>
@@ -10153,51 +10155,17 @@ Cornwall</mlo:address>
 <li>The protection of children from harm.</li>
 <li>The responsible retail sale of alcohol.</li>
 </ul>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>In order to be eligible to apply for a personal licence a person must:, - Be 18 years of age or above. - Possess an accredited licensing qualification. - Not have forfeited a personal licence in the preceding 5 year period. - Must not have any unspent convictions for any relevant offences in either England or Wales or for any foreign offences.</p>]]></mlo:prerequisite>
+      <mlo:prerequisite><![CDATA[<p>In order to be eligible to apply for a personal licence a person must:</p>
+<ul>
+<li>Be 18 years of age or above</li>
+<li>Not have forfeited a personal licence in the preceding 5 year period</li>
+<li>Must not have any unspent convictions for any relevant offences in either England or Wales or for any foreign offences.</li>
+</ul>]]></mlo:prerequisite>
       <mlo:qualification>
         <dc:identifier>50114943</dc:identifier>
         <abbr>W2</abbr>
         <dcterms:educationLevel>2</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL3</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Personal Licence Holders Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCW22PL3</mlo:url>
-        <mlo:start dtf="2017-01-23">23 January 2017</mlo:start>
-        <end dtf="2017-01-23">23 January 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL4</dc:identifier>
