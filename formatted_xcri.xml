@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-01-26T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-01-27T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -28811,70 +28811,6 @@ Cornwall</mlo:address>
           </CE:cost>
         </Costs>
         <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>This course is ideal for adults who would like to return to education but lack either the skill or the confidence to take on a Level 3 course. This 20 week (Level 2) course will prepare you for further education, giving you confidence in your written work and presentation skills. Advice will be given on your best progression route to reach your chosen goal, using careers guidance and by giving you opportunities to explore all the options available to you.</p>
-<p>.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":support"><![CDATA[<p><span>On the Progression course you will have the opportunity to get support with your studies; you will be able to recieve support from a range of people and facilities. These include support from the learning resource centre; this could include support with accessing resources and using ICT to support and help facilitate your learning. </span></p>
-<p><span><span>Some applicants may be eligible for financial support on this course to assist with childcare, transport etc. The Learner Support Fund is under review and is determined by individual circumstances. </span></span></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/213631</dc:identifier>
-      <dc:subject>Employment  Work Experience  English &amp;amp; Maths qualifications Curriculum Vitae (CV) Presentation Skills Team Building, Communication Skills  Business Enterprise, Personal challenges</dc:subject>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Progression AptEd Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/213631</mlo:url>
-      <abstract>Adults, progression Level 2</abstract>
-      <mlo:assessment>&lt;p&gt;All coursework-based assessment, with some group discussions and presentations&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>Support will be given to progress into work or onto further and higher level training in a wide range of subjects.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Particular emphasis will be placed on developing and building key communication  and study skills that you can apply, either at work or on a higher level course.</p>
-<p>This course is designed to give you confidence in the classroom, improve your writing and research skills, teach you how to use Havard referencing, identify your career pathway and give you advice on how you can achieve this.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no formal entry requirements. All applicants will be invited for an interview and will complete an online assessment of their English and Maths skills to determine if the course is the most suitable route.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60084856</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YCFC2PTWD</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Progression apt Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YCFC2PTWD</mlo:url>
-        <mlo:assessment>&lt;p&gt;All coursework-based assessment, with some group discussions and presentations&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2016-11-28">28 November 2016</mlo:start>
-        <end dtf="2017-07-13">14 July 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
           <CD:sector type="Adult">Adult</CD:sector>
         </sectors>
         <studyMode identifier="FT">Full Time</studyMode>
