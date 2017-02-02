@@ -33669,38 +33669,6 @@ Launceston</mlo:address>
         <dcterms:educationLevel>3</dcterms:educationLevel>
       </mlo:qualification>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW3RFL1</dc:identifier>
-        <dc:title>Award in First Line Management QCF Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW3RFL1</mlo:url>
-        <mlo:start dtf="2017-01-19">19 January 2017</mlo:start>
-        <end dtf="2017-02-02">02 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>UNK</attendanceMode>
-        <attendancePattern>UNK</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Plymouth</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL1 1QW</mlo:postcode>
-              <mlo:address>69 Mayflower Street
-Plymouth</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW3RFL3</dc:identifier>
         <dc:title>Award in First Line Management QCF Level 3</dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW3RFL3</mlo:url>
