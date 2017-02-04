@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-03T17:05:07Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-04T10:05:01Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -1597,47 +1597,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREQ132</mlo:url>
         <mlo:start dtf="2017-02-25">25 February 2017</mlo:start>
         <end dtf="2017-02-25">25 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREQ133</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Valentine cupcakes </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREQ133</mlo:url>
-        <mlo:start dtf="2017-02-04">04 February 2017</mlo:start>
-        <end dtf="2017-02-04">04 February 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
@@ -30790,48 +30749,6 @@ Cornwall
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZCREVCS1</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Cake Making and Decoration (E) Valentine Cookies</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZCREVCS1</mlo:url>
-        <mlo:start dtf="2017-02-04">04 February 2017</mlo:start>
-        <end dtf="2017-02-04">04 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZCREWCDS</dc:identifier>
         <dc:subject>Catering &amp; Hospitality</dc:subject>
         <dc:title>Cake Making and Decoration (E) Wedding Cake Design &amp; Showstopper Flowers</dc:title>
@@ -32631,6 +32548,69 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p style="margin: 0cm 0cm 10pt;"><strong><span style="font-family: Calibri; font-size: medium;">Make a Silver Pendant in a day Workshop</span></strong></p>
+<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Course fee - £45.00 (all materials provided)</span></p>
+<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Saturday the 12th of March 2016</span></p>
+<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Saturday the 11th of June 2016</span></p>
+<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">10.00am to 4.00pm</span></p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[214936,214942]]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/216777</dc:identifier>
+      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
+      <dc:title>Make a Silver Bangle and Charm in a day</dc:title>
+      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/216777</mlo:url>
+      <abstract>During this one day jewellery workshop you will leave with a finished item.</abstract>
+      <learningOutcome><![CDATA[<p>You can do one of our other jewellery workshops or try the 10 week Jewellery Making Beginners course.</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p><span style="font-family: Calibri;"><span style="font-size: medium;">During these one day workshops you are guaranteed to leave with a finished silver  </span><span style="font-size: medium;">pendant </span><span style="font-size: medium;"> </span><span style="font-size: medium;">to wear yourself or give to someone as a gift.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">Throughout the day you will learn basic jewellery techniques, such as piercing (sawing), soldering, texturing, sizing, filing and polishing.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">We will be adding textures/patterns by using materials such as, lace, netting, feather, leaves, wallpaper etc. Please bring along of these with you if you have something in particular you would like to try.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">You will all be given a suggested list of items to buy for your own jewellery tool kit so that you can continue to create beautiful silver jewellery from home.</span><span style="font-size: medium;">    </span><span style="font-size: medium;">This class is a great introduction to working with silver and can be followed by our Jewellery Making Beginners course.</span></span></p>]]></mlo:objective>
+      <mlo:qualification>
+        <dc:identifier>Z0001755</dc:identifier>
+        <abbr>RE</abbr>
+        <dcterms:educationLevel>X</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1J01</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
+        <dc:title>Make a Silver Bangle and Charm in a day</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1J01</mlo:url>
+        <mlo:start dtf="2017-04-25">26 April 2017</mlo:start>
+        <end dtf="2017-06-20">21 June 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Leisure">Leisure</CD:sector>
+        </sectors>
+        <studyMode identifier="PT">Part Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College Camborne</dc:title>
+            <mlo:location>
+              <mlo:postcode>TR15 3RD</mlo:postcode>
+              <mlo:address>Trevenson Campus
+Pool
+Redruth
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>You will be required to find a suitable animal-based work placement which you can attend on a regular basis to complete the 300 hours of work experience necessary to undertake this course. You will also need to purchase protective clothing, ordered through the College at a discounted rate.  There are regular trips and visits to animal-based organisations and the approximate cost of a two day visit away is £100.</p><br /><p>If you are over 19 year old you will need to pay tuition fees, although there are concessions if this is your first full level 3 qualification, or if you are claiming means-tested benefits.  Please contact our Admissions Office for full details.</p>]]></dc:description>
       <dc:description><![CDATA[<p><span>This course is for anyone with sound academic ability who wishes to study a vocational qualification, which is mostly theory-based with some practical input.  The course allows you to gain a supervisory level qualification which will enhance your employability in the animal industry.</span></p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216778</dc:identifier>
@@ -32769,111 +32749,6 @@ Cornwall</mlo:address>
               <mlo:address>Wildflower Lane
 Trenance Gardens
 Newquay
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p style="margin: 0cm 0cm 10pt;"><strong><span style="font-family: Calibri; font-size: medium;">Make a Silver Pendant in a day Workshop</span></strong></p>
-<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Course fee - £45.00 (all materials provided)</span></p>
-<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Saturday the 12th of March 2016</span></p>
-<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Saturday the 11th of June 2016</span></p>
-<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">10.00am to 4.00pm</span></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[214936,214942]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216777</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Make a Silver Bangle and Charm in a day</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216777</mlo:url>
-      <abstract>During this one day jewellery workshop you will leave with a finished item.</abstract>
-      <learningOutcome><![CDATA[<p>You can do one of our other jewellery workshops or try the 10 week Jewellery Making Beginners course.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span style="font-family: Calibri;"><span style="font-size: medium;">During these one day workshops you are guaranteed to leave with a finished silver  </span><span style="font-size: medium;">pendant </span><span style="font-size: medium;"> </span><span style="font-size: medium;">to wear yourself or give to someone as a gift.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">Throughout the day you will learn basic jewellery techniques, such as piercing (sawing), soldering, texturing, sizing, filing and polishing.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">We will be adding textures/patterns by using materials such as, lace, netting, feather, leaves, wallpaper etc. Please bring along of these with you if you have something in particular you would like to try.</span><span style="font-size: medium;">  </span><span style="font-size: medium;">You will all be given a suggested list of items to buy for your own jewellery tool kit so that you can continue to create beautiful silver jewellery from home.</span><span style="font-size: medium;">    </span><span style="font-size: medium;">This class is a great introduction to working with silver and can be followed by our Jewellery Making Beginners course.</span></span></p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1J01</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Make a Silver Bangle and Charm in a day</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1J01</mlo:url>
-        <mlo:start dtf="2017-04-25">26 April 2017</mlo:start>
-        <end dtf="2017-06-20">21 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1J02</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Make a Silver Bangle and Charm in a day</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1J02</mlo:url>
-        <mlo:start dtf="2017-02-04">04 February 2017</mlo:start>
-        <end dtf="2017-02-04">04 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
 Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
