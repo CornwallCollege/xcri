@@ -31348,51 +31348,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216599</dc:identifier>
-      <dc:title>Equine Care City &amp; Guilds Technical Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216599</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>60145262</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSEC2TCHM</dc:identifier>
-        <dc:title>Equine Care City &amp; Guilds Technical Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DSEC2TCHM</mlo:url>
-        <mlo:start dtf="2016-12-07">07 December 2016</mlo:start>
-        <end dtf="2017-06-27">28 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Stoke Climsland</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Stoke Climsland</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL17 8PB</mlo:postcode>
-              <mlo:address>Stoke Climsland
-Callington
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/216631</dc:identifier>
       <dc:title>Principles of Food Allergen Awareness and Control FDQ Award Level 2</dc:title>
       <dc:type xsi:type=":Type" identifier="W2">Award Level 2</dc:type>

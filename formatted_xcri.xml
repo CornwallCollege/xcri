@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-04T17:05:06Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-05T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -31338,51 +31338,6 @@ Cornwall
               <mlo:postcode>PL12 4AE</mlo:postcode>
               <mlo:address>Church Road
 Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216599</dc:identifier>
-      <dc:title>Equine Care City &amp; Guilds Technical Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216599</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>60145262</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSEC2TCHM</dc:identifier>
-        <dc:title>Equine Care City &amp; Guilds Technical Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DSEC2TCHM</mlo:url>
-        <mlo:start dtf="2016-12-07">07 December 2016</mlo:start>
-        <end dtf="2017-06-27">28 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Stoke Climsland</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Stoke Climsland</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL17 8PB</mlo:postcode>
-              <mlo:address>Stoke Climsland
-Callington
 Cornwall
 </mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
