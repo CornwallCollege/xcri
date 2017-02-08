@@ -460,67 +460,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[This course is suitable for students over 19 years of age. Focussing on advanced techniques and design, you will explore the use of different materials and construction processes. Materials for the first project are included.<p>.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214893</dc:identifier>
-      <dc:subject>jewellery silver gold art arts craft crafts</dc:subject>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:subject xsi:type=":Subject">Arts, Media &amp; Performing Arts</dc:subject>
-      <dc:title>Jewellery Making (JM)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214893</mlo:url>
-      <abstract>View course details to find out more </abstract>
-      <learningOutcome><![CDATA[<p>You can enrol on the next session or investigate a qualification through our Creative Arts programme  </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Learn the basics of creating and designing  jewellery</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA163</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Fashion Jewellery (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA163</mlo:url>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>A short introductory course into the creative process of silversmithing.  Our Saturday workshops will focus on a specific new skill and technique.</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:description xsi:type=":structure"><![CDATA[<p>Suzanne Barr is gaining a reputation for not only  producing and selling her own beautifully crafted jewellery designs, but also for sharing her skills with her creative and inspiring workshops here at Cornwall College St Austell.   She delivers Beading jewellery and beginners jewellery workshops and if you would like a session in your local community venue during weekday afternoons please do contact us.   Dawn Ferguson-Smith  01726 226720 <a href="mailto:dawn.ferguson-smith@st-austell.ac.uk">dawn.ferguson-smith@st-austell.ac.uk</a></p>]]></dc:description>
@@ -831,47 +770,6 @@ Cornwall</mlo:address>
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA221</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Photoshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA221</mlo:url>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA253</dc:identifier>
         <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
         <dc:title>Photoshop (Evening)</dc:title>
@@ -982,48 +880,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB113</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Reiki (M) Shares </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREB113</mlo:url>
-        <mlo:assessment>&lt;p&gt;We are now offering 3 sessions of Reiki shares.  Reiki shares are an interesting and validating way to experience personal growth and understanding of the Reiki Healing level you have been attuned to.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-02-08">08 February 2017</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB114</dc:identifier>
@@ -5641,69 +5497,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>A fun evening on how to produce sushi and sashimi.</p>
-<p>Wednesday the 8th of February 2017 from 6.00pm to 9.00pm at Cornwall College Camborne.</p>
-<p>Course fee £20.00.</p>
-<p>You will be required to purchase ingredients for his workshop.</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215578</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Sushi for Beginners Workshop (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215578</mlo:url>
-      <abstract>A fun evening on how to produce sushi and sashimi.</abstract>
-      <learningOutcome><![CDATA[<p>Enrol onto another one of our cookery courses or any of our other leisure courses or workshops.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will leave with a set of new skills that will impress your family and friends, you will produce sticky rice and mirin dipping sauce and hand rolled filled sushi. </p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001751</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1K44</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Sushi for Beginners Workshop (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1K44</mlo:url>
-        <mlo:start dtf="2017-02-08">08 February 2017</mlo:start>
-        <end dtf="2017-02-08">08 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
         <studyMode identifier="PT">Part Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
