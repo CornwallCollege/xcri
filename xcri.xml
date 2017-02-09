@@ -5358,67 +5358,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>If you want to begin to play the guitar, this course will start you off on the right track. </p>
-<p>Thursday evenings from 7.00pm to 9.00pm.</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[214944]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214947</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Guitar - Getting Started (JP)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214947</mlo:url>
-      <abstract>If you want to begin to play the guitar, this course will start you off on the right track. </abstract>
-      <learningOutcome><![CDATA[<p>After this course you can enrol on our Guitar Improvers course.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Including Rock Blues and Pop styles suitable for electric or acoustic guitars.  Plus what to look for when buying an instrument.  Some music theory will be discussed but you don't need prior knowledge.  Suitable for beginners and for those with some experience.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001754</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1E21</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Guitar - Getting Started (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1E21</mlo:url>
-        <mlo:start dtf="2017-01-12">12 January 2017</mlo:start>
-        <end dtf="2017-02-09">09 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>This course is suitable for anyone over the age of 19. Shimmy away those calories whilst keeping fit and having fun in a friendly environment.</p>
 <p>Mondays from 6.30pm to 8.00pm at Cornwall College Camborne.</p>
 <p>10 weeks Monday 19th of September 2016 - course fee £75.00</p>
@@ -13130,71 +13069,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Contact us for more information.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>This course is for learners wanting to progress in the building services sector to work with environmental technologies; and for qualified and competent practitioners looking to upskill in the renewables sector via the installation of small scale solar photovoltaic (PV) systems.</p>
-<p>These systems generate and store electricity from the sun and are designed to help reduce CO² emissions, targeted under the Climate Change Act 2008.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/211712</dc:identifier>
-      <dc:subject>small scale, solar, photovoltaic, pv, renewable, construction, technology, energy, green inspection, installation, EAl, EMTA </dc:subject>
-      <dc:subject xsi:type=":Subject">Engineering</dc:subject>
-      <dc:title>Installation of Small Scale Solar Photovoltaic Systems EMTA Award Level 3 </dc:title>
-      <dc:type xsi:type=":Type" identifier="W3">Award Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/211712</mlo:url>
-      <mlo:objective><![CDATA[<p>This course is structured to facilitate practicing electricians, and covers both theoretical and practical applications which are designed to replicate real circumstances.</p>
-<p>Learners begin by covering the fundamental principles and requirements of environmental technologies, before focusing on the installation of small scale solar photovoltaic systems.</p>
-<p>The course is delivered within internal and external workshops, and includes an element of independent learning which enables learners to expand on the taught elements of the course.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>To enrol on this course, you will need to have 1 of the following:</p>
-<ul>
-<li>EAL Level 3 award Understanding the fundamental principles and requirements of environmental technology systems + C&G 2356-31 Level 3 NVQ Installation of Electro technical Systems + C&G 2391 Level 3 Inspection & Testing + C&G 2382-10 (full) 17th Edition (BS7671:2008) or C&G 2382-20 (short, 2011 amendment)</li>
-<li>17th Edition (BS 7671:2008) + membership of approved bodies, NICEIC; NAPIT or ELECSA</li>
-<li>17th Edition (BS 7671:2008) + practising domestic installer qualifying, testing and commission of own work</li>
-</ul>
-<p>All delegates MUST be physically fit and able to carry out any practical work during the course.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50118468</dc:identifier>
-        <abbr>W3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTEW3PJAN</dc:identifier>
-        <dc:subject>Engineering</dc:subject>
-        <dc:title>Installation of Small Scale Solar Photovoltaic Systems Award (QCF)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTEW3PJAN</mlo:url>
-        <mlo:start dtf="2017-01-19">19 January 2017</mlo:start>
-        <end dtf="2017-02-09">09 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
         <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
