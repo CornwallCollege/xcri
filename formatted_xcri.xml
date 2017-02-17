@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-16T17:05:01Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-02-17T10:05:08Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -2002,60 +2002,6 @@ Cornwall</mlo:address>
           <CD:sector type="Adult">Adult</CD:sector>
         </sectors>
         <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p><span>Chefs looking to develop their skills and bring a modern feel to their cooking.</span></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216187</dc:identifier>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Fish and Shellfish Cookery Master Class</dc:title>
-      <dc:type xsi:type=":Type" identifier="SH">Other Short Courses (Less Than 30 GLH)</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216187</mlo:url>
-      <learningOutcome><![CDATA[<p><span>Progress onto a full level 3 qualification.</span></p>
-<p> </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span>This course will develop your knowledge and skills in preparing fish and shellfish, from filleting skills to preservation. You will also explore the technical side of cooking and using ingredients in different ways. This will include the use of molecular cookery methods, and look at how we can use foams, airs as well as spherification to complement our dishes.        </span></p>
-<p><span>You will also revisit classic sauces and dressings and explore their place on the modern menu</span></p>
-<p> </p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><span>Chefs working in industry trained to level 2 standard.</span></p>
-<p> </p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <abbr>SH</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCSHFSMC</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Fish and Shellfish Cookery Master Class</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCSHFSMC</mlo:url>
-        <mlo:start dtf="2017-02-14">14 February 2017</mlo:start>
-        <end dtf="2017-02-17">17 February 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
@@ -32443,57 +32389,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16BPHC3REF1</mlo:url>
         <mlo:start dtf="2017-07-23">24 July 2017</mlo:start>
         <end dtf="2017-08-14">15 August 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Contact us for more information.</p>]]></dc:description>
-      <dc:description><![CDATA[<p>This course is ideally suited for managers, supervisors and employees who are responsible for managing environmental issues in the workplace.</p><p>Students who wish to progress onto the NEBOSH National Diploma in Environmental Management will need to complete this course first.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/212945</dc:identifier>
-      <dc:subject>environment, management, nebosh, general certifcate, environmental, health officer, agriculture, nebosh, General Certificate </dc:subject>
-      <dc:subject xsi:type=":Subject">Health &amp; Social Care</dc:subject>
-      <dc:title>Environmental Management NEBOSH National Certificate Level 3</dc:title>
-      <dc:type xsi:type=":Type" identifier="NC">National Certificate</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/212945</mlo:url>
-      <mlo:objective><![CDATA[<p>The course covers a range of topics including:</p><ul><li>Foundations in environmental management</li><li>UK environmental law</li><li>Types of environmental management system</li><li>Environmental impact assessments</li><li>Control of emissions to air</li><li>Control of contamination of water resources</li><li>Control of waste and land use</li><li>Sources and uses of energy and energy efficiency</li><li>Control of environmental noise</li><li>Planning for and dealing with environmental emergencies</li></ul><p>Environmental Management is a blended learning programme. Students will be expected to attend 6 taught sessions, which will be split across two weeks. The course is student focused and will include a range of research activities and worked based case studies.</p><p>In addition the students will be required to complete 25 hours of directed private study. This will be a mixture of textbook reading, moodle activities and wider research. To ensure the students complete the private study they will be given a study diary to complete.</p><p>The students will also be required to complete a practical application which requires them to conduct an environmental review of their own workplace.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>The NEBOSH General Certificate in Occupational Health and Safety would be advantageous.</p><p>All students will be required to complete a pre-enrolment form and telephone interview with the tutor to assess the students suitability for the course prior to course acceptance.</p><p>Students should hold a Level 2 ICT qualification or be able to evidence that they are computer literate, due to the blended learning requirement of this course.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>00295206</dc:identifier>
-        <abbr>NC</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPHNCREMC</dc:identifier>
-        <dc:subject>Health &amp; Social Care</dc:subject>
-        <dc:title>Environmental Management NEBOSH National Certificate Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPHNCREMC</mlo:url>
-        <mlo:start dtf="2017-01-16">16 January 2017</mlo:start>
-        <end dtf="2017-02-17">17 February 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
