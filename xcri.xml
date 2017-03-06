@@ -377,89 +377,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p><strong>Who is this course for?</strong></p>
-<p>This course is for those people considering starting Access in September 2016 who would like to improve their study skills and confidence before starting.</p>
-<p>This course is also suitable for anyone who is hoping to return to education but who might not be sure which route to take.</p>
-<p><strong>What will this course give you?</strong></p>
-<p>This course will give you the confidence to progress in education. It will give you the core study skills needed to succeed in future higher level courses. It will also help you to explore future career options and identify suitable education routes.</p>
-<p><strong>Where is the course?</strong></p>
-<p>The course is taught at the St Austell campus</p>
-<p><strong>When is the course?</strong></p>
-<p>The course starts on Friday 8<sup>th</sup> January and runs every Friday for 20 weeks between 9.30am – 3.30pm. </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215563</dc:identifier>
-      <dc:subject>Employment  Work Experience  English &amp;amp; Maths qualifications Curriculum Vitae (CV) Presentation Skills Team Building, Communication Skills  Business Enterprise, Personal challenges</dc:subject>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Progression AptEd Certificate Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="C2">Certificate Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215563</mlo:url>
-      <abstract>Develops study and employability skills, explores future course and career options</abstract>
-      <mlo:assessment>&lt;p&gt;You are assessed on the content and quality of set unit work at Level 2 but given feedback that you will be able to apply at Level 3.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>Support will be given to progress into work or onto further and higher level training in a wide range of subjects.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div class="WordSection2">
-<ul>
-<li>Academic writing and referencing</li>
-<li>Study skills</li>
-<li>Career options</li>
-<li>Stress management</li>
-<li>Presentation software and skills</li>
-<li>Problem solving</li>
-<li>Critical thinking</li>
-<li>Teamwork and communication</li>
-</ul>
-</div>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p><strong>What will it cost?</strong></p>
-<p><span>There are no formal entry requirements. All applicants will be invited for an interview and will complete an online assessment of their English and Maths skills to determine if the course is the most suitable route.</span></p>
-<p>The course costs £200. You may be eligible to get the course fee paid if:</p>
-<ul>
-<li>If you are aged between 19-23 and you do not have a full level 2 qualification there will be no charge.</li>
-<li>If you are over 19, unemployed, looking for work and in receipt of a state benefit there will be no charge.  </li>
-</ul>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60084856</dc:identifier>
-        <abbr>C2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKFC2CPRO</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Progression AptEd Certificate Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKFC2CPRO</mlo:url>
-        <mlo:assessment>&lt;p&gt;You are assessed on the content and quality of set unit work at Level 2 but given feedback that you will be able to apply at Level 3.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-01-05">05 January 2017</mlo:start>
-        <end dtf="2017-06-22">23 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>A short introductory course into the creative process of silversmithing.  Our Saturday workshops will focus on a specific new skill and technique.</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:description xsi:type=":structure"><![CDATA[<p>Suzanne Barr is gaining a reputation for not only  producing and selling her own beautifully crafted jewellery designs, but also for sharing her skills with her creative and inspiring workshops here at Cornwall College St Austell.   She delivers Beading jewellery and beginners jewellery workshops and if you would like a session in your local community venue during weekday afternoons please do contact us.   Dawn Ferguson-Smith  01726 226720 <a href="mailto:dawn.ferguson-smith@st-austell.ac.uk">dawn.ferguson-smith@st-austell.ac.uk</a></p>]]></dc:description>
@@ -1508,65 +1425,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>The new GCSE English Language course gives learners the opportunity to explore a vibrant range of genres and writers. GCSE English Language is a very important qualification for your future employment and progression. Most employers and universities still require you to have a Grade 5 or above in GCSE English Language to apply for a place.</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214926</dc:identifier>
-      <dc:subject xsi:type=":Subject">Preparation for Life &amp; Work</dc:subject>
-      <dc:title>English Language AQA GCSE Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="GC">GCSE</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214926</mlo:url>
-      <abstract>GCSE English Language </abstract>
-      <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>GCSE English Language provides a foundation for AS and A-level study as well as progression to other further and higher education courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>GCSE English Language will allow you to study a wide range of extracts from the 19th, 20th and 21st centuries, including literature and literary non-fiction.<br />You will develop your reading skills, evaluating texts critically and making comparisons between texts.<br />You will use the knowledge you gain from your reading to develop your own writing.<br />You will learn to write effectively and coherently using Standard English appropriately.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>The good news is you don’t need any formal qualifications or experience to gain entry onto this course. You will need a high degree of self-motivation and enthusiasm for the subject area. You will also be invited for an informal interview to determine suitability.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60131603</dc:identifier>
-        <abbr>GC</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ALAGCENEJ</dc:identifier>
-        <dc:subject>Preparation for Life &amp; Work</dc:subject>
-        <dc:title>English Language AQA GCSE (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ALAGCENEJ</mlo:url>
-        <mlo:assessment>&lt;p&gt;The GCSE English Language course requires learners to sit two final exams.  You will also complete a speaking and listening assessment.&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-01-05">05 January 2017</mlo:start>
-        <end dtf="2017-05-17">18 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
         <studyMode identifier="FT">Full Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
@@ -12923,59 +12781,6 @@ Cornwall
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Rosewarne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR14 0AB</mlo:postcode>
-              <mlo:address>Rosewarne
-Camborne
-Cornwall 
-
-</mlo:address>
-              <mlo:phone>(01209) 722100</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214171</dc:identifier>
-      <dc:subject>bees, beekeeping, beekeeper, bee keeper, honey, wasp, honeycomb, </dc:subject>
-      <dc:subject xsi:type=":Subject">Animal Management &amp; Veterinary Nursing</dc:subject>
-      <dc:title>Bee Keeping Introduction</dc:title>
-      <dc:type xsi:type=":Type" identifier="NN">Others (inc College Cert, Tutorial, Enrichment)</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214171</mlo:url>
-      <abstract>An introduction to bee keeping</abstract>
-      <learningOutcome><![CDATA[<p><span>The course is an excellent grounding for those wishing to keep bees and involves lectures, practical demonstrations, sharing of experiences along with answers to those unsure of whether to keep bees or not.</span></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span>The Basic Bee Keeping Part 1 is a 2 term course of 36 hours providing a grounding in beekeeping. This course aims to get you started before getting your bees. Practical sessions will take place from the end of April on Thursday evenings or Saturday afternoons. The course is an excellent grounding for those wishing to keep bees and involves lectures, practical demonstrations, sharing of experiences along with answers to those unsure of whether to keep bees or not. All teaching takes place at Rosewarne where West Cornwall Beekeepers Association has an outdoor apiary. The Basic Bee Keeping Part 2 is a follow on for those who have done part 1 and have at least a years' experience of keeping bees. On this course you will deal with preparation for the basic exam and reinforce your knowledge of diseases, husbandry skills, swarming and manipulation of the bees, honey extraction and legal requirements.</span></p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001739</dc:identifier>
-        <abbr>NN</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DCHNNEBKC</dc:identifier>
-        <dc:subject>Animal Management &amp; Veterinary Nursing</dc:subject>
-        <dc:title>Bee Keeping Introduction (Part 1) (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DCHNNEBKC</mlo:url>
-        <mlo:start dtf="2017-01-05">05 January 2017</mlo:start>
-        <end dtf="2017-06-21">22 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Rosewarne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
         <venue>
           <provider>
             <dc:title>Duchy College - Rosewarne</dc:title>
@@ -29289,48 +29094,6 @@ Cornwall
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZCRESCIB</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Sugarcraft Improvers (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZCRESCIB</mlo:url>
-        <mlo:start dtf="2017-01-09">09 January 2017</mlo:start>
-        <end dtf="2017-03-06">06 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZCREWCDS</dc:identifier>
         <dc:subject>Catering &amp; Hospitality</dc:subject>
         <dc:title>Cake Making and Decoration (E) Wedding Cake Design &amp; Showstopper Flowers</dc:title>
@@ -32403,47 +32166,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D11</dc:identifier>
-        <dc:title>Corded (Italian) Quilting Class</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D11</mlo:url>
-        <mlo:start dtf="2017-03-06">06 March 2017</mlo:start>
-        <end dtf="2017-03-06">06 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D12</dc:identifier>
