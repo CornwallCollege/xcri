@@ -11104,40 +11104,6 @@ Cornwall</mlo:address>
         </venue>
       </presentation>
       <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBW3SFEB</dc:identifier>
-        <dc:title>Installation and Maintenance of Solar Thermal Hot Water Systems City &amp; Guilds Award Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBW3SFEB</mlo:url>
-        <mlo:start dtf="2017-02-01">01 February 2017</mlo:start>
-        <end dtf="2017-03-08">08 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CTBW3SSEP</dc:identifier>
         <dc:title>Installation and Maintenance of Solar Thermal Hot Water Systems City &amp; Guilds Award Level 3 </dc:title>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CTBW3SSEP</mlo:url>
