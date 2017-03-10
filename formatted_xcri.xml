@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-09T17:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-10T10:05:10Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -5672,61 +5672,6 @@ Truro</mlo:address>
         <abbr>C3</abbr>
         <dcterms:educationLevel>3</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ASSC33CPT</dc:identifier>
-        <dc:subject>Sport</dc:subject>
-        <dc:title>Personal Training YMCA Certificate Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ASSC33CPT</mlo:url>
-        <mlo:assessment>&lt;p&gt;You will be taught by highly qualified and voacionally experienced lecturers at both sites with members of our team National CYQ Judges for their annual championships - learn from the best!&lt;/p&gt;
-&lt;p&gt;You will be assessed via a variety of methods as listed below:&lt;/p&gt;
-&lt;p&gt;1 x A&amp;P Theory Exam&lt;/p&gt;
-&lt;p&gt;1 x Nutrition Theory Exam&lt;/p&gt;
-&lt;p&gt;Formative, mock exams will be carried out regulary to ensure you are on track. &lt;/p&gt;
-&lt;p&gt;Nutrition Knowledge Questions Worksheet and Case Study&lt;/p&gt;
-&lt;p&gt;Programming Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Personal Training Programme –&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Client Profile&lt;/li&gt;
-&lt;li&gt;4 Programme Cards&lt;/li&gt;
-&lt;li&gt;12 Week Programme Overview&lt;/li&gt;
-&lt;li&gt;Physical Measurements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Delivery Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Summative Observation of Practical Teaching – Practical Exam&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-01-09">09 January 2017</mlo:start>
-        <end dtf="2017-06-25">26 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CHPC33CPT</dc:identifier>
@@ -29159,48 +29104,6 @@ Cornwall
       </mlo:qualification>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLREFRBB</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>French Beginners - Term 2 (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZLREFRBB</mlo:url>
-        <mlo:start dtf="2017-01-09">09 January 2017</mlo:start>
-        <end dtf="2017-03-20">20 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLREFRBC</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
         <dc:title>French Beginners - Term 3 (Evening)</dc:title>
@@ -31519,47 +31422,6 @@ Cornwall</mlo:address>
 Pool
 Redruth
 Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216755</dc:identifier>
-      <dc:title>Learning and Development CIPD Certificate Level 5</dc:title>
-      <dc:type xsi:type=":Type" identifier="C5">Certificate Level 5</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216755</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>60151614</dc:identifier>
-        <abbr>C5</abbr>
-        <dcterms:educationLevel>5</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMC5RLD2</dc:identifier>
-        <dc:title>Learning and Development CIPD Certificate Level 5</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMC5RLD2</mlo:url>
-        <mlo:start dtf="2017-01-09">09 January 2017</mlo:start>
-        <end dtf="2017-12-13">13 December 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Other sites not listed</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
