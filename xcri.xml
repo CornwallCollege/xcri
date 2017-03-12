@@ -841,47 +841,6 @@ Cornwall</mlo:address>
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB115</dc:identifier>
-        <dc:subject>Hair &amp; Beauty</dc:subject>
-        <dc:title>Reiki Stage 1 (M)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREB115</mlo:url>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREB116</dc:identifier>
         <dc:subject>Hair &amp; Beauty</dc:subject>
         <dc:title>Reiki Stage 2 term 1  (M)</dc:title>
@@ -5463,107 +5422,6 @@ Truro</mlo:address>
               <mlo:postcode>TR1 3HD</mlo:postcode>
               <mlo:address>Royal Cornwall Hospital Treliske
 Truro</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>The aim of this qualification is to recognise the skills, knowledge and competence required for an individual to work unsupervised as a personal trainer. This includes being able to offer one-to-one training, baseline assessment, nutritional advice and progressive programming which is specific to the individual needs of a client.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>St Austell</p>
-<p>Day Course - Monday & Tuesday - 9am - 4.30pm (13 weeks)</p>
-<p>Evening - Monday - 6 - 9pm (30 weeks)</p>
-<p>Camborne</p>
-<p>Day Course - Wednesday & Thursday - 9am - 4.30pm (13 weeks)</p>
-<p> </p>]]></dc:description>
-      <dc:description xsi:type=":support"><![CDATA[<p>At Cornwall College we pride ourselves in the expert teaching we provide our students with but also the excellent support that we provide alongside all of our programmes, treating all students equally and fairly.</p>
-<p>Your attendance, attitude, aptitude and performance on your course will be monitored regularly by your course tutor and course manager. If any of the above are a cause for concern your course tutor will address these with you.</p>
-<p>If support is required it may be provided on a one-to-one basis or extra revision sessions in the lead up to the exams for those requesting it for example. If required you may be placed on a supportive action plan to get you back on track - our aim is to get you to achieve.</p>
-<p>The department also has a senior tutor who may be involved in discipline matters or to provide support if required.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/210968</dc:identifier>
-      <dc:subject>Personal Trainer Training Instructor, gym, fitness, toning, </dc:subject>
-      <dc:subject xsi:type=":Subject">Sport</dc:subject>
-      <dc:title>Personal Training YMCA Certificate Level 3 </dc:title>
-      <dc:type xsi:type=":Type" identifier="C3">Certificate Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/210968</mlo:url>
-      <abstract>CYQ Level 3 Personal Training Diploma</abstract>
-      <mlo:assessment>&lt;p&gt;You will be taught by highly qualified and voacionally experienced lecturers at both sites with members of our team National CYQ Judges for their annual championships - learn from the best!&lt;/p&gt;
-&lt;p&gt;You will be assessed via a variety of methods as listed below:&lt;/p&gt;
-&lt;p&gt;1 x A&amp;P Theory Exam&lt;/p&gt;
-&lt;p&gt;1 x Nutrition Theory Exam&lt;/p&gt;
-&lt;p&gt;Formative, mock exams will be carried out regulary to ensure you are on track. &lt;/p&gt;
-&lt;p&gt;Nutrition Knowledge Questions Worksheet and Case Study&lt;/p&gt;
-&lt;p&gt;Programming Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Personal Training Programme –&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Client Profile&lt;/li&gt;
-&lt;li&gt;4 Programme Cards&lt;/li&gt;
-&lt;li&gt;12 Week Programme Overview&lt;/li&gt;
-&lt;li&gt;Physical Measurements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Delivery Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Summative Observation of Practical Teaching – Practical Exam&lt;/p&gt;</mlo:assessment>
-      <learningOutcome><![CDATA[<p>All courses allow successful learners to apply to be on the Register of Exercise Professionals (REPS). This means that they meet strict industry standards to deliver exercise advice and/or demonstration. To protect the public, all registered exercise professionals are bound by a code of ethical practice that covers professional standards and conduct.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Learners will cover:</p><ul><ul><li>anatomy and physiology including:<br />- the heart and circulatory system<br />- the musculoskeletal system<br />- postural and core stability<br />- the nervous, endocrine and energy systems and their relation to exercise and health</li></ul></ul><p></p><ul><ul><li>how to maintain health, safety and welfare in a variety of fitness environments, including the safeguarding of children and vulnerable adult</li></ul></ul><p></p><ul><ul><li>how to programme safe and effective exercise for a range of clients, the health benefits of physical activity and the importance of healthy eating</li></ul></ul><p></p><ul><ul><li>how to communicate with clients effectively, and motivate clients to adhere to an exercise programme</li></ul></ul><p></p><ul><ul><li>how to apply the principles of nutrition to support client goals as part of an exercise and physical activity programme</li></ul></ul><p></p><ul><ul><li>how to design, manage, and adapt a personal training programme with apparently healthy adults of all ages</li></ul></ul><p></p><ul><ul><li>how to deliver exercise and physical activity as part of a programme for apparently healthy adults of all ages</li></ul></ul><p></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>You must hold a relevant level 2 fitness instructor - gym based qualification.</p><p>A grade C or level 2 equivalent in English</p><p>A grade C or level 2 equivalent in Maths is desirable - if you do not hold this qualifications the college can support you to complete this alongside this course as part of your study programme*</p><p>*more information available on request</p><p><span>Candidates must be over 16 at time of interview and have a passion for the fitness industry </span></p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50082590</dc:identifier>
-        <abbr>C3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CHPC33CPT</dc:identifier>
-        <dc:subject>Sport</dc:subject>
-        <dc:title>Personal Training YMCA Certificate Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CHPC33CPT</mlo:url>
-        <mlo:assessment>&lt;p&gt;You will be taught by highly qualified and voacionally experienced lecturers at both sites with members of our team National CYQ Judges for their annual championships - learn from the best!&lt;/p&gt;
-&lt;p&gt;You will be assessed via a variety of methods as listed below:&lt;/p&gt;
-&lt;p&gt;1 x A&amp;P Theory Exam&lt;/p&gt;
-&lt;p&gt;1 x Nutrition Theory Exam&lt;/p&gt;
-&lt;p&gt;Formative, mock exams will be carried out regulary to ensure you are on track. &lt;/p&gt;
-&lt;p&gt;Nutrition Knowledge Questions Worksheet and Case Study&lt;/p&gt;
-&lt;p&gt;Programming Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Personal Training Programme –&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Client Profile&lt;/li&gt;
-&lt;li&gt;4 Programme Cards&lt;/li&gt;
-&lt;li&gt;12 Week Programme Overview&lt;/li&gt;
-&lt;li&gt;Physical Measurements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Delivery Knowledge Questions Worksheet&lt;/p&gt;
-&lt;p&gt;Summative Observation of Practical Teaching – Practical Exam&lt;/p&gt;</mlo:assessment>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-06-27">28 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
@@ -29855,46 +29713,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL109</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title>Italian Improvers (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL109</mlo:url>
-        <mlo:start dtf="2017-01-11">11 January 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL110</dc:identifier>
