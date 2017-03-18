@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-17T17:05:05Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-18T10:05:16Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -1057,74 +1057,6 @@ Cornwall</mlo:address>
           <CD:sector type="Leisure">Leisure</CD:sector>
         </sectors>
         <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>This course runs on Saturday mornings.</p>
-<p>This course is perfect if you are a complete beginner or have limited welding knowledge, Ideal if you want to learn a new skill, if you are creative, if you want to repair your own car or even a garden gate.     </p>
-<p>On this course you will gain a basic understanding of the different Welding processes used in industry and at home.     You can choose from some or all of the following welding processes including:    </p>
-<ul>
-<li><span style="line-height: 1.4;">MMA-Manual Metal ARC (Stick)  </span></li>
-<li><span style="line-height: 1.4;">MAGS-Metal Arc Gas Shielded (Mig)  </span></li>
-<li><span style="line-height: 1.4;">TIG-Tungsten Inert Gas   </span></li>
-<li><span style="line-height: 1.4;">GAS-Oxy-Acetylene  </span></li>
-</ul>
-<p>You could cover Flat and Horizontal/Vertical (downhand), single weld beads, re-joining of runs, build-up weld runs to form a weld pad, welding Tee fillet and Butt welds, Inside and Outside Corner Joints on 1.6 - 6mm thick mild steel.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>Welding leisure courses are run at both Camborne and St Austell sites as a way of introducing the skills to enable you to progress onto a qualfication or as a continuation onto another leisure course.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215058</dc:identifier>
-      <dc:subject xsi:type=":Subject">Engineering</dc:subject>
-      <dc:title>Welding Skills - ARC/MIG (M)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215058</mlo:url>
-      <abstract>A series of welding sessions leading to a qualification</abstract>
-      <learningOutcome><![CDATA[<p>Cornwall College offers a wide range of qualfications, apprenticeships and traineeships within this field, or you could consider a further leisure course. You can return to this course and take up another welding process or you can join the British Standard 4872 Basic to Advanced course.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During and by the end of this training course you will with confidence, be able to set up and use the equipment safely. You will learn the health and safety aspects of welding, how to set the welding parameters and electrical conditions including amps, volts and gas pressures, relevant to the material to be joined and process required. Material removal processes including Grinding, Plasma cutting and Gas Cutting can also be demonstrated if required. Small group sizes ensure that you have lots of personal tuition and supervision from an experienced tutor with many years of teaching and commercial welding experience.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001741</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREW102</dc:identifier>
-        <dc:subject>Engineering</dc:subject>
-        <dc:title>Welding Skills - ARC/MIG (M)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREW102</mlo:url>
-        <mlo:start dtf="2017-02-25">25 February 2017</mlo:start>
-        <end dtf="2017-03-18">18 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="60" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
@@ -4127,63 +4059,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>Drawing and Watercolour Painting courses for beginners.</p>
-<p>This course runs on Tuesdays from 10.30am to 12.30pm at Cornwall College Camborne.</p>
-<p>10 weeks - starting 17th of January 2017 - course fee £100.00</p>
-<p>8 weeks - starting 25th of April 2017 - course fee £80.00</p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[214934,214932,214327]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214933</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Drawing and  Watercolour Painting for Beginners (JP)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214933</mlo:url>
-      <abstract>On this course you will learn the basic techniques of drawing and watercolour painting .</abstract>
-      <learningOutcome><![CDATA[<p>Enrol on to this course for the next term or one of our other courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>On this course you will learn the basic techniques of drawing and watercolour painting and gain an understanding of composition and use of colour so you can develop your own style within this exiting medium.  All will improve with friendly individual tuition and demonstrations from the tutor.</p>
-<p style="margin: 0cm 0cm 0pt;"><span style="color: black; font-family: 'Source Sans Pro'; font-size: 10.5pt;">Please bring pencil, paper and any watercolour paint and brushes you may have.  A suggested materials list will be supplied at the first session.</span></p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A20</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Drawing and Watercolour Painting for Beginners</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1A20</mlo:url>
-        <mlo:start dtf="2017-01-17">17 January 2017</mlo:start>
-        <end dtf="2017-03-27">28 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>Drawing and Painting for All course at Kehelland Methodist Chapel Hall in Kehelland just outside Camborne.</p>
 <p>These course run on a Thursday morning from 10.45am to 12.45pm or a Thursday afternoon from 1.15pm to 3.15pm.</p>
 <p>10 weeks - starting 19th of January 2017 - course fee £100.00</p>
@@ -4528,64 +4403,6 @@ Cornwall</mlo:address>
           <CD:sector type="Leisure">Leisure</CD:sector>
         </sectors>
         <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>This is a fun chocolatey workshop for beginners who love chocolate.</p>
-<p>1 day workshop on Saturday the 18th of March 2017</p>
-<p>At Cornwall College Camborne</p>
-<p>From 9.30am to 3.30pm</p>
-<p>Taught by Mark Devonshire. </p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215569</dc:identifier>
-      <dc:subject>cooking, food, choc, chocolate</dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Cooking with Chocolate (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215569</mlo:url>
-      <abstract>This is a fun chocolatey cookery workshop for beginners.</abstract>
-      <learningOutcome><![CDATA[<p>After the course you enrol onto one of our other cookery courses or workshop or any of the other leisure courses and workshops we offer.</p>
-<p> </p>
-<p> </p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will make chocolate truffles, chocolate cake, chocolate cookies and more chocolatey things in a relaxed, fun and informal atmosphere.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001751</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1K58</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Chocolate Truffles, Praline and Ganache Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1K58</mlo:url>
-        <mlo:start dtf="2017-03-18">18 March 2017</mlo:start>
-        <end dtf="2017-03-18">18 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
@@ -30405,71 +30222,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This course is suitable for anyone over the age of 19. Shimmy away those calories whilst keeping fit and having fun in a friendly environment.</p>
-<p>Mondays from 6.30pm to 8.00pm at Cornwall College Camborne.</p>
-<p>Course fee per term - £75.00</p>
-<p>10 weeks Monday 21st of September 2015</p>
-<p>10 weeks Monday 11th of January 2016</p>
-<p>10 weeks Monday 18th of April 2016</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216783</dc:identifier>
-      <dc:subject>middle eastern dance american tribal belly dance dancing fitness</dc:subject>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Belly Dancing for Absolute Beginners</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216783</mlo:url>
-      <abstract>Shimmy away those calories whilst keeping fit and having fun in a friendly environment</abstract>
-      <learningOutcome><![CDATA[<p>Enrol for another term.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Explore the magic of Eastern Dance movements within a friendly group atmosphere. This course will cover the rudiments of Belly Dancing, covering modern and classical Egyptian, Arabic, Turkish, Greek and Indian Dance. The history and cultural origins will be explored and extensive veil training will be covered. Please wear loose, comfortable clothes.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001754</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1E59</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Belly Dancing for Absolute Beginners</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1E59</mlo:url>
-        <mlo:start dtf="2017-01-17">17 January 2017</mlo:start>
-        <end dtf="2017-03-27">28 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p>This course is for people who have fire safety responsibilities at work, particularly those tasked with carrying out fire risk assessments and preventing loss of life and property.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/212731</dc:identifier>
@@ -31025,48 +30777,6 @@ Cornwall</mlo:address>
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S87</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Paranormal Investigation Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S87</mlo:url>
-        <mlo:start dtf="2017-03-18">18 March 2017</mlo:start>
-        <end dtf="2017-03-18">18 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S88</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
         <dc:title>Paranormal Investigation Workshop</dc:title>
@@ -31218,48 +30928,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D20</mlo:url>
         <mlo:start dtf="2017-11-12">12 November 2017</mlo:start>
         <end dtf="2017-11-12">12 November 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D23</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Dressmaking - Trousers Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D23</mlo:url>
-        <mlo:start dtf="2017-03-18">18 March 2017</mlo:start>
-        <end dtf="2017-03-18">18 March 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
