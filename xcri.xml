@@ -3132,45 +3132,6 @@ Cornwall</mlo:address>
       </mlo:credit>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHU2MM1</dc:identifier>
-        <dc:subject>Business, Administration &amp; Law</dc:subject>
-        <dc:title>Effective Design for Business</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CAHHU2MM1</mlo:url>
-        <mlo:start dtf="2017-01-30">30 January 2017</mlo:start>
-        <end dtf="2017-03-20">20 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="University">University</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Truro</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR1 2JL</mlo:postcode>
-              <mlo:address>Chiltern House
-City Road
-Truro</mlo:address>
-              <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Undergraduate</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CAHHU5MM3</dc:identifier>
         <dc:subject>Business, Administration &amp; Law</dc:subject>
         <dc:title>Effective Design for Business (Evening)</dc:title>
@@ -4080,46 +4041,6 @@ Cornwall</mlo:address>
         <abbr>RE</abbr>
         <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A27</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Drawing and Painting for All</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1A27</mlo:url>
-        <mlo:start dtf="2017-01-19">19 January 2017</mlo:start>
-        <end dtf="2017-03-29">30 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Kehelland Methodist Chapel Hall</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR14 0DE</mlo:postcode>
-              <mlo:address>Kehelland
-CAMBORNE
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A28</dc:identifier>
@@ -8477,65 +8398,6 @@ Cornwall</mlo:address>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Contact us for more information.</p>]]></dc:description>
-      <dc:description><![CDATA[This course is for supervisors and managers in the catering industry who will have a responsibility for implementing food hygiene policies. Food safety training is essential to ensure not only compliance with the law, but for food handlers and businesses to have a proper understanding of their responsibilities and to safeguard the health and safety of your customers and ensure a statutory requirement with regard to food handling and storage are met, it is essential that all staff whose work could affect the provision of food, understand the principles of safe food handling and basic food hygiene.]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/102691</dc:identifier>
-      <dc:subject>Supervisory Food, Safety, Intermediate, Catering, Hospitality, CIEH, city and guilds</dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Supervising Food Safety in Catering CIEH Award Level 3 </dc:title>
-      <dc:type xsi:type=":Type" identifier="W3">Award Level 3</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/102691</mlo:url>
-      <learningOutcome><![CDATA[You can progress onto the Advanced Food Safety qualification. You will have a recognised qualification demonstrating your competence that will be accepted in all catering operations.]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will cover all aspects in understanding responsibilities and managing food safety systems whilst gaining an insight into the new legislation and policies.  The aspects that you will cover are :</p>
-<p>  Bacteriology <br />  Food Poisoning and food borne disease <br />  Physical contamination of food and its prevention <br />  Food storage and temperature control <br />  Food preservation <br />  Design and construction of food premises and equipment <br />  Cleaning and disinfection <br />  Pest control <br />  Personal hygiene <br />  Legislation - awareness of current legislation as it relates to the sale of food <br />  Supervisory management</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[There are no formal entry requirements however candidates attending this course should have the basic knowledge from the Level 2 Award in Food Safety or relevant industrial catering experience in food safety systems.]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>50054752</dc:identifier>
-        <abbr>W3</abbr>
-        <dcterms:educationLevel>3</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW31IF2</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Supervising Food Safety in Catering CIEH Award Level 3</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCW31IF2</mlo:url>
-        <mlo:start dtf="2017-02-27">27 February 2017</mlo:start>
-        <end dtf="2017-03-20">20 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="16-18">16-18</CD:sector>
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>any</age>
         <venue>
           <provider>
             <dc:title>Cornwall College Camborne</dc:title>
@@ -27714,41 +27576,8 @@ Cornwall
       <mlo:qualification>
         <dc:identifier>Z0001755</dc:identifier>
         <abbr>RE</abbr>
+        <dcterms:educationLevel>X</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARELCLB</dc:identifier>
-        <dc:subject>Creative arts</dc:subject>
-        <dc:title>Lace Circle - Term 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZARELCLB</mlo:url>
-        <mlo:start dtf="2017-01-19">19 January 2017</mlo:start>
-        <end dtf="2017-03-29">30 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand"/>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZARELCLC</dc:identifier>
