@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-21T17:05:07Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-03-22T10:05:07Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -644,47 +644,6 @@ Cornwall</mlo:address>
           </provider>
         </venue>
       </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREA253</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Photoshop (Evening)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREA253</mlo:url>
-        <mlo:start dtf="2017-03-01">01 March 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
     </course>
     <course>
       <dc:description><![CDATA[<p><strong>Nancy Finch Reiki Stage 2 Tutor  </strong>Nancy joins our ACL team to deliver our Reiki Practioner programme.   She brings a wealth of experience, qualifications and knowledge to this area and has developed the Stage 2 course to include - ethics, professional boundaries and confidentiality, understanding symbols, practical treatments and attunements.   This course is suitable for those with a Stage / Level 1 and for those wishing to revisit their Reiki practice.</p>
@@ -766,66 +725,6 @@ Cornwall</mlo:address>
         <mlo:assessment>&lt;p&gt;We are now offering 3 sessions of Reiki shares.  Reiki shares are an interesting and validating way to experience personal growth and understanding of the Reiki Healing level you have been attuned to.&lt;/p&gt;</mlo:assessment>
         <mlo:start dtf="2017-04-12">13 April 2017</mlo:start>
         <end dtf="2017-06-21">22 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>A friendly and informal class  designed for beginners or those with a basic grasp on this beautiful language.  Come along and gain skills or improve on what you already know with our new tutor, Rocio.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214910</dc:identifier>
-      <dc:subject>spanish , Languages , holiday Spanish , culture , vocabulary , conversation , Cornwall College St Austell  </dc:subject>
-      <dc:subject xsi:type=":Subject">A-levels</dc:subject>
-      <dc:title>Spanish Leisure Course (JM)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214910</mlo:url>
-      <abstract>Spanish conversation course </abstract>
-      <learningOutcome><![CDATA[<p>The next stage would be more of a cultural experience, with language, food & drink and conversations based on gaps in knowledge.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>You will learn more about this beautiful language from our tutor Rocio who has joined us from Madrid- via Helston !</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>none</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>Z0001768</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL207</dc:identifier>
-        <dc:subject>A-levels</dc:subject>
-        <dc:title>Spanish with Rocio (M)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL207</mlo:url>
-        <mlo:start dtf="2017-03-01">01 March 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
@@ -28971,61 +28870,6 @@ Cornwall</mlo:address>
               <mlo:address>Trevenson Campus
 Pool
 Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[This course will teach you the basic Italian to help you enjoy your holiday, through a variety of activities covering travel, accommodation, eating out, directions, shopping and other situations - from the ordinary to the more exotic!]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214908</dc:identifier>
-      <dc:subject>italian language</dc:subject>
-      <dc:subject xsi:type=":Subject">Languages</dc:subject>
-      <dc:title>Learn Italian (JM)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214908</mlo:url>
-      <mlo:qualification>
-        <dc:identifier>Z0001768</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREL110</dc:identifier>
-        <dc:subject>Languages</dc:subject>
-        <dc:title> Italian mixed ability  (JM)</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREL110</mlo:url>
-        <mlo:start dtf="2017-02-22">22 February 2017</mlo:start>
-        <end dtf="2017-03-22">22 March 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
 Cornwall</mlo:address>
               <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
