@@ -12589,66 +12589,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description xsi:type=":teachingStrategy"><![CDATA[<p><span>This training will enable you to assist a qualified Forest School Leader to deliver an alternative complementary outdoor learning programme.</span><span></span></p>]]></dc:description>
-      <dc:description><![CDATA[<p>This course is designed for those who wish to assist a qualified Level 3 Forest School Leader in running Forest School programmes. It is suitable for Teaching Assistants, Nursery/Pre-School practitioners, Youth Workers, Play Workers and Outdoor Adventure Play practitioners and is an ideal start for practitioners in building confidence in Forest School.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214522</dc:identifier>
-      <dc:subject xsi:type=":Subject">Early Years, Playwork &amp; Forest School</dc:subject>
-      <dc:title>Forest School Programme Support apt awards Award Level 2</dc:title>
-      <dc:type xsi:type=":Type" identifier="W2">Award Level 2</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214522</mlo:url>
-      <abstract>The Forest School Assistant level 2 is an ideal start for practitioners in building confidence in Forest School activities</abstract>
-      <learningOutcome><![CDATA[<p class="Default"><span style="color: windowtext; font-size: 11pt;">Successful candidates can seek employment within the children’s workforce in a supporting role or progress to the Level 3 course if seeking greater responsibility.</span></p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course enables learners to gain the skills and knowledge required to qualify and become a Forest School Assistant, enabling them to take a proactive role in helping the Forest School Leader plan and deliver the Forest School programme and support learners. Delivery will comprise both indoor and outdoor activities, practical and theory. Assessment is by observation and a portfolio of evidence.</p>
-<p class="Default"> You will complete 2 units linked to learning outcomes:</p>
-<ul>
-<li>Skills for the Forest School Programme Assistant. This unit will introduce you to sustainable woodland management in the context of learning activities, risk management as well as training in use of fire and tools with client groups.</li>
-<li>Supporting Learning and Development at a Forest School programme. This unit explores the topics of holistic development and learning through play, promoting positive behaviour and also will involve the student assisting with planning and delivery of 3 sessions in a Forest School Programme (students will need to arrange their own placement).</li>
-</ul>
-<p>Duration: one day per week for 5 weeks (no session during school half term) plus around 20 hours of self-study supported by extensive resources in our virtual learning environment. In person, email and telephone tutorial support is available by arrangement with the course tutor. All enrolled students have access to the learning resource centres on all Cornwall College campuses for one year. Learners are expected to submit completed portfolios of work 10 months from the date of enrolment.</p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>Applicants should hold a relevant qualification equivalent to a level 1 or some experience of working with children/young people, have a current DBS disclosure and be aged 18 and over.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>60089623</dc:identifier>
-        <abbr>W2</abbr>
-        <dcterms:educationLevel>2</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16DSDW2FPS2</dc:identifier>
-        <dc:subject>Early Years, Playwork &amp; Forest School</dc:subject>
-        <dc:title>Forest School Programme Support apt awards Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16DSDW2FPS2</mlo:url>
-        <mlo:start dtf="2017-01-24">24 January 2017</mlo:start>
-        <end dtf="2018-01-23">23 January 2018</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Duchy College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Duchy College - Stoke Climsland</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Duchy College - Stoke Climsland</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL17 8PB</mlo:postcode>
-              <mlo:address>Stoke Climsland
-Callington
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>Those people employed within the brewing industry.</p>]]></dc:description>
       <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/211575</dc:identifier>
