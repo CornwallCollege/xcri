@@ -1381,58 +1381,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>The chef or restaurateur, who is looking for ways to introduce some new ideas and techniques into their menus, or for the keen amateur who has some good practical knowledge.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214287</dc:identifier>
-      <dc:subject>Molecular, gastronomy, cookery, hospitality, catering</dc:subject>
-      <dc:title>Molecular Gastronomy </dc:title>
-      <dc:type xsi:type=":Type" identifier="SH">Other Short Courses (Less Than 30 GLH)</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214287</mlo:url>
-      <learningOutcome><![CDATA[<p>You could enrol on a level 3 long or short course to develop these skills further.</p>]]></learningOutcome>
-      <mlo:prerequisite><![CDATA[<p>No formal qualifications are needed , but some experience of a professional kitchen would be helpful.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>Z0002101</dc:identifier>
-        <abbr>SH</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16ARCSHMGS2</dc:identifier>
-        <dc:title>Molecular Gastronomy </dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16ARCSHMGS2</mlo:url>
-        <mlo:start dtf="2017-04-03">04 April 2017</mlo:start>
-        <end dtf="2017-04-03">04 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>Those who are not currently working in catering/manufacturing are able to create a scenario suitable for the controlled assignment.</p><p>All resources and examination included.</p><p>You will attend the traing for one day a week for seven weeks with the exam being held on the seventh week.</p><p>Contact us for more information.</p>]]></dc:description>
       <dc:description><![CDATA[<p>Managers, supervisors and senior hygiene personnel such as:</p>
 <ul>
