@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-04-06T16:05:01Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-04-07T09:05:09Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -29702,53 +29702,6 @@ Cornwall</mlo:address>
 </dc:description>
           </CE:cost>
         </Costs>
-      </presentation>
-    </course>
-    <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214814</dc:identifier>
-      <dc:subject>leadership, management, CMI, team skills, cmi, future skills, management programme,</dc:subject>
-      <dc:title>Management and Leadership CMI Award Level 4 </dc:title>
-      <dc:type xsi:type=":Type" identifier="W4">Award Level 4</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214814</mlo:url>
-      <learningOutcome><![CDATA[<p>On successful completion of a Level 4 qualification in Management and Leadership, a number of progression opportunities become available:   </p><ul><li>Enhance your professional status by upgrading your CMI membership   </li><li>Progress to other qualifications at the same level (e.g. from Level 4 Award to Level 4 Certificate etc.)   </li><li>Progress to other qualifications at the next level (e.g. from Level 4 Certificate to Level 5 or 6 Certificate)   </li><li>Apply to become a Chartered Manager</li></ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<ul><li>Managing stakeholder expectations   </li><li>Understanding team dynamics   </li><li>Management report writing   </li><li>Introducing organisational culture, values and behaviour   </li><li>Being a leader</li></ul>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>60094503</dc:identifier>
-        <abbr>W4</abbr>
-        <dcterms:educationLevel>4</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW4RM43</dc:identifier>
-        <dc:title>Management and Leadership QCF Award Level 4</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW4RM43</mlo:url>
-        <mlo:start dtf="2017-03-24">24 March 2017</mlo:start>
-        <end dtf="2017-04-06">07 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>UNK</attendanceMode>
-        <attendancePattern>UNK</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Launceston</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL15 9JH</mlo:postcode>
-              <mlo:address>Dunheved House
-Dunheved Road
-Launceston</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
       </presentation>
     </course>
     <course>

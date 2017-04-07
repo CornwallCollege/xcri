@@ -29705,53 +29705,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214814</dc:identifier>
-      <dc:subject>leadership, management, CMI, team skills, cmi, future skills, management programme,</dc:subject>
-      <dc:title>Management and Leadership CMI Award Level 4 </dc:title>
-      <dc:type xsi:type=":Type" identifier="W4">Award Level 4</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214814</mlo:url>
-      <learningOutcome><![CDATA[<p>On successful completion of a Level 4 qualification in Management and Leadership, a number of progression opportunities become available:   </p><ul><li>Enhance your professional status by upgrading your CMI membership   </li><li>Progress to other qualifications at the same level (e.g. from Level 4 Award to Level 4 Certificate etc.)   </li><li>Progress to other qualifications at the next level (e.g. from Level 4 Certificate to Level 5 or 6 Certificate)   </li><li>Apply to become a Chartered Manager</li></ul>]]></learningOutcome>
-      <mlo:objective><![CDATA[<ul><li>Managing stakeholder expectations   </li><li>Understanding team dynamics   </li><li>Management report writing   </li><li>Introducing organisational culture, values and behaviour   </li><li>Being a leader</li></ul>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>60094503</dc:identifier>
-        <abbr>W4</abbr>
-        <dcterms:educationLevel>4</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16BPMW4RM43</dc:identifier>
-        <dc:title>Management and Leadership QCF Award Level 4</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16BPMW4RM43</mlo:url>
-        <mlo:start dtf="2017-03-24">24 March 2017</mlo:start>
-        <end dtf="2017-04-06">07 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Business Hub</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>UNK</attendanceMode>
-        <attendancePattern>UNK</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>The Business Space - Launceston</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL15 9JH</mlo:postcode>
-              <mlo:address>Dunheved House
-Dunheved Road
-Launceston</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/214811</dc:identifier>
       <dc:subject>First Line Management, management, management skills, CMI, cmi, future skills</dc:subject>
       <dc:title>First Line Management QCF Award Level 3</dc:title>
