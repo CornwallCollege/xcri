@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-04-16T16:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-04-17T09:05:01Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -6421,55 +6421,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care Sector. this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p><p></p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215776</dc:identifier>
-      <dc:title>Understanding How to Work in End of Life Care Taster</dc:title>
-      <dc:type xsi:type=":Type" identifier="TA">Taster Course</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215776</mlo:url>
-      <learningOutcome><![CDATA[<p>Opportunities for progression onto a wide range of formal qualifications offered by Cornwall College within the Health and Social Care subject area.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course will give you some understanding of what to expect when working in end of life care including :-</p><ul><li>Different perspectives on death and dying</li><li>Aims, principles and policies on end of life</li><li>Factors regarding communication in end of life care</li><li>How to access the range of support services available to individuals and others</li></ul><p></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no entry requirements, just an interest in the subject whether from a professional or personal viewpoint .</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>Z0001781</dc:identifier>
-        <abbr>TA</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CHZTA1ELC</dc:identifier>
-        <dc:title>Understanding How to Work in End of Life Care Taster</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CHZTA1ELC</mlo:url>
-        <mlo:start dtf="2017-04-16">17 April 2017</mlo:start>
-        <end dtf="2017-04-16">17 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care Sector, this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215786</dc:identifier>
       <dc:title>Principles of Infection Prevention and Control Taster</dc:title>
@@ -7938,45 +7889,6 @@ Cornwall</mlo:address>
         <abbr>W2</abbr>
         <dcterms:educationLevel>2</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL5</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Personal Licence Holders Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCW22PL5</mlo:url>
-        <mlo:start dtf="2017-04-16">17 April 2017</mlo:start>
-        <end dtf="2017-04-16">17 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL6</dc:identifier>
