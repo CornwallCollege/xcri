@@ -719,74 +719,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<div>
-<p>Impress  family and friends by learning how to create your own floral fun designs. Learn fun contemporary designs and have a<span> chance to design flowers for a special occasion.</span></p>
-</div>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<div>
-<p>Cornwall College offers a wide range of floral art courses at Camborne , St Austell and Saltash sites.  Experienced tutors with a creative flair and knowledge to share with you.</p>
-</div>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/214912</dc:identifier>
-      <dc:subject>floristry, florist, flowers, flower, flower arranging</dc:subject>
-      <dc:subject xsi:type=":Subject">Creative artsFloristry</dc:subject>
-      <dc:title>Floral Art (JM)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/214912</mlo:url>
-      <abstract>learn how to create your own floral fun designs</abstract>
-      <learningOutcome><![CDATA[<div>
-<p>You could enrol on another of our great flower arranging courses or progress onto level 2 Floristry  C&G NPTC run at Duchy Rosewarne </p>
-</div>]]></learningOutcome>
-      <mlo:objective><![CDATA[<div>
-<p>Learn how to create your own floral fun, contemporary designs. </p>
-</div>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001737</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16AKZREM216</dc:identifier>
-        <dc:subject>Creative artsFloristry</dc:subject>
-        <dc:title>Wall Designs with Flowers</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16AKZREM216</mlo:url>
-        <mlo:start dtf="2017-04-21">22 April 2017</mlo:start>
-        <end dtf="2017-04-21">22 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College St Austell</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College St Austell</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL25 4DJ</mlo:postcode>
-              <mlo:address>Tregonissey Road
-St Austell
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description xsi:type=":teachingStrategy"><![CDATA[<p>The intermediate level course deals with Progression from beginners course and develops the basic cake decorating and design skills, introduced on the previous course </p>]]></dc:description>
       <dc:description><![CDATA[<div>We offer a great programme of cake decorating to suit all requirements .  The Basic Cake Decorating  course is suitable for anyone who wants to learn how to use basic  skills and improve on current knowledge.  We offer a 10 week programme to cover the introductory skills and will follow up with another 10 week programme learning  more advanced techniques.   We will also be offering Saturday masterclasses and workshops for specific cupcake designs and special occasions.  These workshops deliver skills and techniques to create individual masterpieces to impress family and friends.</div>
 <div>
@@ -27429,48 +27361,6 @@ Cornwall
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLRESPI2</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Spanish - Holiday Conversation (E) Improvers Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZLRESPI2</mlo:url>
-        <mlo:start dtf="2017-04-21">22 April 2017</mlo:start>
-        <end dtf="2017-04-21">22 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLRESPI3</dc:identifier>
         <dc:subject>Cornwall College</dc:subject>
         <dc:title>Spanish - Holiday Conversation (E) Improvers Workshop</dc:title>
@@ -29513,6 +29403,78 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
+      <dc:description><![CDATA[<p>Sewing and Craft Workshops on Saturdays from 9.30am to 3.30pm at Cornwall College Camborne.</p>
+<p>Fee £35.00 per workshop.</p>
+<p>Please choose from our course options:-</p>
+<ul>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Skirts Workshop             Saturday </span><span style="font-size: medium;">21st of January 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Tops Workshop              Saturday </span><span style="font-size: medium;">25th of February 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Trousers Workshop       Saturday </span><span style="font-size: medium;">18th of March 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Vintage Style Apron Workshop              Saturday </span><span style="font-size: medium;">22nd of April 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Up-cycling Textiles Day Workshop        Saturday </span><span style="font-size: medium;">6th of May 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Applique Picture Panel Workshop         Saturday </span><span style="font-size: medium;">10th of June 2017</span></span></li>
+<li><span style="font-family: Calibri;"><span style="font-size: medium;">Tote Bags Workshop                                Saturday 24th of June 2017</span></span></li>
+</ul>
+<p> <strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri;"><span style="font-size: medium;"> </span></span></p>]]></dc:description>
+      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
+      <dc:identifier>http://www.cornwall.ac.uk/online/course/216245</dc:identifier>
+      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
+      <dc:title>Sewing &amp; Craft Saturday Workshops (W)</dc:title>
+      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
+      <mlo:url>http://www.cornwall.ac.uk/course/216245</mlo:url>
+      <abstract>A variety of sewing and craft workshops on offer..............</abstract>
+      <learningOutcome><![CDATA[<p>Book yourself on to one of the other Sewing & Craft Saturdat workshops or our Monday evening Patchwork, Quilting or Applique classes.</p>]]></learningOutcome>
+      <mlo:objective><![CDATA[<p><span style="font-family: Calibri;"><span style="font-size: medium;">Each workshop covers a different sewing craft and it is up to you which ones you do.  But at the end of  each workshop you should end up with a finished item to take home.</span></span></p>]]></mlo:objective>
+      <mlo:qualification>
+        <dc:identifier>Z0001755</dc:identifier>
+        <abbr>RE</abbr>
+        <dcterms:educationLevel>X</dcterms:educationLevel>
+      </mlo:qualification>
+      <presentation>
+        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
+        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D20</dc:identifier>
+        <dc:subject>Cornwall College</dc:subject>
+        <dc:title>Easy Sew Trousers, Shorts or Skirts Workshop</dc:title>
+        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D20</mlo:url>
+        <mlo:start dtf="2017-11-12">12 November 2017</mlo:start>
+        <end dtf="2017-11-12">12 November 2017</end>
+        <career xmlns="https://cornwall.ac.uk/career"/>
+        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
+        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
+        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
+          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
+            <dc:description>For information on fee payment options please contact our Enquiries Team.
+</dc:description>
+            <CE:FundingCriteria>
+              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
+            </CE:FundingCriteria>
+          </CE:cost>
+        </Costs>
+        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
+          <CD:sector type="Leisure">Leisure</CD:sector>
+        </sectors>
+        <studyMode identifier="PT">Part Time</studyMode>
+        <attendanceMode>CM</attendanceMode>
+        <attendancePattern>DT</attendancePattern>
+        <age>19+</age>
+        <venue>
+          <provider>
+            <dc:title>Cornwall College Camborne</dc:title>
+            <mlo:location>
+              <mlo:postcode>TR15 3RD</mlo:postcode>
+              <mlo:address>Trevenson Campus
+Pool
+Redruth
+Cornwall</mlo:address>
+              <mlo:phone>0845 2232567</mlo:phone>
+              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
+            </mlo:location>
+          </provider>
+        </venue>
+      </presentation>
+    </course>
+    <course>
       <dc:description><![CDATA[<p>Saturday workshop from 9.30am to 3.30pm - course fee £35.00</p>
 <p>Saturday the 15th of October 2016</p>
 <p>Saturday the 18th of March 2017</p>
@@ -29676,120 +29638,6 @@ Cornwall</mlo:address>
           </CE:cost>
         </Costs>
         <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Sewing and Craft Workshops on Saturdays from 9.30am to 3.30pm at Cornwall College Camborne.</p>
-<p>Fee £35.00 per workshop.</p>
-<p>Please choose from our course options:-</p>
-<ul>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Skirts Workshop             Saturday </span><span style="font-size: medium;">21st of January 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Tops Workshop              Saturday </span><span style="font-size: medium;">25th of February 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Dressmaking - Trousers Workshop       Saturday </span><span style="font-size: medium;">18th of March 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Vintage Style Apron Workshop              Saturday </span><span style="font-size: medium;">22nd of April 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Up-cycling Textiles Day Workshop        Saturday </span><span style="font-size: medium;">6th of May 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Applique Picture Panel Workshop         Saturday </span><span style="font-size: medium;">10th of June 2017</span></span></li>
-<li><span style="font-family: Calibri;"><span style="font-size: medium;">Tote Bags Workshop                                Saturday 24th of June 2017</span></span></li>
-</ul>
-<p> <strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
-<p style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri;"><span style="font-size: medium;"> </span></span></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216245</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Sewing &amp; Craft Saturday Workshops (W)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216245</mlo:url>
-      <abstract>A variety of sewing and craft workshops on offer..............</abstract>
-      <learningOutcome><![CDATA[<p>Book yourself on to one of the other Sewing & Craft Saturdat workshops or our Monday evening Patchwork, Quilting or Applique classes.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p><span style="font-family: Calibri;"><span style="font-size: medium;">Each workshop covers a different sewing craft and it is up to you which ones you do.  But at the end of  each workshop you should end up with a finished item to take home.</span></span></p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D20</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Easy Sew Trousers, Shorts or Skirts Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D20</mlo:url>
-        <mlo:start dtf="2017-11-12">12 November 2017</mlo:start>
-        <end dtf="2017-11-12">12 November 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D24</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Vintage Style Apron Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D24</mlo:url>
-        <mlo:start dtf="2017-04-21">22 April 2017</mlo:start>
-        <end dtf="2017-04-21">22 April 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
