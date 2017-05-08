@@ -6035,55 +6035,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care sector, this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215783</dc:identifier>
-      <dc:title>Dementia Awareness Taster</dc:title>
-      <dc:type xsi:type=":Type" identifier="TA">Taster Course</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215783</mlo:url>
-      <learningOutcome><![CDATA[<p>Opportunities for progression onto a wide range of formal qualifications offered by Cornwall College within the Health and Social Care subject area.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course will give you some understanding of what dementia is including :-<span><em> </em></span></p><ul><li><p>What is dementia</p></li><li><p>Key features of the theoretical models of dementia</p></li><li><p>The most common types of dementia and their causes</p></li><li><p>Factors relating to an individual’s experience of dementia</p></li></ul><p><span><em><span> </span><br /></em></span></p><p></p><p></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no entry requirements, just an interest in the subject whether from a professional or personal viewpoint.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>Z0001781</dc:identifier>
-        <abbr>TA</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CHZTA1DAW</dc:identifier>
-        <dc:title>Dementia Awareness Taster</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CHZTA1DAW</mlo:url>
-        <mlo:start dtf="2017-05-07">08 May 2017</mlo:start>
-        <end dtf="2017-05-07">08 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care Sector, this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215786</dc:identifier>
       <dc:title>Principles of Infection Prevention and Control Taster</dc:title>
