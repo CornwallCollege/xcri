@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-05-12T16:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-05-13T09:05:29Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -3825,72 +3825,6 @@ Cornwall</mlo:address>
         <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S58</mlo:url>
         <mlo:start dtf="2017-06-09">10 June 2017</mlo:start>
         <end dtf="2017-06-09">10 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Puzzled by the huge range of artist's colours? This one-day Colour Mixing Workshop for Beginners explains which are the must-haves and which are the ones you can do without, and how to get the most out of this basic range in terms of mixing them.</p>
-<p>Saturdays from 10.00am to 3.30pm.</p>
-<p>Saturday 11th of March 2017</p>
-<p>Saturday 13th of May 2017</p>
-<p>Fee per workshop - £33.00</p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"> </span></strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215605</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Colour Mixing Workshop (JP)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215605</mlo:url>
-      <abstract>Learn how to get the most out of a basic range of paint colours</abstract>
-      <learningOutcome><![CDATA[<p>You can do one of our other recreational workshops or courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Understanding  how to use paint involves knowing a certain amount of colour theory, so hand in hand with using the materials, you'll be finding out about primary and secondary colours, complementary, tonal values, neutrals and tints, and discovering how the theories behave with the actual stuff!</p>
-<p>The workshop is designed for painters in either oils or acrylics.  For reasons of drying times, acrylics are an easier option for the day, and quality artist's acrylics will be supplied, but everything you learn on the course will apply equally to oils.  Please bring overalls, paint-rags, some brushes, and a palette and palette knife for mixing, if you have them.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1S97</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Colour Mixing Workshop for Beginners</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1S97</mlo:url>
-        <mlo:start dtf="2017-05-12">13 May 2017</mlo:start>
-        <end dtf="2017-05-12">13 May 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
@@ -26809,107 +26743,6 @@ Cornwall
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p>This is an enjoyable course for those who are going off on holiday to Spain or Latin America and wish to be able to communicate with the local people.</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[214378,214379]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215501</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Spanish - Holiday Conversation (JE)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215501</mlo:url>
-      <abstract>This is an enjoyable course for those who are going off on holiday and wish to be able to communicate with the local people. </abstract>
-      <learningOutcome><![CDATA[<p>You could take it further and enrol onto either our Spanish Beginners or Intermediate courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>On this course you will learn practical vocabulary and basic language structures to help you in a holiday setting.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001767</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLRESPB3</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Spanish - Holiday Conversation (E) Beginners Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZLRESPB3</mlo:url>
-        <mlo:start dtf="2017-05-12">13 May 2017</mlo:start>
-        <end dtf="2017-05-12">13 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZLRESPI3</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Spanish - Holiday Conversation (E) Improvers Workshop</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZLRESPI3</mlo:url>
-        <mlo:start dtf="2017-05-12">13 May 2017</mlo:start>
-        <end dtf="2017-05-12">13 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215506</dc:identifier>
       <dc:title>Learning Guitar (E)</dc:title>
       <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
@@ -28227,69 +28060,6 @@ Cornwall</mlo:address>
       </presentation>
     </course>
     <course>
-      <dc:description><![CDATA[<p><strong>Make a Silver Ring in a day Workshop</strong></p>
-<p>Course fee - £45.00 (all materials provided)</p>
-<p>Saturday the 27th of February 2016</p>
-<p>Saturday the 16th of April 2016</p>
-<p>10.00am to 4.00pm</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[214936,214942]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/216594</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Make a Silver Ring in a day</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/216594</mlo:url>
-      <abstract>During these one day jewellery workshops you will leave with a finish item.</abstract>
-      <learningOutcome><![CDATA[<p>After these workshops you could try one of our 10 week jewellery making courses.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>During these one day workshops you are guaranteed to leave with a finished silver ring to wear yourself or give to someone as a gift.  Throughout the day you will learn basic jewellery techniques, such as piercing (sawing), soldering, texturing, sizing, filing and polishing.  We will be adding textures/patterns by using materials such as, lace, netting, feather, leaves, wallpaper etc. Please bring along of these with you if you have something in particular you would like to try.  You will all be given a suggested list of items to buy for your own jewellery tool kit so that you can continue to create beautiful silver jewellery from home.    This class is a great introduction to working with silver and can be followed by our Jewellery Making Beginners course.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1C97</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Make a Silver Ring in a day</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1C97</mlo:url>
-        <mlo:start dtf="2017-05-12">13 May 2017</mlo:start>
-        <end dtf="2017-05-12">13 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
       <dc:description><![CDATA[<p style="margin: 0cm 0cm 10pt;"><strong><span style="font-family: Calibri; font-size: medium;">Make a Silver Pendant in a day Workshop</span></strong></p>
 <p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Course fee - £45.00 (all materials provided)</span></p>
 <p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size: medium;">Saturday the 12th of March 2016</span></p>
@@ -28706,71 +28476,6 @@ Truro</mlo:address>
 City Road
 Truro</mlo:address>
               <mlo:phone>0800 731 7594 </mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Watercolour Painting Workshops at Cornwall College Camborne on Saturdays from 9.30am to 3.30pm.</p>
-<p>Fee per workshop - £35.00</p>
-<p>Beauty of Trees - Saturday 08.10.16</p>
-<p>Seascapes - Saturday 04.02.17</p>
-<p>Local Cornish Landscapes - Saturday 13.05.17</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215603</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Watercolour Painting Workshops</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215603</mlo:url>
-      <abstract>Try your hand at painting Trees, Seascapes or Cornish Landscapes</abstract>
-      <learningOutcome><![CDATA[<p>After the workshop you can enrol on to any of the other recreational workshop or course that we offer.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Enjoy a day of relaxed painting trying your hand at painting Trees, Seascapes or Cornish Landscapes.</p>
-<p>Please bring basic watercolour painting equipment with you.</p>
-<p> </p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001755</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1A89</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Watercolour Painting Workshop - Local Cornish Lanscapes</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1A89</mlo:url>
-        <mlo:start dtf="2017-05-12">13 May 2017</mlo:start>
-        <end dtf="2017-05-12">13 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
               <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
             </mlo:location>
           </provider>
