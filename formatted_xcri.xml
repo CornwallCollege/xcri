@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-05-14T16:05:02Z">
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos" xmlns:xcri12terms="http://xcri.org/profiles/1.2/catalog/terms" xmlns:ukrlp="http://www.ukrlp.co.uk" xmlns:mlo="http://purl.org/net/mlo" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:CD="http://xcri.co.uk/courseData" xmlns:CE="http://xcri.co.uk/CostsExtension" xmlns="http://xcri.org/profiles/1.2/catalog" xsi:schemaLocation="http://www.w3.org/2003/01/geo/wgs84_pos http://www.craighawker.co.uk/xcri/validation/xsds/geo.xsd http://xcri.org/profiles/1.2/catalog http://www.xcri.co.uk/bindings/xcri_cap_1_2.xsd http://xcri.org/profiles/1.2/catalog/terms http://www.xcri.co.uk/bindings/xcri_cap_terms_1_2.xsd http://www.ukrlp.co.uk http://www.craighawker.co.uk/xcri/validation/xsds/xcri1.2/ukprn.xsd http://xcri.co.uk/courseData https://core.cornwall.ac.uk/xcri/coursedata.xsd http://xcri.co.uk/CostsExtension https://core.cornwall.ac.uk/xcri/PresentationCostsExtension.xsd" generated="2017-05-15T09:05:02Z">
   <dc:description>Catalogue of courses offered by Cornwall College Group.  Updated daily. Licence: Open Government Licence (OGL), v1.0</dc:description>
   <provider>
     <dc:description><![CDATA[The Cornwall College Group is committed to enriching the lives and creating new opportunities for all members of the Cornish community. This is reflected in our mission statement: “To provide learners with a high quality experience, celebrated through vocational and academic achievement, personal development and employability.]]></dc:description>
@@ -5921,55 +5921,6 @@ Cornwall</mlo:address>
     </course>
     <course>
       <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care Sector, this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215784</dc:identifier>
-      <dc:title>Contribute to Health and Safety in Health and Social Care Taster</dc:title>
-      <dc:type xsi:type=":Type" identifier="TA">Taster Course</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215784</mlo:url>
-      <learningOutcome><![CDATA[<p>Opportunities for progression onto a wide range of formal qualifications offered by Cornwall College within the Health and Social Care subject area.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>This course will give you some understanding of the knowledge and skills required to carry out work safely including :-</p><ul><li> Own responsibilities, and the responsibilities of others, relating to health and safety in health and social care</li><li><p>The use of risk assessments in relation to health and safety in health and social care</p></li><li><p>Procedures for responding to accidents and sudden illness</p></li><li><p>How to reduce the spread of infection</p></li><li><p>How to move and handle equipment and other objects safety</p></li><li><p>How to handle hazardous substances and materials</p></li><li><p>How to promote fire safety in the work setting</p></li><li><p>How to manage own stress</p></li></ul><p><span> </span></p>]]></mlo:objective>
-      <mlo:prerequisite><![CDATA[<p>There are no entry requirements, just an interest in the subject whether from a professional or personal viewpoint.</p>]]></mlo:prerequisite>
-      <mlo:qualification>
-        <dc:identifier>Z0001781</dc:identifier>
-        <abbr>TA</abbr>
-        <dcterms:educationLevel>1</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CHZTA1CHS</dc:identifier>
-        <dc:title>Contribute to Health and Safety in Health and Social Care Taster</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CHZTA1CHS</mlo:url>
-        <mlo:start dtf="2017-05-14">15 May 2017</mlo:start>
-        <end dtf="2017-05-14">15 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>For anyone already working or volunteering in the Health and Social Care Sector, this course will count towards Continuing Professional Development hours.</p><p>It is also suitable for anyone looking to start work in the care sector, or to progress to a formal Health and Social Care qualification.</p>]]></dc:description>
       <dc:identifier>http://www.cornwall.ac.uk/online/course/215786</dc:identifier>
       <dc:title>Principles of Infection Prevention and Control Taster</dc:title>
       <dc:type xsi:type=":Type" identifier="TA">Taster Course</dc:type>
@@ -7388,45 +7339,6 @@ Cornwall</mlo:address>
         <abbr>W2</abbr>
         <dcterms:educationLevel>2</dcterms:educationLevel>
       </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Qualification</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL6</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Personal Licence Holders Award Level 2</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CRCW22PL6</mlo:url>
-        <mlo:start dtf="2017-05-14">15 May 2017</mlo:start>
-        <end dtf="2017-05-14">15 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Camborne</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Adult">Adult</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
       <presentation>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CRCW22PL7</dc:identifier>
         <dc:subject>Catering &amp; Hospitality</dc:subject>
@@ -26088,48 +26000,6 @@ Cornwall
       </presentation>
       <presentation>
         <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZAREDPW7</dc:identifier>
-        <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
-        <dc:title>Digital Photography (E) Improving your Portraits</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZAREDPW7</mlo:url>
-        <mlo:start dtf="2017-05-14">15 May 2017</mlo:start>
-        <end dtf="2017-05-14">15 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FT">Full Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
         <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZAREDPW8</dc:identifier>
         <dc:subject>Arts, Media &amp; Performing Arts</dc:subject>
         <dc:title>Digital Photography (E) Intro to Still Life Photography</dc:title>
@@ -26378,67 +26248,6 @@ Cornwall
         <mlo:url>http://www.cornwall.ac.uk/presentation/16YZARETSGC</mlo:url>
         <mlo:start dtf="2017-04-10">11 April 2017</mlo:start>
         <end dtf="2017-06-19">20 June 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="FullFee" amount="TBC" category="Recreational Full Fee">
-            <dc:description>For information on fee payment options please contact our Enquiries Team.
-</dc:description>
-            <CE:FundingCriteria>
-              <CE:criteria>You must be aged 16 or over on the 31st August in the academic year that the course starts.</CE:criteria>
-            </CE:FundingCriteria>
-          </CE:cost>
-        </Costs>
-        <sectors xmlns="https://cornwall.ac.uk/xcriSectors">
-          <CD:sector type="Leisure">Leisure</CD:sector>
-        </sectors>
-        <studyMode identifier="FL">Flexible</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Saltash</dc:title>
-            <mlo:location>
-              <mlo:postcode>PL12 4AE</mlo:postcode>
-              <mlo:address>Church Road
-Saltash
-Cornwall
-</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>A series of one day courses for those keen cooks who wish to develop more exciting dishes from varying cusines from aroudn th world.  Try Indian, Mexican , Italian or suggest a course to us!</p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:description xsi:type=":structure"><![CDATA[<p>Our tutors at Cornwall College Saltash and St Austell ahve devised a series of one day workshops to share their favourtie recipes using ingredients, techniques  and spices from all over the world.</p>]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/215496</dc:identifier>
-      <dc:subject> cookery, cooking, baking, culture, curry, thai, spice, mexican, tapas, food, meals, italian , cook , recipes , </dc:subject>
-      <dc:subject xsi:type=":Subject">Catering &amp; Hospitality</dc:subject>
-      <dc:title>Cookery from Around the World (JE)</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/215496</mlo:url>
-      <abstract>Range of workshops showcasing world cusines, Mexican, indian , Thai , Chinese , Cornish, Cornwall College St Austell </abstract>
-      <learningOutcome><![CDATA[<p>Choose from another of our one day cookery workshops</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Please see individual courses for more detail</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z0001751</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:description xsi:type="CD:courseCategory">Part-Time Leisure</dc:description>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16YZCREMCWA</dc:identifier>
-        <dc:subject>Catering &amp; Hospitality</dc:subject>
-        <dc:title>Mexican Cookery</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16YZCREMCWA</mlo:url>
-        <mlo:start dtf="2017-04-09">10 April 2017</mlo:start>
-        <end dtf="2017-05-14">15 May 2017</end>
         <career xmlns="https://cornwall.ac.uk/career"/>
         <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
         <campus xmlns="https://cornwall.ac.uk/campus">Cornwall College Saltash</campus>
@@ -28730,79 +28539,6 @@ Cornwall</mlo:address>
           <CD:sector type="Leisure">Leisure</CD:sector>
         </sectors>
         <studyMode identifier="PT">Part Time</studyMode>
-        <attendanceMode>CM</attendanceMode>
-        <attendancePattern>DT</attendancePattern>
-        <age>19+</age>
-        <venue>
-          <provider>
-            <dc:title>Cornwall College Camborne</dc:title>
-            <mlo:location>
-              <mlo:postcode>TR15 3RD</mlo:postcode>
-              <mlo:address>Trevenson Campus
-Pool
-Redruth
-Cornwall</mlo:address>
-              <mlo:phone>0845 2232567</mlo:phone>
-              <mlo:email>enquiries@cornwall.ac.uk</mlo:email>
-            </mlo:location>
-          </provider>
-        </venue>
-      </presentation>
-    </course>
-    <course>
-      <dc:description><![CDATA[<p>Monday evenings from 6.30pm to 8.30pm - Fee £12.00 per class</p>
-<ul>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Shabby Chic Applique Class - Monday 8th of May 2017</span></div>
-</li>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Broderie Perse Applique Class - Monday 15th of May 2017</span></div>
-</li>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Bondaweb & Interfacing Applique Class - Monday 22nd of May 2017</span></div>
-</li>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Reverse Applique Class - Monday 12th of June 2017</span></div>
-</li>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Hawaiian Applique Class - Monday 19th of June 2017</span></div>
-</li>
-<li>
-<div style="margin: 0cm 0cm 0pt;"><span style="font-family: Calibri; font-size: medium;">Overlay Applique Class - Monday 26th of June 2017</span></div>
-</li>
-</ul>
-<p style="margin: 0cm 0cm 0pt;"><strong><span style="color: black; font-family: 'Source Sans Pro','serif'; font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;">Please ring 0845 22 32 567 or 01209 611622 to book your place on the course.</span></strong></p>]]></dc:description>
-      <dc:description xsi:type=":leadsTo"><![CDATA[[]]]></dc:description>
-      <dc:identifier>http://www.cornwall.ac.uk/online/course/103840</dc:identifier>
-      <dc:subject xsi:type=":Subject">Cornwall College</dc:subject>
-      <dc:title>Applique</dc:title>
-      <dc:type xsi:type=":Type" identifier="RE">Recreational Courses</dc:type>
-      <mlo:url>http://www.cornwall.ac.uk/course/103840</mlo:url>
-      <abstract>Various types of Applique classes for you to try.</abstract>
-      <learningOutcome><![CDATA[<p>You could try one of our Quilting or Patchwork classes or one of our Saturday Sewing Workshops.</p>]]></learningOutcome>
-      <mlo:objective><![CDATA[<p>Each class covers a different type of applique and it is up to you how many you decide to do.  You will be taught the basics at the class and will make a good start on a item that you will then be able to finish in your own time.</p>]]></mlo:objective>
-      <mlo:qualification>
-        <dc:identifier>Z9OAC092</dc:identifier>
-        <abbr>RE</abbr>
-        <dcterms:educationLevel>X</dcterms:educationLevel>
-      </mlo:qualification>
-      <presentation>
-        <dc:identifier>http://www.cornwall.ac.uk/online/offering/16CECRE1D14</dc:identifier>
-        <dc:subject>Cornwall College</dc:subject>
-        <dc:title>Broderie Perse Applique Class</dc:title>
-        <mlo:url>http://www.cornwall.ac.uk/presentation/16CECRE1D14</mlo:url>
-        <mlo:start dtf="2017-05-14">15 May 2017</mlo:start>
-        <end dtf="2017-05-14">15 May 2017</end>
-        <career xmlns="https://cornwall.ac.uk/career"/>
-        <brand xmlns="https://cornwall.ac.uk/brand">Cornwall College</brand>
-        <campus xmlns="https://cornwall.ac.uk/campus">Misunderstood Campus Code JP</campus>
-        <Costs xmlns="https://cornwall.ac.uk/xcriCosts">
-          <CE:cost type="NoData" amount="TBC">
-            <dc:description>Please call our Enquiries Team for more details on this course.
-</dc:description>
-          </CE:cost>
-        </Costs>
-        <studyMode identifier="FL">Flexible</studyMode>
         <attendanceMode>CM</attendanceMode>
         <attendancePattern>DT</attendancePattern>
         <age>19+</age>
